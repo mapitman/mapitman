@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
@@ -37,12 +37,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Northwest Railway Museum](https://github.com/NerdyDayTrips/website/pull/1699) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
-- [Add Seattle Pinball Museum](https://github.com/NerdyDayTrips/website/pull/1698) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [Add Northwest Railway Museum](https://github.com/NerdyDayTrips/website/pull/1699) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
+- [Add Seattle Pinball Museum](https://github.com/NerdyDayTrips/website/pull/1698) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
 - [Clean up repository issues](https://github.com/mapitman/linux-bootstrap/pull/6) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Add automated testing infrastructure for Ubuntu bootstrap](https://github.com/mapitman/linux-bootstrap/pull/5) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Update the ubuntu bootstrap process](https://github.com/mapitman/linux-bootstrap/pull/4) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
-- [Add Fedora RPM packaging support and improve CI workflows](https://github.com/mapitman/mdview/pull/43) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 week ago)
+- [Add Fedora RPM packaging support and improve CI workflows](https://github.com/mapitman/mdview/pull/43) on [mapitman/mdview](https://github.com/mapitman/mdview) (2 weeks ago)
 - [Update PHP version](https://github.com/gettyimages/gettyimages-api_php/pull/34) on [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) (1 month ago)
 - [Update readme](https://github.com/mapitman/linux-bootstrap/pull/3) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [Add git-extras and shellcheck to Fedora packages](https://github.com/mapitman/linux-bootstrap/pull/2) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
