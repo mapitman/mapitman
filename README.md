@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix JetBrains Toolbox install](https://github.com/mapitman/linux-bootstrap/pull/8) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Add Northwest Railway Museum](https://github.com/NerdyDayTrips/website/pull/1699) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 week ago)
 - [Add Seattle Pinball Museum](https://github.com/NerdyDayTrips/website/pull/1698) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 week ago)
 - [Clean up repository issues](https://github.com/mapitman/linux-bootstrap/pull/6) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
@@ -46,7 +47,6 @@
 - [Update PHP version](https://github.com/gettyimages/gettyimages-api_php/pull/34) on [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) (1 month ago)
 - [Update readme](https://github.com/mapitman/linux-bootstrap/pull/3) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [Add git-extras and shellcheck to Fedora packages](https://github.com/mapitman/linux-bootstrap/pull/2) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
-- [Allow passing in a token](https://github.com/gettyimages/gettyimages-api_nodejs/pull/71) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 months ago)
 
 #### 📜 My recent blog posts
 
