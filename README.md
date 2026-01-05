@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add script to install Catppuccin theme for tmux](https://github.com/mapitman/linux-bootstrap/pull/10) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Fix JetBrains Toolbox install](https://github.com/mapitman/linux-bootstrap/pull/8) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 - [Add Northwest Railway Museum](https://github.com/NerdyDayTrips/website/pull/1699) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 week ago)
 - [Add Seattle Pinball Museum](https://github.com/NerdyDayTrips/website/pull/1698) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 week ago)
@@ -46,7 +47,6 @@
 - [Add Fedora RPM packaging support and improve CI workflows](https://github.com/mapitman/mdview/pull/43) on [mapitman/mdview](https://github.com/mapitman/mdview) (3 weeks ago)
 - [Update PHP version](https://github.com/gettyimages/gettyimages-api_php/pull/34) on [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) (1 month ago)
 - [Update readme](https://github.com/mapitman/linux-bootstrap/pull/3) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
-- [Add git-extras and shellcheck to Fedora packages](https://github.com/mapitman/linux-bootstrap/pull/2) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 
 #### 📜 My recent blog posts
 
