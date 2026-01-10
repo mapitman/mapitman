@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (today)
+- [mapitman/media-encoding](https://github.com/mapitman/media-encoding) - Tools and scripts for ripping, encoding and organizing media files (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (6 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
@@ -11,10 +12,10 @@
 - [gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby) - Getty Images API SDK for Ruby (5 months ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (6 months ago)
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙 (7 months ago)
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
 
 #### 🌱 My latest projects
 
+- [mapitman/media-encoding](https://github.com/mapitman/media-encoding) - Tools and scripts for ripping, encoding and organizing media files
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
@@ -24,7 +25,6 @@
 - [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging.
 - [mapitman/pitempd](https://github.com/mapitman/pitempd) - Temperature daemon using the DHT22 sensor
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Convert to .NET](https://github.com/mapitman/media-encoding/pull/2) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
 - [Add script to install Catppuccin theme for tmux](https://github.com/mapitman/linux-bootstrap/pull/10) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (5 days ago)
 - [Fix JetBrains Toolbox install](https://github.com/mapitman/linux-bootstrap/pull/8) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [Add Northwest Railway Museum](https://github.com/NerdyDayTrips/website/pull/1699) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 weeks ago)
@@ -46,7 +47,6 @@
 - [Update the ubuntu bootstrap process](https://github.com/mapitman/linux-bootstrap/pull/4) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 weeks ago)
 - [Add Fedora RPM packaging support and improve CI workflows](https://github.com/mapitman/mdview/pull/43) on [mapitman/mdview](https://github.com/mapitman/mdview) (3 weeks ago)
 - [Update PHP version](https://github.com/gettyimages/gettyimages-api_php/pull/34) on [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) (1 month ago)
-- [Update readme](https://github.com/mapitman/linux-bootstrap/pull/3) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 
 #### 📜 My recent blog posts
 
