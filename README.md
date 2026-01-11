@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
-- [mapitman/media-encoding](https://github.com/mapitman/media-encoding) - Tools and scripts for ripping, encoding and organizing media files (1 day ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Tools and scripts for ripping, encoding and organizing media files (1 day ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [mapitman/media-encoding](https://github.com/mapitman/media-encoding) - Tools and scripts for ripping, encoding and organizing media files
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Tools and scripts for ripping, encoding and organizing media files
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
@@ -37,16 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove deprecated shell scripts](https://github.com/mapitman/media-encoding/pull/24) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
-- [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/media-encoding/pull/17) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
-- [Print title duration when starting rip](https://github.com/mapitman/media-encoding/pull/15) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
-- [Add VS Code settings for C# Dev Kit test discovery](https://github.com/mapitman/media-encoding/pull/14) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
-- [Add tests project, Makefile, and CI](https://github.com/mapitman/media-encoding/pull/13) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
-- [Refactor MetadataService: inject IProgressNotifier for console abstraction](https://github.com/mapitman/media-encoding/pull/11) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
-- [Refactor EncoderService: decompose EncodeAsync and inject IProgressNotifier](https://github.com/mapitman/media-encoding/pull/10) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
-- [Refactor DiscScanner: extract ScanOutputHandler, inject IProgressNotifier](https://github.com/mapitman/media-encoding/pull/9) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
-- [Refactor: Extract utilities and improve SRP in DiscRipper](https://github.com/mapitman/media-encoding/pull/8) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
-- [Convert to .NET](https://github.com/mapitman/media-encoding/pull/2) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
+- [refactor: remove code quality report - using github issues instead](https://github.com/mapitman/ripsharp/pull/34) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Rename project from media-encoding to RipSharp](https://github.com/mapitman/ripsharp/pull/25) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Remove deprecated shell scripts](https://github.com/mapitman/ripsharp/pull/24) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/ripsharp/pull/17) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Print title duration when starting rip](https://github.com/mapitman/ripsharp/pull/15) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Add VS Code settings for C# Dev Kit test discovery](https://github.com/mapitman/ripsharp/pull/14) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Add tests project, Makefile, and CI](https://github.com/mapitman/ripsharp/pull/13) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Refactor MetadataService: inject IProgressNotifier for console abstraction](https://github.com/mapitman/ripsharp/pull/11) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Refactor EncoderService: decompose EncodeAsync and inject IProgressNotifier](https://github.com/mapitman/ripsharp/pull/10) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Refactor DiscScanner: extract ScanOutputHandler, inject IProgressNotifier](https://github.com/mapitman/ripsharp/pull/9) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 
 #### 📜 My recent blog posts
 
