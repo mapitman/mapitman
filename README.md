@@ -37,6 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Print title duration when starting rip](https://github.com/mapitman/media-encoding/pull/15) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
+- [Add VS Code settings for C# Dev Kit test discovery](https://github.com/mapitman/media-encoding/pull/14) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
+- [Add tests project, Makefile, and CI](https://github.com/mapitman/media-encoding/pull/13) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
 - [Refactor MetadataService: inject IProgressNotifier for console abstraction](https://github.com/mapitman/media-encoding/pull/11) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
 - [Refactor EncoderService: decompose EncodeAsync and inject IProgressNotifier](https://github.com/mapitman/media-encoding/pull/10) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
 - [Refactor DiscScanner: extract ScanOutputHandler, inject IProgressNotifier](https://github.com/mapitman/media-encoding/pull/9) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
@@ -44,9 +47,6 @@
 - [Convert to .NET](https://github.com/mapitman/media-encoding/pull/2) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
 - [Add script to install Catppuccin theme for tmux](https://github.com/mapitman/linux-bootstrap/pull/10) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [Fix JetBrains Toolbox install](https://github.com/mapitman/linux-bootstrap/pull/8) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
-- [Add Northwest Railway Museum](https://github.com/NerdyDayTrips/website/pull/1699) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 weeks ago)
-- [Add Seattle Pinball Museum](https://github.com/NerdyDayTrips/website/pull/1698) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 weeks ago)
-- [Clean up repository issues](https://github.com/mapitman/linux-bootstrap/pull/6) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
