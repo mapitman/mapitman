@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [feat: TVDB episode titles &#43; progress fixes &#43; 1-based numbering](https://github.com/mapitman/ripsharp/pull/38) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Auto-detect disc type (movie vs TV series)](https://github.com/mapitman/ripsharp/pull/36) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
@@ -46,7 +47,6 @@
 - [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/ripsharp/pull/17) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Print title duration when starting rip](https://github.com/mapitman/ripsharp/pull/15) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Add VS Code settings for C# Dev Kit test discovery](https://github.com/mapitman/ripsharp/pull/14) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Add tests project, Makefile, and CI](https://github.com/mapitman/ripsharp/pull/13) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 
 #### 📜 My recent blog posts
 
