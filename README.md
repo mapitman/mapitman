@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/media-encoding/pull/17) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
 - [Print title duration when starting rip](https://github.com/mapitman/media-encoding/pull/15) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
 - [Add VS Code settings for C# Dev Kit test discovery](https://github.com/mapitman/media-encoding/pull/14) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
 - [Add tests project, Makefile, and CI](https://github.com/mapitman/media-encoding/pull/13) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (today)
@@ -46,7 +47,6 @@
 - [Refactor: Extract utilities and improve SRP in DiscRipper](https://github.com/mapitman/media-encoding/pull/8) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
 - [Convert to .NET](https://github.com/mapitman/media-encoding/pull/2) on [mapitman/media-encoding](https://github.com/mapitman/media-encoding) (1 day ago)
 - [Add script to install Catppuccin theme for tmux](https://github.com/mapitman/linux-bootstrap/pull/10) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [Fix JetBrains Toolbox install](https://github.com/mapitman/linux-bootstrap/pull/8) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 
 #### 📜 My recent blog posts
 
