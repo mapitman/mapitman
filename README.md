@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Auto-detect disc type (movie vs TV series)](https://github.com/mapitman/ripsharp/pull/36) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [refactor: remove code quality report - using github issues instead](https://github.com/mapitman/ripsharp/pull/34) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Rename project from media-encoding to RipSharp](https://github.com/mapitman/ripsharp/pull/25) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Remove deprecated shell scripts](https://github.com/mapitman/ripsharp/pull/24) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
@@ -46,7 +47,6 @@
 - [Add tests project, Makefile, and CI](https://github.com/mapitman/ripsharp/pull/13) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Refactor MetadataService: inject IProgressNotifier for console abstraction](https://github.com/mapitman/ripsharp/pull/11) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Refactor EncoderService: decompose EncodeAsync and inject IProgressNotifier](https://github.com/mapitman/ripsharp/pull/10) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
-- [Refactor DiscScanner: extract ScanOutputHandler, inject IProgressNotifier](https://github.com/mapitman/ripsharp/pull/9) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 
 #### 📜 My recent blog posts
 
