@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (today)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Tools and scripts for ripping, encoding and organizing media files (today)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Tools and scripts for ripping, encoding and organizing media files
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization.
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
