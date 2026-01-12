@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 - [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 - [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
@@ -46,7 +47,6 @@
 - [Rename project from media-encoding to RipSharp](https://github.com/mapitman/ripsharp/pull/25) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 - [Remove deprecated shell scripts](https://github.com/mapitman/ripsharp/pull/24) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 - [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/ripsharp/pull/17) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
-- [Print title duration when starting rip](https://github.com/mapitman/ripsharp/pull/15) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 
 #### 📜 My recent blog posts
 
