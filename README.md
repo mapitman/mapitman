@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (today)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 days ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (3 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (4 days ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (4 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 weeks ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
 - [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (3 months ago)
@@ -37,16 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 days ago)
-- [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [feat: TVDB episode titles &#43; progress fixes &#43; 1-based numbering](https://github.com/mapitman/ripsharp/pull/38) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [Auto-detect disc type (movie vs TV series)](https://github.com/mapitman/ripsharp/pull/36) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [refactor: remove code quality report - using github issues instead](https://github.com/mapitman/ripsharp/pull/34) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [Rename project from media-encoding to RipSharp](https://github.com/mapitman/ripsharp/pull/25) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [Remove deprecated shell scripts](https://github.com/mapitman/ripsharp/pull/24) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
-- [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/ripsharp/pull/17) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [feat: TVDB episode titles &#43; progress fixes &#43; 1-based numbering](https://github.com/mapitman/ripsharp/pull/38) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [Auto-detect disc type (movie vs TV series)](https://github.com/mapitman/ripsharp/pull/36) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [refactor: remove code quality report - using github issues instead](https://github.com/mapitman/ripsharp/pull/34) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [Rename project from media-encoding to RipSharp](https://github.com/mapitman/ripsharp/pull/25) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [Remove deprecated shell scripts](https://github.com/mapitman/ripsharp/pull/24) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
+- [Refactor MetadataService to provider pattern with comprehensive tests](https://github.com/mapitman/ripsharp/pull/17) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
 
 #### 📜 My recent blog posts
 
