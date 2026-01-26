@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 weeks ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (2 months ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 3 days ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 6 days ago) - Convert markdown to HTML and launch it in a browser.
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 4 days ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
+- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 1 week ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 2 months ago) - Getty Images API SDK - PHP
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.1](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.1), 2 months ago) - Getty Images API SDK for Node.js
 - [gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby) ([3.2.6](https://github.com/gettyimages/gettyimages-api_ruby/releases/tag/3.2.6), 5 months ago) - Getty Images API SDK for Ruby
@@ -37,9 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
-- [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
+- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 week ago)
+- [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
