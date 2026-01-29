@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
 - [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 week ago)
 - [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
@@ -46,7 +47,6 @@
 - [feat: TVDB episode titles &#43; progress fixes &#43; 1-based numbering](https://github.com/mapitman/ripsharp/pull/38) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Auto-detect disc type (movie vs TV series)](https://github.com/mapitman/ripsharp/pull/36) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [refactor: remove code quality report - using github issues instead](https://github.com/mapitman/ripsharp/pull/34) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Rename project from media-encoding to RipSharp](https://github.com/mapitman/ripsharp/pull/25) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
