@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (3 days ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (4 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 6 days ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 1 week ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 1 week ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 2 months ago) - Getty Images API SDK - PHP
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.1](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.1), 3 months ago) - Getty Images API SDK for Node.js
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 days ago)
 - [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 week ago)
 - [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
