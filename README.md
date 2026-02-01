@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 weeks ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (3 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 weeks ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (4 weeks ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (2 months ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 months ago)
 - [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (4 months ago)
@@ -37,16 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix diagram styling for light background in mermaid flowchart](https://github.com/mapitman/ripsharp/pull/54) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 days ago)
-- [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 days ago)
-- [Update README](https://github.com/mapitman/ripsharp/pull/51) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 days ago)
-- [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 days ago)
-- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Fix diagram styling for light background in mermaid flowchart](https://github.com/mapitman/ripsharp/pull/54) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [Update README](https://github.com/mapitman/ripsharp/pull/51) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 week ago)
 - [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
+- [Refactor console I/O abstractions for better separation of concerns](https://github.com/mapitman/ripsharp/pull/45) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
+- [Fix Makefile after project rename](https://github.com/mapitman/ripsharp/pull/41) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
+- [Organize code into logical folders and namespaces](https://github.com/mapitman/ripsharp/pull/40) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
