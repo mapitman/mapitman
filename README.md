@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (6 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 weeks ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 1 week ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 2 weeks ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 2 weeks ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 2 months ago) - Getty Images API SDK - PHP
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.1](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.1), 3 months ago) - Getty Images API SDK for Node.js
@@ -37,10 +37,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix diagram styling for light background in mermaid flowchart](https://github.com/mapitman/ripsharp/pull/54) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
-- [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
-- [Update README](https://github.com/mapitman/ripsharp/pull/51) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
-- [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Fix diagram styling for light background in mermaid flowchart](https://github.com/mapitman/ripsharp/pull/54) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
+- [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
+- [Update README](https://github.com/mapitman/ripsharp/pull/51) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
+- [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (2 weeks ago)
 - [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
