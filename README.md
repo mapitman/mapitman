@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use Trusted Publishing for package push](https://github.com/gettyimages/gettyimages-api_dotnet/pull/57) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (today)
 - [Preserve progress stop time](https://github.com/mapitman/ripsharp/pull/57) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Add MIT license](https://github.com/mapitman/ripsharp/pull/56) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Improve progress tracking and UI](https://github.com/mapitman/ripsharp/pull/55) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
@@ -46,7 +47,6 @@
 - [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Update changelog](https://github.com/mapitman/mdview/pull/52) on [mapitman/mdview](https://github.com/mapitman/mdview) (2 weeks ago)
-- [Restore cursor visibility and properly handle Ctrl&#43;C interruption](https://github.com/mapitman/ripsharp/pull/48) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
