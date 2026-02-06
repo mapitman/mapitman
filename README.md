@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (1 day ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 weeks ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
@@ -11,7 +12,6 @@
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 months ago)
 - [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (4 months ago)
 - [gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby) - Getty Images API SDK for Ruby (6 months ago)
-- [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) ([9.0.1](https://github.com/gettyimages/gettyimages-api_dotnet/releases/tag/9.0.1), 1 day ago) - Getty Images API SDK - .NET
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 2 weeks ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 2 weeks ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 2 months ago) - Getty Images API SDK - PHP
@@ -37,10 +38,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use Trusted Publishing for package push](https://github.com/gettyimages/gettyimages-api_dotnet/pull/57) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (today)
-- [Preserve progress stop time](https://github.com/mapitman/ripsharp/pull/57) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Add MIT license](https://github.com/mapitman/ripsharp/pull/56) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Improve progress tracking and UI](https://github.com/mapitman/ripsharp/pull/55) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
+- [Use Trusted Publishing for package push](https://github.com/gettyimages/gettyimages-api_dotnet/pull/57) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 day ago)
+- [Preserve progress stop time](https://github.com/mapitman/ripsharp/pull/57) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Add MIT license](https://github.com/mapitman/ripsharp/pull/56) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Improve progress tracking and UI](https://github.com/mapitman/ripsharp/pull/55) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 - [Fix diagram styling for light background in mermaid flowchart](https://github.com/mapitman/ripsharp/pull/54) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Update README](https://github.com/mapitman/ripsharp/pull/51) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
