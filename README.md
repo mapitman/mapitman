@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Tidy up code and refactor](https://github.com/gettyimages/gettyimages-api_dotnet/pull/58) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (today)
 - [Update README and demo](https://github.com/mapitman/ripsharp/pull/58) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Use Trusted Publishing for package push](https://github.com/gettyimages/gettyimages-api_dotnet/pull/57) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 day ago)
 - [Preserve progress stop time](https://github.com/mapitman/ripsharp/pull/57) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
@@ -47,7 +48,6 @@
 - [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Update README](https://github.com/mapitman/ripsharp/pull/51) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Enhanced progress display with three-bar layout and real-time tracking](https://github.com/mapitman/ripsharp/pull/50) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
-- [feat: cleanup temp rip directory after successful encode process](https://github.com/mapitman/ripsharp/pull/49) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 
 #### 📜 My recent blog posts
 
