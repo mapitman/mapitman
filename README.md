@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Update copyright year](https://github.com/gettyimages/gettyimages-api_dotnet/pull/60) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (5 days ago)
 - [Use string for order id](https://github.com/gettyimages/gettyimages-api_dotnet/pull/59) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
 - [Tidy up code and refactor](https://github.com/gettyimages/gettyimages-api_dotnet/pull/58) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
@@ -47,7 +48,6 @@
 - [Add MIT license](https://github.com/mapitman/ripsharp/pull/56) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Improve progress tracking and UI](https://github.com/mapitman/ripsharp/pull/55) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Fix diagram styling for light background in mermaid flowchart](https://github.com/mapitman/ripsharp/pull/54) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Add demo images](https://github.com/mapitman/ripsharp/pull/53) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
