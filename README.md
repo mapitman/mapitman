@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
@@ -47,7 +48,6 @@
 - [Tidy up code and refactor](https://github.com/gettyimages/gettyimages-api_dotnet/pull/58) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
 - [Update README and demo](https://github.com/mapitman/ripsharp/pull/58) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Use Trusted Publishing for package push](https://github.com/gettyimages/gettyimages-api_dotnet/pull/57) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
-- [Preserve progress stop time](https://github.com/mapitman/ripsharp/pull/57) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 
 #### 📜 My recent blog posts
 
