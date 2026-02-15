@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
-- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (5 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 weeks ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (6 days ago)
+- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (6 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 weeks ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 month ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) ([10.0.0](https://github.com/gettyimages/gettyimages-api_dotnet/releases/tag/10.0.0), 5 days ago) - Getty Images API SDK - .NET
+- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) ([10.0.0](https://github.com/gettyimages/gettyimages-api_dotnet/releases/tag/10.0.0), 6 days ago) - Getty Images API SDK - .NET
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 3 weeks ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 3 weeks ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 2 months ago) - Getty Images API SDK - PHP
@@ -38,12 +38,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Update copyright year](https://github.com/gettyimages/gettyimages-api_dotnet/pull/60) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (5 days ago)
+- [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Update copyright year](https://github.com/gettyimages/gettyimages-api_dotnet/pull/60) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (6 days ago)
 - [Use string for order id](https://github.com/gettyimages/gettyimages-api_dotnet/pull/59) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
 - [Tidy up code and refactor](https://github.com/gettyimages/gettyimages-api_dotnet/pull/58) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
 - [Update README and demo](https://github.com/mapitman/ripsharp/pull/58) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
@@ -59,7 +59,7 @@
 
 #### 📓 Gists I wrote
 
-- [Windows Terminal Config](https://gist.github.com/9c2c0a0f8f6e65475d210817e2be6a82) (5 years ago)
+- [Windows Terminal Config](https://gist.github.com/9c2c0a0f8f6e65475d210817e2be6a82) (6 years ago)
 - [](https://gist.github.com/c14e4ed0eb82792bb3d4b202292690b0) (7 years ago)
 - [Windows Hyper Term config](https://gist.github.com/1a53aa78aa99ea9f824c841a70f395dd) (8 years ago)
 - [Shell script to detect and disable certain brands of webcams. https://julianoliver.com/output/log_2015-12-18_14-39](https://gist.github.com/d8fcf93524fb0a1dc491) (10 years ago)
