@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 days ago)
-- [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (5 days ago)
-- [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (5 days ago)
-- [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (5 days ago)
-- [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (5 days ago)
-- [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (5 days ago)
+- [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 days ago)
+- [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
 - [Update copyright year](https://github.com/gettyimages/gettyimages-api_dotnet/pull/60) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
-- [Use string for order id](https://github.com/gettyimages/gettyimages-api_dotnet/pull/59) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
-- [Tidy up code and refactor](https://github.com/gettyimages/gettyimages-api_dotnet/pull/58) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (1 week ago)
+- [Use string for order id](https://github.com/gettyimages/gettyimages-api_dotnet/pull/59) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (2 weeks ago)
+- [Tidy up code and refactor](https://github.com/gettyimages/gettyimages-api_dotnet/pull/58) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
