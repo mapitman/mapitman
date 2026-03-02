@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
-- [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) - .NET Core package that helps with Slack interactions (4 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) - .NET Core package that helps with Slack interactions (5 days ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
-- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (2 weeks ago)
+- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (3 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 month ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) ([10.0.0](https://github.com/gettyimages/gettyimages-api_dotnet/releases/tag/10.0.0), 2 weeks ago) - Getty Images API SDK - .NET
+- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) ([10.0.0](https://github.com/gettyimages/gettyimages-api_dotnet/releases/tag/10.0.0), 3 weeks ago) - Getty Images API SDK - .NET
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 1 month ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 1 month ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 3 months ago) - Getty Images API SDK - PHP
@@ -46,7 +46,7 @@
 - [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Update copyright year](https://github.com/gettyimages/gettyimages-api_dotnet/pull/60) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (2 weeks ago)
+- [Update copyright year](https://github.com/gettyimages/gettyimages-api_dotnet/pull/60) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (3 weeks ago)
 - [Use string for order id](https://github.com/gettyimages/gettyimages-api_dotnet/pull/59) on [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) (3 weeks ago)
 
 #### 📜 My recent blog posts
