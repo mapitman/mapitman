@@ -2,6 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (today)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) - .NET Core package that helps with Slack interactions (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
@@ -10,21 +12,19 @@
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 month ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (3 months ago)
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (4 months ago)
-- [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (5 months ago)
 
 #### 🌱 My latest projects
 
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip
+- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization.
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
-- [mapitman/dockerfiles](https://github.com/mapitman/dockerfiles) - A collection of my Dockerfiles
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix.
 - [mapitman/windows-setup](https://github.com/mapitman/windows-setup) - Use chocolatey to get my applications installed on Windows
 - [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging.
 - [mapitman/pitempd](https://github.com/mapitman/pitempd) - Temperature daemon using the DHT22 sensor
-- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22
 
 #### 🔭 Latest releases I've contributed to
 
