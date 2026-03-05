@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (1 day ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (1 day ago)
-- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed (1 day ago)
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (1 day ago)
 - [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 day ago)
+- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (1 day ago)
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (1 day ago)
+- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (6 days ago)
 - [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) - .NET Core package that helps with Slack interactions (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
-- [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) - Getty Images API SDK - .NET (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,13 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), today) - Docker image to build hugo websites
+- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), today) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), today) - Docker image for use on Windows to run various tools under Linux
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), today) - Run redis-cli without installing it
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) ([v1.0.0](https://github.com/mapitman/docker-php-cli/releases/tag/v1.0.0), today) - Modified version of the offical php-cli-alpine Docker image with git and zip
+- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) ([v1.0.0](https://github.com/mapitman/docker-password-store/releases/tag/v1.0.0), today) - Run password store in a container
+- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) ([v1.0.0](https://github.com/mapitman/docker-hollywood/releases/tag/v1.0.0), today) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet) ([10.0.0](https://github.com/gettyimages/gettyimages-api_dotnet/releases/tag/10.0.0), 3 weeks ago) - Getty Images API SDK - .NET
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.2.0](https://github.com/wimpysworld/faff/releases/tag/0.2.0), 1 month ago) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.8.0](https://github.com/mapitman/mdview/releases/tag/1.8.0), 1 month ago) - Convert markdown to HTML and launch it in a browser.
-- [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 3 months ago) - Getty Images API SDK - PHP
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.1](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.1), 4 months ago) - Getty Images API SDK for Node.js
-- [gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby) ([3.2.6](https://github.com/gettyimages/gettyimages-api_ruby/releases/tag/3.2.6), 7 months ago) - Getty Images API SDK for Ruby
-- [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) ([3.1.9](https://github.com/gettyimages/gettyimages-api_java/releases/tag/3.1.9), 2 years ago) - Getty Images API SDK for Java
 
 #### 🔨 My recent Pull Requests
 
