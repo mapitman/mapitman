@@ -5,13 +5,13 @@
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed (5 days ago)
 - [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (5 days ago)
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (5 days ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (5 days ago)
-- [mapitman/beats](https://github.com/mapitman/beats) -  (5 days ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (5 days ago)
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (5 days ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (5 days ago)
 - [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (5 days ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (5 days ago)
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (5 days ago)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (5 days ago)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (5 days ago)
+- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (5 days ago)
 
 #### 🌱 My latest projects
 
