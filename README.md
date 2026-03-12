@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed (1 week ago)
 - [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (1 week ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (1 week ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 6 days ago) - 
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 6 days ago) - Docker image for building netcore applications
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 6 days ago) - Web service which provides the current &#34;Internet Time&#34;
-- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 6 days ago) - Convert Time to Internet Time in beats
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 6 days ago) - Docker image to build hugo websites
-- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 6 days ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 6 days ago) - Docker image for use on Windows to run various tools under Linux
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 6 days ago) - Run redis-cli without installing it
-- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) ([v1.0.0](https://github.com/mapitman/docker-php-cli/releases/tag/v1.0.0), 6 days ago) - Modified version of the offical php-cli-alpine Docker image with git and zip
-- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) ([v1.0.0](https://github.com/mapitman/docker-password-store/releases/tag/v1.0.0), 6 days ago) - Run password store in a container
+- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 1 week ago) - 
+- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 1 week ago) - Docker image for building netcore applications
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 1 week ago) - Web service which provides the current &#34;Internet Time&#34;
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 1 week ago) - Convert Time to Internet Time in beats
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 1 week ago) - Docker image to build hugo websites
+- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 1 week ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 1 week ago) - Docker image for use on Windows to run various tools under Linux
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 1 week ago) - Run redis-cli without installing it
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) ([v1.0.0](https://github.com/mapitman/docker-php-cli/releases/tag/v1.0.0), 1 week ago) - Modified version of the offical php-cli-alpine Docker image with git and zip
+- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) ([v1.0.0](https://github.com/mapitman/docker-password-store/releases/tag/v1.0.0), 1 week ago) - Run password store in a container
 
 #### 🔨 My recent Pull Requests
 
 - [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (2 weeks ago)
-- [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
+- [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 - [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 - [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 - [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
