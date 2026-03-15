@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (today)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (1 week ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (1 week ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (1 week ago)
