@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
@@ -50,7 +51,6 @@
 - [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 - [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 - [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
-- [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
