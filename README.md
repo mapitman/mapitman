@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (2 weeks ago)
+- [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (3 weeks ago)
 - [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 - [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
 - [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
