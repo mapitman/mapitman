@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
-- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (1 week ago)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (1 week ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (1 week ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
-- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (1 week ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (1 week ago)
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (1 week ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 week ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (1 week ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (1 week ago)
+- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (1 week ago)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 week ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (3 weeks ago)
@@ -50,7 +51,6 @@
 - [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 - [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 - [Fix rip output summary and title suffix](https://github.com/mapitman/ripsharp/pull/62) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
-- [Add global tool packaging and version command](https://github.com/mapitman/ripsharp/pull/60) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
