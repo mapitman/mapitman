@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.2), today) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 1 week ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 1 week ago) - Docker image for building netcore applications
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 1 week ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -37,7 +38,6 @@
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 1 week ago) - Docker image for use on Windows to run various tools under Linux
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 1 week ago) - Run redis-cli without installing it
 - [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) ([v1.0.0](https://github.com/mapitman/docker-php-cli/releases/tag/v1.0.0), 1 week ago) - Modified version of the offical php-cli-alpine Docker image with git and zip
-- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) ([v1.0.0](https://github.com/mapitman/docker-password-store/releases/tag/v1.0.0), 1 week ago) - Run password store in a container
 
 #### 🔨 My recent Pull Requests
 
