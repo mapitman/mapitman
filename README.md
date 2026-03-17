@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (1 week ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (1 week ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.2), today) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.2), 1 day ago) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 1 week ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 1 week ago) - Docker image for building netcore applications
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 1 week ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,13 +41,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
-- [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
-- [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
-- [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
+- [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
+- [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
+- [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
 - [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (3 weeks ago)
 - [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
-- [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (3 weeks ago)
+- [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 - [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 - [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 - [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
