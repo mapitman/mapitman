@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix sourced-script exit bugs and add bootstrap completion message](https://github.com/mapitman/linux-bootstrap/pull/16) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix install-makemkv using exit instead of return](https://github.com/mapitman/linux-bootstrap/pull/15) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
 - [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
@@ -50,7 +51,6 @@
 - [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (4 weeks ago)
 - [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 - [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
-- [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 
 #### 📜 My recent blog posts
 
