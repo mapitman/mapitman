@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (4 days ago)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (2 weeks ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (2 weeks ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (2 weeks ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debian: fix install-makemkv using exit instead of return](https://github.com/mapitman/linux-bootstrap/pull/15) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
 - [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
 - [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
@@ -50,7 +51,6 @@
 - [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 - [Add bundled themes and write theme files on startup](https://github.com/mapitman/ripsharp/pull/67) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 - [Check prerequisites on startup](https://github.com/mapitman/ripsharp/pull/65) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
-- [Add config file discovery and defaults](https://github.com/mapitman/ripsharp/pull/63) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 
 #### 📜 My recent blog posts
 
