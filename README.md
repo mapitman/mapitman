@@ -4,13 +4,13 @@
 
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
-- [mapitman/beats](https://github.com/mapitman/beats) -  (2 weeks ago)
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (2 weeks ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (2 weeks ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (2 weeks ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 weeks ago)
 - [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (2 weeks ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (2 weeks ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (2 weeks ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 weeks ago)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (2 weeks ago)
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (2 weeks ago)
 
 #### 🌱 My latest projects
