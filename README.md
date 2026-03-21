@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debian: add gum from Charm apt repository](https://github.com/mapitman/linux-bootstrap/pull/21) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix trixie package names and improve test coverage](https://github.com/mapitman/linux-bootstrap/pull/20) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix non-free repo enable for DEB822 sources format](https://github.com/mapitman/linux-bootstrap/pull/19) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix makemkv build and add QEMU/virt-manager](https://github.com/mapitman/linux-bootstrap/pull/18) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
@@ -50,7 +51,6 @@
 - [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 
 #### 📜 My recent blog posts
 
