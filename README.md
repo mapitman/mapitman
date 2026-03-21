@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [debian: rename libfuse2 to libfuse2t64 for trixie](https://github.com/mapitman/linux-bootstrap/pull/20) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [debian: fix trixie package names and improve test coverage](https://github.com/mapitman/linux-bootstrap/pull/20) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix non-free repo enable for DEB822 sources format](https://github.com/mapitman/linux-bootstrap/pull/19) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix makemkv build and add QEMU/virt-manager](https://github.com/mapitman/linux-bootstrap/pull/18) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Fix re-run failures and update MakeMKV to 1.18.3](https://github.com/mapitman/linux-bootstrap/pull/17) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
