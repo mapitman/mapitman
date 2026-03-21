@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 days ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (2 weeks ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (2 weeks ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debian: fix makemkv build and add QEMU/virt-manager](https://github.com/mapitman/linux-bootstrap/pull/18) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Fix re-run failures and update MakeMKV to 1.18.3](https://github.com/mapitman/linux-bootstrap/pull/17) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
 - [Fix sourced-script exit bugs and add bootstrap completion message](https://github.com/mapitman/linux-bootstrap/pull/16) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
 - [debian: fix install-makemkv using exit instead of return](https://github.com/mapitman/linux-bootstrap/pull/15) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
@@ -50,7 +51,6 @@
 - [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (3 weeks ago)
 - [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
-- [Add local tool install](https://github.com/mapitman/ripsharp/pull/68) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 
 #### 📜 My recent blog posts
 
