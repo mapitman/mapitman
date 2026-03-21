@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debian: rename libfuse2 to libfuse2t64 for trixie](https://github.com/mapitman/linux-bootstrap/pull/20) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [debian: fix non-free repo enable for DEB822 sources format](https://github.com/mapitman/linux-bootstrap/pull/19) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: fix makemkv build and add QEMU/virt-manager](https://github.com/mapitman/linux-bootstrap/pull/18) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Fix re-run failures and update MakeMKV to 1.18.3](https://github.com/mapitman/linux-bootstrap/pull/17) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
 - [Fix sourced-script exit bugs and add bootstrap completion message](https://github.com/mapitman/linux-bootstrap/pull/16) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
@@ -49,8 +51,6 @@
 - [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [add packages to debian](https://github.com/mapitman/linux-bootstrap/pull/12) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
 - [Add Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/11) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [Add Channels property to CompleteExternalUploadRequest](https://github.com/stoiveyp/Slack.NetStandard/pull/109) on [stoiveyp/Slack.NetStandard](https://github.com/stoiveyp/Slack.NetStandard) (3 weeks ago)
-- [Improve help output formatting](https://github.com/mapitman/ripsharp/pull/70) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 month ago)
 
 #### 📜 My recent blog posts
 
