@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
-- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (2 weeks ago)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (2 weeks ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (2 weeks ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (2 weeks ago)
-- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (2 weeks ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (2 weeks ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 weeks ago)
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (2 weeks ago)
+- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (2 weeks ago)
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make debian bootstrap idempotent](https://github.com/mapitman/linux-bootstrap/pull/24) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [debian: add pandoc, asciinema, expect, and agg packages](https://github.com/mapitman/linux-bootstrap/pull/23) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [fix: chmod temp .deb before apt install to avoid sandbox permission error](https://github.com/mapitman/linux-bootstrap/pull/22) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 - [debian: add gum from Charm apt repository](https://github.com/mapitman/linux-bootstrap/pull/21) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 - [debian: fix trixie package names and improve test coverage](https://github.com/mapitman/linux-bootstrap/pull/20) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
@@ -49,8 +51,6 @@
 - [Fix re-run failures and update MakeMKV to 1.18.3](https://github.com/mapitman/linux-bootstrap/pull/17) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
 - [Fix sourced-script exit bugs and add bootstrap completion message](https://github.com/mapitman/linux-bootstrap/pull/16) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
 - [debian: fix install-makemkv using exit instead of return](https://github.com/mapitman/linux-bootstrap/pull/15) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
-- [debian: fix VS Code crash via Pango 1.56.x fontconfig workaround](https://github.com/mapitman/linux-bootstrap/pull/14) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
-- [docs: refactor copilot-instructions.md for clarity and conciseness](https://github.com/mapitman/linux-bootstrap/pull/13) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 
 #### 📜 My recent blog posts
 
