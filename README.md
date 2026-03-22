@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [generic: skip SSH key and gh auth if already set up](https://github.com/mapitman/linux-bootstrap/pull/26) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [docs: remove Debian sudo group setup instructions](https://github.com/mapitman/linux-bootstrap/pull/25) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Make debian bootstrap idempotent](https://github.com/mapitman/linux-bootstrap/pull/24) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [debian: add pandoc, asciinema, expect, and agg packages](https://github.com/mapitman/linux-bootstrap/pull/23) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [fix: chmod temp .deb before apt install to avoid sandbox permission error](https://github.com/mapitman/linux-bootstrap/pull/22) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
@@ -49,8 +51,6 @@
 - [debian: fix non-free repo enable for DEB822 sources format](https://github.com/mapitman/linux-bootstrap/pull/19) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 - [debian: fix makemkv build and add QEMU/virt-manager](https://github.com/mapitman/linux-bootstrap/pull/18) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 - [Fix re-run failures and update MakeMKV to 1.18.3](https://github.com/mapitman/linux-bootstrap/pull/17) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
-- [Fix sourced-script exit bugs and add bootstrap completion message](https://github.com/mapitman/linux-bootstrap/pull/16) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
-- [debian: fix install-makemkv using exit instead of return](https://github.com/mapitman/linux-bootstrap/pull/15) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
 
 #### 📜 My recent blog posts
 
