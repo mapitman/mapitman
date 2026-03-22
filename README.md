@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [generic: Fix catppuccin ghostty theme download URL](https://github.com/mapitman/linux-bootstrap/pull/32) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [makemkv: Check for both makemkv and makemkvcon before building](https://github.com/mapitman/linux-bootstrap/pull/31) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [bootstrap: Fix interactive prompts when sourced from zsh](https://github.com/mapitman/linux-bootstrap/pull/30) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [generic: Add install-ghostty-catppuccin-theme script](https://github.com/mapitman/linux-bootstrap/pull/29) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Update messages in JetBrains install script](https://github.com/mapitman/linux-bootstrap/pull/28) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
@@ -48,9 +51,6 @@
 - [generic: skip SSH key and gh auth if already set up](https://github.com/mapitman/linux-bootstrap/pull/26) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [docs: remove Debian sudo group setup instructions](https://github.com/mapitman/linux-bootstrap/pull/25) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Make debian bootstrap idempotent](https://github.com/mapitman/linux-bootstrap/pull/24) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [debian: add pandoc, asciinema, expect, and agg packages](https://github.com/mapitman/linux-bootstrap/pull/23) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [fix: chmod temp .deb before apt install to avoid sandbox permission error](https://github.com/mapitman/linux-bootstrap/pull/22) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
-- [debian: add gum from Charm apt repository](https://github.com/mapitman/linux-bootstrap/pull/21) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 
 #### 📜 My recent blog posts
 
