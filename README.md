@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (2 weeks ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (2 weeks ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (2 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.2), 6 days ago) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.2), 1 week ago) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 2 weeks ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 2 weeks ago) - Docker image for building netcore applications
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 2 weeks ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [generic: Fix catppuccin ghostty theme download URL](https://github.com/mapitman/linux-bootstrap/pull/32) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [makemkv: Check for both makemkv and makemkvcon before building](https://github.com/mapitman/linux-bootstrap/pull/31) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [bootstrap: Fix interactive prompts when sourced from zsh](https://github.com/mapitman/linux-bootstrap/pull/30) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [generic: Add install-ghostty-catppuccin-theme script](https://github.com/mapitman/linux-bootstrap/pull/29) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [Update messages in JetBrains install script](https://github.com/mapitman/linux-bootstrap/pull/28) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [generic: install JetBrains Toolbox to ~/.local/opt instead of /tmp](https://github.com/mapitman/linux-bootstrap/pull/27) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [generic: skip SSH key and gh auth if already set up](https://github.com/mapitman/linux-bootstrap/pull/26) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [docs: remove Debian sudo group setup instructions](https://github.com/mapitman/linux-bootstrap/pull/25) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [Make debian bootstrap idempotent](https://github.com/mapitman/linux-bootstrap/pull/24) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [debian: apply AMD cursor fix on desktop install](https://github.com/mapitman/linux-bootstrap/pull/34) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [generic: Fix catppuccin ghostty theme download URL](https://github.com/mapitman/linux-bootstrap/pull/32) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [makemkv: Check for both makemkv and makemkvcon before building](https://github.com/mapitman/linux-bootstrap/pull/31) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [bootstrap: Fix interactive prompts when sourced from zsh](https://github.com/mapitman/linux-bootstrap/pull/30) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [generic: Add install-ghostty-catppuccin-theme script](https://github.com/mapitman/linux-bootstrap/pull/29) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [Update messages in JetBrains install script](https://github.com/mapitman/linux-bootstrap/pull/28) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [generic: install JetBrains Toolbox to ~/.local/opt instead of /tmp](https://github.com/mapitman/linux-bootstrap/pull/27) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
+- [generic: skip SSH key and gh auth if already set up](https://github.com/mapitman/linux-bootstrap/pull/26) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 
 #### 📜 My recent blog posts
 
