@@ -7,9 +7,9 @@
 - [mapitman/beats](https://github.com/mapitman/beats) -  (3 weeks ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (3 weeks ago)
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (3 weeks ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (3 weeks ago)
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (3 weeks ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
 - [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (3 weeks ago)
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (3 weeks ago)
 
