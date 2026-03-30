@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.3), 2 days ago) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.3), 3 days ago) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 3 weeks ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 3 weeks ago) - Docker image for building netcore applications
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 3 weeks ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
+- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
+- [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [debian: apply AMD cursor fix on desktop install](https://github.com/mapitman/linux-bootstrap/pull/34) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
