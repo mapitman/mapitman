@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
-- [mapitman/beats](https://github.com/mapitman/beats) -  (3 weeks ago)
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (3 weeks ago)
-- [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (3 weeks ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (3 weeks ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (3 weeks ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
-- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (3 weeks ago)
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (3 weeks ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (4 weeks ago)
+- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (4 weeks ago)
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (4 weeks ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (4 weeks ago)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (4 weeks ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (4 weeks ago)
+- [mapitman/docker-password-store](https://github.com/mapitman/docker-password-store) - Run password store in a container (4 weeks ago)
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.3), 4 days ago) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.3), 5 days ago) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 3 weeks ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 3 weeks ago) - Docker image for building netcore applications
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 3 weeks ago) - Web service which provides the current &#34;Internet Time&#34;
