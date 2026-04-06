@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
-- [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
+- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
+- [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
 - [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
 - [debian: apply AMD cursor fix on desktop install](https://github.com/mapitman/linux-bootstrap/pull/34) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
 - [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
