@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 week ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (1 week ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (1 month ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (1 month ago)
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (1 month ago)
-- [mapitman/beats](https://github.com/mapitman/beats) -  (1 month ago)
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 month ago)
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (1 month ago)
 - [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 month ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Handle MQTT publish failures with Polly retry pipeline](https://github.com/mapitman/zoom-detector/pull/1) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
 - [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (1 week ago)
 - [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
@@ -50,7 +51,6 @@
 - [generic: Fix catppuccin ghostty theme download URL](https://github.com/mapitman/linux-bootstrap/pull/32) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [makemkv: Check for both makemkv and makemkvcon before building](https://github.com/mapitman/linux-bootstrap/pull/31) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [bootstrap: Fix interactive prompts when sourced from zsh](https://github.com/mapitman/linux-bootstrap/pull/30) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
-- [generic: Add install-ghostty-catppuccin-theme script](https://github.com/mapitman/linux-bootstrap/pull/29) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 
 #### 📜 My recent blog posts
 
