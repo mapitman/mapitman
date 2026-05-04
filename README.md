@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 week ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 weeks ago)
@@ -29,15 +29,15 @@
 #### 🔭 Latest releases I've contributed to
 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.4](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.4), 2 weeks ago) - Getty Images API SDK for Node.js
-- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 1 month ago) - 
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 1 month ago) - Docker image for building netcore applications
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
-- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 1 month ago) - Convert Time to Internet Time in beats
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 1 month ago) - Docker image to build hugo websites
-- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 1 month ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 1 month ago) - Docker image for use on Windows to run various tools under Linux
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 1 month ago) - Run redis-cli without installing it
-- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) ([v1.0.0](https://github.com/mapitman/docker-php-cli/releases/tag/v1.0.0), 1 month ago) - Modified version of the offical php-cli-alpine Docker image with git and zip
+- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 2 months ago) - 
+- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 2 months ago) - Docker image for building netcore applications
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 2 months ago) - Convert Time to Internet Time in beats
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 2 months ago) - Docker image to build hugo websites
+- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 2 months ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 2 months ago) - Docker image for use on Windows to run various tools under Linux
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 2 months ago) - Run redis-cli without installing it
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) ([v1.0.0](https://github.com/mapitman/docker-php-cli/releases/tag/v1.0.0), 2 months ago) - Modified version of the offical php-cli-alpine Docker image with git and zip
 
 #### 🔨 My recent Pull Requests
 
