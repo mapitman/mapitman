@@ -7,10 +7,10 @@
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 weeks ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (2 months ago)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (2 months ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 months ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (2 months ago)
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (2 months ago)
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (2 months ago)
+- [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip (2 months ago)
 - [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (2 months ago)
 
 #### 🌱 My latest projects
