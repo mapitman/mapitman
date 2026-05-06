@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 week ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 weeks ago)
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 weeks ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (2 months ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.4](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.4), 2 weeks ago) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.4](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.4), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 2 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 2 months ago) - Docker image for building netcore applications
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.0](https://github.com/mapitman/beats-service/releases/tag/v1.0.0), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -42,7 +42,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Handle MQTT publish failures with Polly retry pipeline](https://github.com/mapitman/zoom-detector/pull/1) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
-- [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 weeks ago)
+- [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (3 weeks ago)
 - [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
 - [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
