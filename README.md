@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 week ago)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 weeks ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 weeks ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
 - [mapitman/beats](https://github.com/mapitman/beats) -  (2 months ago)
