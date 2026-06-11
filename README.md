@@ -55,7 +55,7 @@
 #### 📜 My recent blog posts
 
 - [Colors.js Debacle](https://pitman.io/posts/colors.js-debacle/) (4 years ago)
-- [Restore Gnome Titlebar Buttons](https://pitman.io/posts/restore-gnome-titlebar-buttons/) (5 years ago)
+- [Restore Gnome Titlebar Buttons](https://pitman.io/posts/restore-gnome-titlebar-buttons/) (6 years ago)
 - [Enabling Hibernation on Ubuntu](https://pitman.io/posts/enabling-hibernation-on-ubuntu/) (6 years ago)
 - [Fix No Wifi After Resume on Ubuntu](https://pitman.io/posts/fix-no-wifi-after-resume-on-ubuntu/) (6 years ago)
 - [No Wifi Access After Resume From Sleep on Linux](https://pitman.io/posts/no-wifi-access-after-resume-from-sleep/) (6 years ago)
