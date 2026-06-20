@@ -7,7 +7,7 @@
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 month ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 months ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 months ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 months ago)
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (3 months ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (3 months ago)
 - [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (3 months ago)
@@ -45,12 +45,12 @@
 - [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 months ago)
 - [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
 - [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [debian: apply AMD cursor fix on desktop install](https://github.com/mapitman/linux-bootstrap/pull/34) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [generic: Fix catppuccin ghostty theme download URL](https://github.com/mapitman/linux-bootstrap/pull/32) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [makemkv: Check for both makemkv and makemkvcon before building](https://github.com/mapitman/linux-bootstrap/pull/31) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [bootstrap: Fix interactive prompts when sourced from zsh](https://github.com/mapitman/linux-bootstrap/pull/30) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
+- [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [debian: apply AMD cursor fix on desktop install](https://github.com/mapitman/linux-bootstrap/pull/34) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [generic: Fix catppuccin ghostty theme download URL](https://github.com/mapitman/linux-bootstrap/pull/32) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [makemkv: Check for both makemkv and makemkvcon before building](https://github.com/mapitman/linux-bootstrap/pull/31) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [bootstrap: Fix interactive prompts when sourced from zsh](https://github.com/mapitman/linux-bootstrap/pull/30) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
 
 #### 📜 My recent blog posts
 
