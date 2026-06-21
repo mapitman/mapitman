@@ -43,8 +43,8 @@
 
 - [Handle MQTT publish failures with Polly retry pipeline](https://github.com/mapitman/zoom-detector/pull/1) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 month ago)
 - [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 months ago)
-- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
-- [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 months ago)
+- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
 - [debian: revert AMD cursor workaround](https://github.com/mapitman/linux-bootstrap/pull/35) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
 - [debian: apply AMD cursor fix on desktop install](https://github.com/mapitman/linux-bootstrap/pull/34) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
 - [debian: Install GNOME extensions via gext instead of apt](https://github.com/mapitman/linux-bootstrap/pull/33) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
