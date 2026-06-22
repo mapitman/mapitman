@@ -63,7 +63,7 @@
 #### 📓 Gists I wrote
 
 - [Windows Terminal Config](https://gist.github.com/9c2c0a0f8f6e65475d210817e2be6a82) (6 years ago)
-- [](https://gist.github.com/c14e4ed0eb82792bb3d4b202292690b0) (7 years ago)
+- [](https://gist.github.com/c14e4ed0eb82792bb3d4b202292690b0) (8 years ago)
 - [Windows Hyper Term config](https://gist.github.com/1a53aa78aa99ea9f824c841a70f395dd) (8 years ago)
 - [Shell script to detect and disable certain brands of webcams. https://julianoliver.com/output/log_2015-12-18_14-39](https://gist.github.com/d8fcf93524fb0a1dc491) (10 years ago)
 - [](https://gist.github.com/b21297798599ba7c2146) (11 years ago)
