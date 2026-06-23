@@ -4,7 +4,7 @@
 
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (2 weeks ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 weeks ago)
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 month ago)
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 months ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 months ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 months ago)
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Handle MQTT publish failures with Polly retry pipeline](https://github.com/mapitman/zoom-detector/pull/1) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 month ago)
+- [Handle MQTT publish failures with Polly retry pipeline](https://github.com/mapitman/zoom-detector/pull/1) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (2 months ago)
 - [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 months ago)
 - [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
 - [debian: add Wine with proper 64-bit prefix initialization](https://github.com/mapitman/linux-bootstrap/pull/36) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
