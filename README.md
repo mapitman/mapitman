@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
-- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (1 day ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 month ago)
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 months ago)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 months ago)
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications (3 months ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (3 months ago)
-- [mapitman/internet-time](https://github.com/mapitman/internet-time) - Convert Time to Internet Time in beats (3 months ago)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (today)
+- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (today)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (today)
+- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (today)
+- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (today)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (today)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (today)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (today)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (today)
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (today)
 
 #### 🌱 My latest projects
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Convert build system from Makefile to justfile](https://github.com/mapitman/scripts/pull/3) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
-- [Convert build tasks from make to just](https://github.com/mapitman/linux-bootstrap/pull/41) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [Install Quickemu in Debian desktop setup](https://github.com/mapitman/linux-bootstrap/pull/40) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [Add dev tools support (.NET SDK 10, mise, just, pandoc) to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/39) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [feat: add nmapscan script, manpage, and gitignore results directory](https://github.com/mapitman/scripts/pull/2) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
-- [Add blender and gnome-software flatpak plugin](https://github.com/mapitman/linux-bootstrap/pull/38) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
-- [Handle MQTT publish failures with Polly retry pipeline](https://github.com/mapitman/zoom-detector/pull/1) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (2 months ago)
-- [Fix the NPM publish job](https://github.com/gettyimages/gettyimages-api_nodejs/pull/79) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 months ago)
-- [Add scripts, Makefile, man pages, and AI agent guidance](https://github.com/mapitman/scripts/pull/1) on [mapitman/scripts](https://github.com/mapitman/scripts) (2 months ago)
-- [debian: add optional 3D printing tools install](https://github.com/mapitman/linux-bootstrap/pull/37) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 months ago)
+- [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/netcore-builder/pull/1) on [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-php-cli/pull/1) on [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/zoom-detector/pull/2) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/pitempd/pull/1) on [mapitman/pitempd](https://github.com/mapitman/pitempd) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-linux-tools/pull/1) on [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) (today)
 
 #### 📜 My recent blog posts
 
