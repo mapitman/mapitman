@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/beats](https://github.com/mapitman/beats) -  (today)
-- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (today)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (today)
+- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (today)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (today)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (today)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (today)
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
+- [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
 - [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (today)
 - [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (today)
@@ -49,8 +51,6 @@
 - [Migrate Makefile to justfile](https://github.com/mapitman/netcore-builder/pull/1) on [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) (today)
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-php-cli/pull/1) on [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) (today)
 - [Migrate Makefile to justfile](https://github.com/mapitman/zoom-detector/pull/2) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/pitempd/pull/1) on [mapitman/pitempd](https://github.com/mapitman/pitempd) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-linux-tools/pull/1) on [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) (today)
 
 #### 📜 My recent blog posts
 
