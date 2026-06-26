@@ -5,12 +5,17 @@ on:
   schedule:
     - cron: "15 */2 * * *" 
 
+permissions:
+  contents: write
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - uses: muesli/readme-scribe@master
         env:
@@ -19,9 +24,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update generated README
           branch: main
