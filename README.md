@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/beats](https://github.com/mapitman/beats) -  (today)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (today)
-- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (today)
-- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (today)
-- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (today)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (today)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (today)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (today)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (today)
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (today)
+- [mapitman/beats](https://github.com/mapitman/beats) -  (1 day ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
+- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (1 day ago)
+- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (1 day ago)
+- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 day ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 day ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (1 day ago)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 day ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (today)
-- [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/netcore-builder/pull/1) on [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-php-cli/pull/1) on [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) (today)
-- [Migrate Makefile to justfile](https://github.com/mapitman/zoom-detector/pull/2) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
+- [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
+- [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/netcore-builder/pull/1) on [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-php-cli/pull/1) on [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) (1 day ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/zoom-detector/pull/2) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 day ago)
 
 #### 📜 My recent blog posts
 
