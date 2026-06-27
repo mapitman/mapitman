@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/beats](https://github.com/mapitman/beats) -  (1 day ago)
+- [mapitman/pitempd](https://github.com/mapitman/pitempd) - Temperature daemon using the DHT22 sensor (1 day ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
 - [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (1 day ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (1 day ago)
@@ -11,7 +11,7 @@
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (1 day ago)
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 day ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) - Run redis-cli without installing it (1 day ago)
+- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
+- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (1 day ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 day ago)
 - [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (1 day ago)
@@ -48,9 +51,6 @@
 - [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (1 day ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (1 day ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (1 day ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/netcore-builder/pull/1) on [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) (1 day ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-php-cli/pull/1) on [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) (1 day ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/zoom-detector/pull/2) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 day ago)
 
 #### 📜 My recent blog posts
 
