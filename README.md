@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), today) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 4 weeks ago) - Web service which provides the current &#34;Internet Time&#34;
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.4](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.4), 2 months ago) - Getty Images API SDK for Node.js
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 3 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 3 months ago) - Docker image for building netcore applications
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 3 months ago) - Convert Time to Internet Time in beats
