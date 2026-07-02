@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/pitempd](https://github.com/mapitman/pitempd) - Temperature daemon using the DHT22 sensor (5 days ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (5 days ago)
-- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (5 days ago)
-- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (5 days ago)
-- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (5 days ago)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (5 days ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (5 days ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (5 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (5 days ago)
-- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (5 days ago)
+- [mapitman/pitempd](https://github.com/mapitman/pitempd) - Temperature daemon using the DHT22 sensor (6 days ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (6 days ago)
+- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (6 days ago)
+- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (6 days ago)
+- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (6 days ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (6 days ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (6 days ago)
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (6 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (6 days ago)
+- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), today) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 1 day ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 4 weeks ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 3 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 3 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
-- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
-- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
-- [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (5 days ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (5 days ago)
-- [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (5 days ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (5 days ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (5 days ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (5 days ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (5 days ago)
+- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (5 days ago)
+- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (5 days ago)
+- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (5 days ago)
+- [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (6 days ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (6 days ago)
+- [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (6 days ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (6 days ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (6 days ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (6 days ago)
+- [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (6 days ago)
 
 #### 📜 My recent blog posts
 
