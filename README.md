@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 2 days ago) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 3 days ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 4 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 4 months ago) - Docker image for building netcore applications
@@ -41,9 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
+- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
+- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
+- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (1 week ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (1 week ago)
 - [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (1 week ago)
