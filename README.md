@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (2 weeks ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (2 weeks ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
 - [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (2 weeks ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 weeks ago)
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (2 weeks ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add CLAUDE.md and ignore mise.toml](https://github.com/mapitman/mdview/pull/54) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
 - [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
@@ -50,7 +51,6 @@
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (2 weeks ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (2 weeks ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (2 weeks ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/pi-ticker/pull/2) on [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
