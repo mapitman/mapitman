@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add Claude Code GitHub Workflow](https://github.com/mapitman/mdview/pull/56) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
 - [Migrate build/release pipeline to goreleaser](https://github.com/mapitman/mdview/pull/55) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
 - [Add CLAUDE.md and ignore mise.toml](https://github.com/mapitman/mdview/pull/54) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 day ago)
 - [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
@@ -50,7 +51,6 @@
 - [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (2 weeks ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (2 weeks ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
