@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (today)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (2 weeks ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (2 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add CLAUDE.md and ignore mise.toml](https://github.com/mapitman/mdview/pull/54) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
-- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
-- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
-- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
+- [Migrate build/release pipeline to goreleaser](https://github.com/mapitman/mdview/pull/55) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Add CLAUDE.md and ignore mise.toml](https://github.com/mapitman/mdview/pull/54) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 day ago)
+- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
+- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
+- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
 - [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (2 weeks ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
 - [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (2 weeks ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (2 weeks ago)
 - [Migrate Makefile to justfile](https://github.com/mapitman/beats/pull/1) on [mapitman/beats](https://github.com/mapitman/beats) (2 weeks ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-rediscli/pull/1) on [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
