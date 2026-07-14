@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 days ago)
-- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (2 weeks ago)
+- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (2 weeks ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
-- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (2 weeks ago)
+- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (2 weeks ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 weeks ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
 - [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip
@@ -24,7 +25,6 @@
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix.
-- [mapitman/windows-setup](https://github.com/mapitman/windows-setup) - Use chocolatey to get my applications installed on Windows
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Seed default feeds (OPML)](https://github.com/mapitman/myfeeds-android/pull/39) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Settings store (DataStore)](https://github.com/mapitman/myfeeds-android/pull/38) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Repository layer](https://github.com/mapitman/myfeeds-android/pull/37) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Room entities &amp; DAOs](https://github.com/mapitman/myfeeds-android/pull/36) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [App theme &amp; design system](https://github.com/mapitman/myfeeds-android/pull/35) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [CI pipeline: build &#43; unit tests &#43; lint](https://github.com/mapitman/myfeeds-android/pull/34) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Wire core libraries &amp; DI](https://github.com/mapitman/myfeeds-android/pull/33) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Scaffold Android project](https://github.com/mapitman/myfeeds-android/pull/32) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add Claude Code GitHub Workflow](https://github.com/mapitman/mdview/pull/56) on [mapitman/mdview](https://github.com/mapitman/mdview) (3 days ago)
 - [Migrate build/release pipeline to goreleaser](https://github.com/mapitman/mdview/pull/55) on [mapitman/mdview](https://github.com/mapitman/mdview) (3 days ago)
-- [Add CLAUDE.md and ignore mise.toml](https://github.com/mapitman/mdview/pull/54) on [mapitman/mdview](https://github.com/mapitman/mdview) (4 days ago)
-- [Add project-specific agent rules](https://github.com/mapitman/linux-bootstrap/pull/44) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
-- [docs: update test/README.md to reference just instead of make](https://github.com/mapitman/linux-bootstrap/pull/43) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
-- [chore: Apply idempotent _gext_install pattern to all distros](https://github.com/mapitman/linux-bootstrap/pull/42) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 weeks ago)
-- [Add git-status-all script](https://github.com/mapitman/scripts/pull/6) on [mapitman/scripts](https://github.com/mapitman/scripts) (2 weeks ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/ripsharp/pull/73) on [mapitman/ripsharp](https://github.com/mapitman/ripsharp) (2 weeks ago)
-- [Skip archived repositories by default](https://github.com/mapitman/scripts/pull/5) on [mapitman/scripts](https://github.com/mapitman/scripts) (2 weeks ago)
-- [Migrate Makefile to justfile](https://github.com/mapitman/docker-hugo/pull/1) on [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
