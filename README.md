@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (4 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (5 days ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Background podcast downloads via WorkManager](https://github.com/mapitman/myfeeds-android/pull/55) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Scheduled feed refresh via WorkManager](https://github.com/mapitman/myfeeds-android/pull/53) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Resume position, mark-read on completion, and auto-advance](https://github.com/mapitman/myfeeds-android/pull/52) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [In-article podcast player UI](https://github.com/mapitman/myfeeds-android/pull/51) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -50,7 +51,6 @@
 - [Article reader](https://github.com/mapitman/myfeeds-android/pull/47) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Article list screen](https://github.com/mapitman/myfeeds-android/pull/46) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add feed / import](https://github.com/mapitman/myfeeds-android/pull/45) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Feed list (home) screen](https://github.com/mapitman/myfeeds-android/pull/44) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
