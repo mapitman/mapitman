@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add offline feed-directory search](https://github.com/mapitman/myfeeds-android/pull/63) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add branded launcher icon and splash screen](https://github.com/mapitman/myfeeds-android/pull/61) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add empty/error states, accessibility fixes, and font-size wiring](https://github.com/mapitman/myfeeds-android/pull/59) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Externalize UI strings and add DE/ES/FR/IT translations](https://github.com/mapitman/myfeeds-android/pull/58) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -50,7 +51,6 @@
 - [Scheduled feed refresh via WorkManager](https://github.com/mapitman/myfeeds-android/pull/53) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Resume position, mark-read on completion, and auto-advance](https://github.com/mapitman/myfeeds-android/pull/52) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [In-article podcast player UI](https://github.com/mapitman/myfeeds-android/pull/51) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Media3 playback service](https://github.com/mapitman/myfeeds-android/pull/50) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
