@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Scheduled feed refresh via WorkManager](https://github.com/mapitman/myfeeds-android/pull/53) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Resume position, mark-read on completion, and auto-advance](https://github.com/mapitman/myfeeds-android/pull/52) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [In-article podcast player UI](https://github.com/mapitman/myfeeds-android/pull/51) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Media3 playback service](https://github.com/mapitman/myfeeds-android/pull/50) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Feed properties &amp; OPML export](https://github.com/mapitman/myfeeds-android/pull/49) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -49,8 +51,6 @@
 - [Article list screen](https://github.com/mapitman/myfeeds-android/pull/46) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add feed / import](https://github.com/mapitman/myfeeds-android/pull/45) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Feed list (home) screen](https://github.com/mapitman/myfeeds-android/pull/44) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Feed update engine](https://github.com/mapitman/myfeeds-android/pull/43) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [First-image extraction &amp; clean-up](https://github.com/mapitman/myfeeds-android/pull/42) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
