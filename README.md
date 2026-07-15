@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (4 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (5 days ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (2 weeks ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 1 week ago) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 2 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 4 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 4 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Seed default feeds (OPML)](https://github.com/mapitman/myfeeds-android/pull/39) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Settings store (DataStore)](https://github.com/mapitman/myfeeds-android/pull/38) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Repository layer](https://github.com/mapitman/myfeeds-android/pull/37) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Room entities &amp; DAOs](https://github.com/mapitman/myfeeds-android/pull/36) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [App theme &amp; design system](https://github.com/mapitman/myfeeds-android/pull/35) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [CI pipeline: build &#43; unit tests &#43; lint](https://github.com/mapitman/myfeeds-android/pull/34) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Wire core libraries &amp; DI](https://github.com/mapitman/myfeeds-android/pull/33) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Scaffold Android project](https://github.com/mapitman/myfeeds-android/pull/32) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add Claude Code GitHub Workflow](https://github.com/mapitman/mdview/pull/56) on [mapitman/mdview](https://github.com/mapitman/mdview) (3 days ago)
-- [Migrate build/release pipeline to goreleaser](https://github.com/mapitman/mdview/pull/55) on [mapitman/mdview](https://github.com/mapitman/mdview) (3 days ago)
+- [Article list screen](https://github.com/mapitman/myfeeds-android/pull/46) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add feed / import](https://github.com/mapitman/myfeeds-android/pull/45) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Feed list (home) screen](https://github.com/mapitman/myfeeds-android/pull/44) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Feed update engine](https://github.com/mapitman/myfeeds-android/pull/43) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [First-image extraction &amp; clean-up](https://github.com/mapitman/myfeeds-android/pull/42) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Feed fetch &#43; HTML auto-discovery](https://github.com/mapitman/myfeeds-android/pull/41) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [RSS/Atom/RDF parser](https://github.com/mapitman/myfeeds-android/pull/40) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Seed default feeds (OPML)](https://github.com/mapitman/myfeeds-android/pull/39) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Settings store (DataStore)](https://github.com/mapitman/myfeeds-android/pull/38) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Repository layer](https://github.com/mapitman/myfeeds-android/pull/37) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
