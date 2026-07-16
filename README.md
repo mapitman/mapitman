@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show app icon in media notification controls (issue #116)](https://github.com/mapitman/myfeeds-android/pull/124) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Truncate long feed descriptions in the list (issue #86)](https://github.com/mapitman/myfeeds-android/pull/123) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show feed name in reader top bar (issue #105)](https://github.com/mapitman/myfeeds-android/pull/122) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show feed URL on Feed Properties screen (issue #104)](https://github.com/mapitman/myfeeds-android/pull/121) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Remove categories: fixed Podcasts/Feeds lists (issue #118)](https://github.com/mapitman/myfeeds-android/pull/119) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Animate mini-player transitions with shared elements (#112)](https://github.com/mapitman/myfeeds-android/pull/117) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Show elapsed/remaining time in the mini-player (#110, #80)](https://github.com/mapitman/myfeeds-android/pull/115) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Show current episode in Next Up and auto-advance the queue (#106)](https://github.com/mapitman/myfeeds-android/pull/114) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Restore last-playing episode, clean up state on completion (#107, #108)](https://github.com/mapitman/myfeeds-android/pull/113) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add a full player to the reader, hide mini-player when viewing it](https://github.com/mapitman/myfeeds-android/pull/111) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add variable playback speed, per feed](https://github.com/mapitman/myfeeds-android/pull/98) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Use &#34;Unplayed&#34; instead of &#34;Unread&#34; for podcast feeds](https://github.com/mapitman/myfeeds-android/pull/96) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Don&#39;t mark podcast episodes read until playback finishes](https://github.com/mapitman/myfeeds-android/pull/94) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add OPML import from pasted text](https://github.com/mapitman/myfeeds-android/pull/92) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix white flash in dark mode](https://github.com/mapitman/myfeeds-android/pull/91) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
