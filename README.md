@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (4 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (5 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (5 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (6 days ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (2 weeks ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add persistent now-playing mini-player (issue #66)](https://github.com/mapitman/myfeeds-android/pull/73) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add offline feed-directory search](https://github.com/mapitman/myfeeds-android/pull/63) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add branded launcher icon and splash screen](https://github.com/mapitman/myfeeds-android/pull/61) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add empty/error states, accessibility fixes, and font-size wiring](https://github.com/mapitman/myfeeds-android/pull/59) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Externalize UI strings and add DE/ES/FR/IT translations](https://github.com/mapitman/myfeeds-android/pull/58) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add optional notification for new items after refresh](https://github.com/mapitman/myfeeds-android/pull/57) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add home-screen widget with unread counts](https://github.com/mapitman/myfeeds-android/pull/56) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Background podcast downloads via WorkManager](https://github.com/mapitman/myfeeds-android/pull/55) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Scheduled feed refresh via WorkManager](https://github.com/mapitman/myfeeds-android/pull/53) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Resume position, mark-read on completion, and auto-advance](https://github.com/mapitman/myfeeds-android/pull/52) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add pull-to-refresh to article list (issue #76)](https://github.com/mapitman/myfeeds-android/pull/78) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Fix reader progress bar to show saved resume position (issue #75)](https://github.com/mapitman/myfeeds-android/pull/77) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add Podcasts section (issue #65)](https://github.com/mapitman/myfeeds-android/pull/74) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add persistent now-playing mini-player (issue #66)](https://github.com/mapitman/myfeeds-android/pull/73) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add offline feed-directory search](https://github.com/mapitman/myfeeds-android/pull/63) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add branded launcher icon and splash screen](https://github.com/mapitman/myfeeds-android/pull/61) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add empty/error states, accessibility fixes, and font-size wiring](https://github.com/mapitman/myfeeds-android/pull/59) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Externalize UI strings and add DE/ES/FR/IT translations](https://github.com/mapitman/myfeeds-android/pull/58) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add optional notification for new items after refresh](https://github.com/mapitman/myfeeds-android/pull/57) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add home-screen widget with unread counts](https://github.com/mapitman/myfeeds-android/pull/56) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
