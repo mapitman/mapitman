@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Animate mini-player transitions with shared elements (#112)](https://github.com/mapitman/myfeeds-android/pull/117) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show elapsed/remaining time in the mini-player (#110, #80)](https://github.com/mapitman/myfeeds-android/pull/115) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show current episode in Next Up and auto-advance the queue (#106)](https://github.com/mapitman/myfeeds-android/pull/114) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Restore last-playing episode, clean up state on completion (#107, #108)](https://github.com/mapitman/myfeeds-android/pull/113) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add a full player to the reader, hide mini-player when viewing it](https://github.com/mapitman/myfeeds-android/pull/111) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add variable playback speed, per feed](https://github.com/mapitman/myfeeds-android/pull/98) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -48,9 +51,6 @@
 - [Don&#39;t mark podcast episodes read until playback finishes](https://github.com/mapitman/myfeeds-android/pull/94) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add OPML import from pasted text](https://github.com/mapitman/myfeeds-android/pull/92) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix white flash in dark mode](https://github.com/mapitman/myfeeds-android/pull/91) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Auto-queue new episodes per feed, with a per-feed queue cap (issue #68)](https://github.com/mapitman/myfeeds-android/pull/87) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [&#34;Next Up&#34; playback queue (issue #67)](https://github.com/mapitman/myfeeds-android/pull/85) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add pull-to-refresh to article list (issue #76)](https://github.com/mapitman/myfeeds-android/pull/78) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
