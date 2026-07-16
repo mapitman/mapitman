@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add variable playback speed, per feed](https://github.com/mapitman/myfeeds-android/pull/98) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Use &#34;Unplayed&#34; instead of &#34;Unread&#34; for podcast feeds](https://github.com/mapitman/myfeeds-android/pull/96) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Don&#39;t mark podcast episodes read until playback finishes](https://github.com/mapitman/myfeeds-android/pull/94) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add OPML import from pasted text](https://github.com/mapitman/myfeeds-android/pull/92) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix white flash in dark mode](https://github.com/mapitman/myfeeds-android/pull/91) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Auto-queue new episodes per feed, with a per-feed queue cap (issue #68)](https://github.com/mapitman/myfeeds-android/pull/87) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -48,9 +51,6 @@
 - [Add pull-to-refresh to article list (issue #76)](https://github.com/mapitman/myfeeds-android/pull/78) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix reader progress bar to show saved resume position (issue #75)](https://github.com/mapitman/myfeeds-android/pull/77) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add Podcasts section (issue #65)](https://github.com/mapitman/myfeeds-android/pull/74) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add persistent now-playing mini-player (issue #66)](https://github.com/mapitman/myfeeds-android/pull/73) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add offline feed-directory search](https://github.com/mapitman/myfeeds-android/pull/63) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add branded launcher icon and splash screen](https://github.com/mapitman/myfeeds-android/pull/61) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
