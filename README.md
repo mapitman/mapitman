@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [&#34;Next Up&#34; playback queue (issue #67)](https://github.com/mapitman/myfeeds-android/pull/85) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add pull-to-refresh to article list (issue #76)](https://github.com/mapitman/myfeeds-android/pull/78) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix reader progress bar to show saved resume position (issue #75)](https://github.com/mapitman/myfeeds-android/pull/77) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add Podcasts section (issue #65)](https://github.com/mapitman/myfeeds-android/pull/74) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -50,7 +51,6 @@
 - [Add empty/error states, accessibility fixes, and font-size wiring](https://github.com/mapitman/myfeeds-android/pull/59) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Externalize UI strings and add DE/ES/FR/IT translations](https://github.com/mapitman/myfeeds-android/pull/58) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add optional notification for new items after refresh](https://github.com/mapitman/myfeeds-android/pull/57) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add home-screen widget with unread counts](https://github.com/mapitman/myfeeds-android/pull/56) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
