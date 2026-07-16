@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (5 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (6 days ago)
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add OPML import from pasted text](https://github.com/mapitman/myfeeds-android/pull/92) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix white flash in dark mode](https://github.com/mapitman/myfeeds-android/pull/91) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Auto-queue new episodes per feed, with a per-feed queue cap (issue #68)](https://github.com/mapitman/myfeeds-android/pull/87) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [&#34;Next Up&#34; playback queue (issue #67)](https://github.com/mapitman/myfeeds-android/pull/85) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add pull-to-refresh to article list (issue #76)](https://github.com/mapitman/myfeeds-android/pull/78) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix reader progress bar to show saved resume position (issue #75)](https://github.com/mapitman/myfeeds-android/pull/77) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -48,9 +51,6 @@
 - [Add persistent now-playing mini-player (issue #66)](https://github.com/mapitman/myfeeds-android/pull/73) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add offline feed-directory search](https://github.com/mapitman/myfeeds-android/pull/63) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add branded launcher icon and splash screen](https://github.com/mapitman/myfeeds-android/pull/61) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add empty/error states, accessibility fixes, and font-size wiring](https://github.com/mapitman/myfeeds-android/pull/59) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Externalize UI strings and add DE/ES/FR/IT translations](https://github.com/mapitman/myfeeds-android/pull/58) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add optional notification for new items after refresh](https://github.com/mapitman/myfeeds-android/pull/57) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
