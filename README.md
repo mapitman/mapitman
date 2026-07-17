@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (5 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (6 days ago)
-- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (2 weeks ago)
-- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (2 weeks ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
-- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (2 weeks ago)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (2 weeks ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (2 weeks ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (6 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
+- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (3 weeks ago)
+- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (3 weeks ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (3 weeks ago)
+- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (3 weeks ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 weeks ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Show app icon in media notification controls (issue #116)](https://github.com/mapitman/myfeeds-android/pull/124) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Truncate long feed descriptions in the list (issue #86)](https://github.com/mapitman/myfeeds-android/pull/123) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show feed name in reader top bar (issue #105)](https://github.com/mapitman/myfeeds-android/pull/122) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show feed URL on Feed Properties screen (issue #104)](https://github.com/mapitman/myfeeds-android/pull/121) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Remove categories: fixed Podcasts/Feeds lists (issue #118)](https://github.com/mapitman/myfeeds-android/pull/119) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Animate mini-player transitions with shared elements (#112)](https://github.com/mapitman/myfeeds-android/pull/117) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show elapsed/remaining time in the mini-player (#110, #80)](https://github.com/mapitman/myfeeds-android/pull/115) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show current episode in Next Up and auto-advance the queue (#106)](https://github.com/mapitman/myfeeds-android/pull/114) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Restore last-playing episode, clean up state on completion (#107, #108)](https://github.com/mapitman/myfeeds-android/pull/113) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add a full player to the reader, hide mini-player when viewing it](https://github.com/mapitman/myfeeds-android/pull/111) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Guard against double-advancing Next Up on episode end (issue #127)](https://github.com/mapitman/myfeeds-android/pull/129) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Exempt queued items from feed item-count trim (issue #125)](https://github.com/mapitman/myfeeds-android/pull/128) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show app icon in media notification controls (issue #116)](https://github.com/mapitman/myfeeds-android/pull/124) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Truncate long feed descriptions in the list (issue #86)](https://github.com/mapitman/myfeeds-android/pull/123) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show feed name in reader top bar (issue #105)](https://github.com/mapitman/myfeeds-android/pull/122) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show feed URL on Feed Properties screen (issue #104)](https://github.com/mapitman/myfeeds-android/pull/121) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Remove categories: fixed Podcasts/Feeds lists (issue #118)](https://github.com/mapitman/myfeeds-android/pull/119) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Animate mini-player transitions with shared elements (#112)](https://github.com/mapitman/myfeeds-android/pull/117) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show elapsed/remaining time in the mini-player (#110, #80)](https://github.com/mapitman/myfeeds-android/pull/115) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show current episode in Next Up and auto-advance the queue (#106)](https://github.com/mapitman/myfeeds-android/pull/114) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
