@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (6 days ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove some playback speed options (issue #145)](https://github.com/mapitman/myfeeds-android/pull/157) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add to Next Up from episode view (issue #144)](https://github.com/mapitman/myfeeds-android/pull/155) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix Next Up episodes dropping on feed refresh (issue #153)](https://github.com/mapitman/myfeeds-android/pull/154) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Use circular-arrow skip icons; add chapter nav to mini-player](https://github.com/mapitman/myfeeds-android/pull/143) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Support podcast chapters (issue #95)](https://github.com/mapitman/myfeeds-android/pull/142) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix swipe-to-toggle-read background showing on every row (issue #120 follow-up)](https://github.com/mapitman/myfeeds-android/pull/141) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -48,9 +51,6 @@
 - [Auto-delete finished podcast downloads (issue #71)](https://github.com/mapitman/myfeeds-android/pull/139) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Default new podcast subscriptions to auto-queue, capped at 5 (issue #137)](https://github.com/mapitman/myfeeds-android/pull/138) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add select-all to article/episode multi-select (issue #72)](https://github.com/mapitman/myfeeds-android/pull/136) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Trigger auto-download/auto-queue from manual pull-to-refresh (issue #88)](https://github.com/mapitman/myfeeds-android/pull/135) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add swipe-to-toggle read/unread on article rows (issue #120)](https://github.com/mapitman/myfeeds-android/pull/134) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show podcast/feed title in mini-player (issue #109)](https://github.com/mapitman/myfeeds-android/pull/133) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
