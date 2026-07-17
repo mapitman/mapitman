@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Freeze unread counts while a feed refresh is in progress (issue #152)](https://github.com/mapitman/myfeeds-android/pull/176) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Turn Add to Next Up into a toggle in the reader (issue #160)](https://github.com/mapitman/myfeeds-android/pull/175) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add per-feed auto-queue position: top or bottom (issue #166)](https://github.com/mapitman/myfeeds-android/pull/174) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix dragged Next Up item clipping under app bar at top (issue #163)](https://github.com/mapitman/myfeeds-android/pull/173) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show Next Up player and list side by side in landscape (issue #158)](https://github.com/mapitman/myfeeds-android/pull/172) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add ability to save OPML export to a file (issue #151)](https://github.com/mapitman/myfeeds-android/pull/170) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Make MyFeeds a share target for URLs (issue #150)](https://github.com/mapitman/myfeeds-android/pull/169) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Upgrade http:// image URLs to https:// (issue #149)](https://github.com/mapitman/myfeeds-android/pull/168) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add feed settings button to feed view (issue #148)](https://github.com/mapitman/myfeeds-android/pull/167) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Use &#34;episode&#34; instead of &#34;article&#34; for podcasts (issue #147)](https://github.com/mapitman/myfeeds-android/pull/165) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add cover thumbnail and date to Next Up list items (issue #146)](https://github.com/mapitman/myfeeds-android/pull/164) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Remove some playback speed options (issue #145)](https://github.com/mapitman/myfeeds-android/pull/157) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add to Next Up from episode view (issue #144)](https://github.com/mapitman/myfeeds-android/pull/155) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix Next Up episodes dropping on feed refresh (issue #153)](https://github.com/mapitman/myfeeds-android/pull/154) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Use circular-arrow skip icons; add chapter nav to mini-player](https://github.com/mapitman/myfeeds-android/pull/143) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
