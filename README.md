@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use circular-arrow skip icons; add chapter nav to mini-player](https://github.com/mapitman/myfeeds-android/pull/143) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Support podcast chapters (issue #95)](https://github.com/mapitman/myfeeds-android/pull/142) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix swipe-to-toggle-read background showing on every row (issue #120 follow-up)](https://github.com/mapitman/myfeeds-android/pull/141) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add unified Downloads screen (issue #69)](https://github.com/mapitman/myfeeds-android/pull/140) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Auto-delete finished podcast downloads (issue #71)](https://github.com/mapitman/myfeeds-android/pull/139) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -49,8 +51,6 @@
 - [Trigger auto-download/auto-queue from manual pull-to-refresh (issue #88)](https://github.com/mapitman/myfeeds-android/pull/135) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add swipe-to-toggle read/unread on article rows (issue #120)](https://github.com/mapitman/myfeeds-android/pull/134) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Show podcast/feed title in mini-player (issue #109)](https://github.com/mapitman/myfeeds-android/pull/133) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fall back to global max articles when a feed has no override (issue #82)](https://github.com/mapitman/myfeeds-android/pull/132) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Exempt manually-queued episodes from auto-queue cap eviction (issue #125/#127)](https://github.com/mapitman/myfeeds-android/pull/131) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
