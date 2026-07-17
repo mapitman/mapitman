@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Exempt manually-queued episodes from auto-queue cap eviction (issue #125/#127)](https://github.com/mapitman/myfeeds-android/pull/131) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show Snackbar feedback when adding to Next Up (issue #126)](https://github.com/mapitman/myfeeds-android/pull/130) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Guard against double-advancing Next Up on episode end (issue #127)](https://github.com/mapitman/myfeeds-android/pull/129) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Exempt queued items from feed item-count trim (issue #125)](https://github.com/mapitman/myfeeds-android/pull/128) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Show app icon in media notification controls (issue #116)](https://github.com/mapitman/myfeeds-android/pull/124) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Show feed URL on Feed Properties screen (issue #104)](https://github.com/mapitman/myfeeds-android/pull/121) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Remove categories: fixed Podcasts/Feeds lists (issue #118)](https://github.com/mapitman/myfeeds-android/pull/119) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Animate mini-player transitions with shared elements (#112)](https://github.com/mapitman/myfeeds-android/pull/117) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show elapsed/remaining time in the mini-player (#110, #80)](https://github.com/mapitman/myfeeds-android/pull/115) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show current episode in Next Up and auto-advance the queue (#106)](https://github.com/mapitman/myfeeds-android/pull/114) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
