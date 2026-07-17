@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix swipe-to-toggle-read background showing on every row (issue #120 follow-up)](https://github.com/mapitman/myfeeds-android/pull/141) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add unified Downloads screen (issue #69)](https://github.com/mapitman/myfeeds-android/pull/140) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Auto-delete finished podcast downloads (issue #71)](https://github.com/mapitman/myfeeds-android/pull/139) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Default new podcast subscriptions to auto-queue, capped at 5 (issue #137)](https://github.com/mapitman/myfeeds-android/pull/138) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add select-all to article/episode multi-select (issue #72)](https://github.com/mapitman/myfeeds-android/pull/136) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Trigger auto-download/auto-queue from manual pull-to-refresh (issue #88)](https://github.com/mapitman/myfeeds-android/pull/135) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add swipe-to-toggle read/unread on article rows (issue #120)](https://github.com/mapitman/myfeeds-android/pull/134) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show podcast/feed title in mini-player (issue #109)](https://github.com/mapitman/myfeeds-android/pull/133) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fall back to global max articles when a feed has no override (issue #82)](https://github.com/mapitman/myfeeds-android/pull/132) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Exempt manually-queued episodes from auto-queue cap eviction (issue #125/#127)](https://github.com/mapitman/myfeeds-android/pull/131) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show Snackbar feedback when adding to Next Up (issue #126)](https://github.com/mapitman/myfeeds-android/pull/130) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Guard against double-advancing Next Up on episode end (issue #127)](https://github.com/mapitman/myfeeds-android/pull/129) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Exempt queued items from feed item-count trim (issue #125)](https://github.com/mapitman/myfeeds-android/pull/128) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show app icon in media notification controls (issue #116)](https://github.com/mapitman/myfeeds-android/pull/124) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Truncate long feed descriptions in the list (issue #86)](https://github.com/mapitman/myfeeds-android/pull/123) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show feed name in reader top bar (issue #105)](https://github.com/mapitman/myfeeds-android/pull/122) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show feed URL on Feed Properties screen (issue #104)](https://github.com/mapitman/myfeeds-android/pull/121) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Remove categories: fixed Podcasts/Feeds lists (issue #118)](https://github.com/mapitman/myfeeds-android/pull/119) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Animate mini-player transitions with shared elements (#112)](https://github.com/mapitman/myfeeds-android/pull/117) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
