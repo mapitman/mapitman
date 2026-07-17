@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add ability to save OPML export to a file (issue #151)](https://github.com/mapitman/myfeeds-android/pull/170) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Make MyFeeds a share target for URLs (issue #150)](https://github.com/mapitman/myfeeds-android/pull/169) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Upgrade http:// image URLs to https:// (issue #149)](https://github.com/mapitman/myfeeds-android/pull/168) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add feed settings button to feed view (issue #148)](https://github.com/mapitman/myfeeds-android/pull/167) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Use &#34;episode&#34; instead of &#34;article&#34; for podcasts (issue #147)](https://github.com/mapitman/myfeeds-android/pull/165) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add cover thumbnail and date to Next Up list items (issue #146)](https://github.com/mapitman/myfeeds-android/pull/164) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -48,9 +51,6 @@
 - [Add to Next Up from episode view (issue #144)](https://github.com/mapitman/myfeeds-android/pull/155) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix Next Up episodes dropping on feed refresh (issue #153)](https://github.com/mapitman/myfeeds-android/pull/154) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Use circular-arrow skip icons; add chapter nav to mini-player](https://github.com/mapitman/myfeeds-android/pull/143) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Support podcast chapters (issue #95)](https://github.com/mapitman/myfeeds-android/pull/142) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix swipe-to-toggle-read background showing on every row (issue #120 follow-up)](https://github.com/mapitman/myfeeds-android/pull/141) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add unified Downloads screen (issue #69)](https://github.com/mapitman/myfeeds-android/pull/140) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
