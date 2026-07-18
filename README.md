@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add multiple selected episodes to Next Up at once (issue #159)](https://github.com/mapitman/myfeeds-android/pull/178) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Freeze unread counts while a feed refresh is in progress (issue #152)](https://github.com/mapitman/myfeeds-android/pull/176) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Turn Add to Next Up into a toggle in the reader (issue #160)](https://github.com/mapitman/myfeeds-android/pull/175) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add per-feed auto-queue position: top or bottom (issue #166)](https://github.com/mapitman/myfeeds-android/pull/174) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -50,7 +51,6 @@
 - [Make MyFeeds a share target for URLs (issue #150)](https://github.com/mapitman/myfeeds-android/pull/169) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Upgrade http:// image URLs to https:// (issue #149)](https://github.com/mapitman/myfeeds-android/pull/168) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add feed settings button to feed view (issue #148)](https://github.com/mapitman/myfeeds-android/pull/167) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Use &#34;episode&#34; instead of &#34;article&#34; for podcasts (issue #147)](https://github.com/mapitman/myfeeds-android/pull/165) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
