@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make feed refresh concurrency user-configurable (issue #177)](https://github.com/mapitman/myfeeds-android/pull/184) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Duck/pause playback for other apps&#39; audio focus (issue #180)](https://github.com/mapitman/myfeeds-android/pull/183) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Advance to next Next Up episode from the service, not the UI (issue #179)](https://github.com/mapitman/myfeeds-android/pull/182) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Dequeue an episode from Next Up when it starts playing (issue #171)](https://github.com/mapitman/myfeeds-android/pull/181) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add multiple selected episodes to Next Up at once (issue #159)](https://github.com/mapitman/myfeeds-android/pull/178) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Freeze unread counts while a feed refresh is in progress (issue #152)](https://github.com/mapitman/myfeeds-android/pull/176) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Turn Add to Next Up into a toggle in the reader (issue #160)](https://github.com/mapitman/myfeeds-android/pull/175) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add per-feed auto-queue position: top or bottom (issue #166)](https://github.com/mapitman/myfeeds-android/pull/174) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix dragged Next Up item clipping under app bar at top (issue #163)](https://github.com/mapitman/myfeeds-android/pull/173) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Show Next Up player and list side by side in landscape (issue #158)](https://github.com/mapitman/myfeeds-android/pull/172) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add ability to save OPML export to a file (issue #151)](https://github.com/mapitman/myfeeds-android/pull/170) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Make MyFeeds a share target for URLs (issue #150)](https://github.com/mapitman/myfeeds-android/pull/169) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Upgrade http:// image URLs to https:// (issue #149)](https://github.com/mapitman/myfeeds-android/pull/168) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add feed settings button to feed view (issue #148)](https://github.com/mapitman/myfeeds-android/pull/167) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
