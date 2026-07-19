@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (6 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (3 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Make feed refresh concurrency user-configurable (issue #177)](https://github.com/mapitman/myfeeds-android/pull/184) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Duck/pause playback for other apps&#39; audio focus (issue #180)](https://github.com/mapitman/myfeeds-android/pull/183) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Advance to next Next Up episode from the service, not the UI (issue #179)](https://github.com/mapitman/myfeeds-android/pull/182) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Dequeue an episode from Next Up when it starts playing (issue #171)](https://github.com/mapitman/myfeeds-android/pull/181) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add multiple selected episodes to Next Up at once (issue #159)](https://github.com/mapitman/myfeeds-android/pull/178) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Freeze unread counts while a feed refresh is in progress (issue #152)](https://github.com/mapitman/myfeeds-android/pull/176) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Turn Add to Next Up into a toggle in the reader (issue #160)](https://github.com/mapitman/myfeeds-android/pull/175) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add per-feed auto-queue position: top or bottom (issue #166)](https://github.com/mapitman/myfeeds-android/pull/174) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Fix dragged Next Up item clipping under app bar at top (issue #163)](https://github.com/mapitman/myfeeds-android/pull/173) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show Next Up player and list side by side in landscape (issue #158)](https://github.com/mapitman/myfeeds-android/pull/172) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Make feed refresh concurrency user-configurable (issue #177)](https://github.com/mapitman/myfeeds-android/pull/184) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Duck/pause playback for other apps&#39; audio focus (issue #180)](https://github.com/mapitman/myfeeds-android/pull/183) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Advance to next Next Up episode from the service, not the UI (issue #179)](https://github.com/mapitman/myfeeds-android/pull/182) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Dequeue an episode from Next Up when it starts playing (issue #171)](https://github.com/mapitman/myfeeds-android/pull/181) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add multiple selected episodes to Next Up at once (issue #159)](https://github.com/mapitman/myfeeds-android/pull/178) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Freeze unread counts while a feed refresh is in progress (issue #152)](https://github.com/mapitman/myfeeds-android/pull/176) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Turn Add to Next Up into a toggle in the reader (issue #160)](https://github.com/mapitman/myfeeds-android/pull/175) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Add per-feed auto-queue position: top or bottom (issue #166)](https://github.com/mapitman/myfeeds-android/pull/174) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Fix dragged Next Up item clipping under app bar at top (issue #163)](https://github.com/mapitman/myfeeds-android/pull/173) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Show Next Up player and list side by side in landscape (issue #158)](https://github.com/mapitman/myfeeds-android/pull/172) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
