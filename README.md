@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Polish the player bottom sheet (issue #197)](https://github.com/mapitman/myfeeds-android/pull/198) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Turn the player into a swipeable bottom-sheet drawer (issue #195)](https://github.com/mapitman/myfeeds-android/pull/196) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Requeue the episode when playback is explicitly stopped (issue #191)](https://github.com/mapitman/myfeeds-android/pull/193) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Don&#39;t clobber concurrent feed edits during a refresh (issue #189)](https://github.com/mapitman/myfeeds-android/pull/192) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Enlarge player buttons further and move speed/chapter nav row (issue #186)](https://github.com/mapitman/myfeeds-android/pull/190) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Keep PlaybackController feed/item tracking in sync with the player (issue #179)](https://github.com/mapitman/myfeeds-android/pull/188) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add speed control and enlarge player buttons (issue #185, #186)](https://github.com/mapitman/myfeeds-android/pull/187) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Make feed refresh concurrency user-configurable (issue #177)](https://github.com/mapitman/myfeeds-android/pull/184) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Duck/pause playback for other apps&#39; audio focus (issue #180)](https://github.com/mapitman/myfeeds-android/pull/183) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Advance to next Next Up episode from the service, not the UI (issue #179)](https://github.com/mapitman/myfeeds-android/pull/182) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Dequeue an episode from Next Up when it starts playing (issue #171)](https://github.com/mapitman/myfeeds-android/pull/181) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Add multiple selected episodes to Next Up at once (issue #159)](https://github.com/mapitman/myfeeds-android/pull/178) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Freeze unread counts while a feed refresh is in progress (issue #152)](https://github.com/mapitman/myfeeds-android/pull/176) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Turn Add to Next Up into a toggle in the reader (issue #160)](https://github.com/mapitman/myfeeds-android/pull/175) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
