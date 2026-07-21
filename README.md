@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Expose volume boost control directly in the player (issue #202)](https://github.com/mapitman/myfeeds-android/pull/204) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add per-podcast volume boost and start-of-episode skip (issue #199/#200)](https://github.com/mapitman/myfeeds-android/pull/201) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Polish the player bottom sheet (issue #197)](https://github.com/mapitman/myfeeds-android/pull/198) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Turn the player into a swipeable bottom-sheet drawer (issue #195)](https://github.com/mapitman/myfeeds-android/pull/196) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Requeue the episode when playback is explicitly stopped (issue #191)](https://github.com/mapitman/myfeeds-android/pull/193) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Don&#39;t clobber concurrent feed edits during a refresh (issue #189)](https://github.com/mapitman/myfeeds-android/pull/192) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Enlarge player buttons further and move speed/chapter nav row (issue #186)](https://github.com/mapitman/myfeeds-android/pull/190) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Keep PlaybackController feed/item tracking in sync with the player (issue #179)](https://github.com/mapitman/myfeeds-android/pull/188) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add speed control and enlarge player buttons (issue #185, #186)](https://github.com/mapitman/myfeeds-android/pull/187) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Make feed refresh concurrency user-configurable (issue #177)](https://github.com/mapitman/myfeeds-android/pull/184) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Expose volume boost control directly in the player (issue #202)](https://github.com/mapitman/myfeeds-android/pull/204) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add per-podcast volume boost and start-of-episode skip (issue #199/#200)](https://github.com/mapitman/myfeeds-android/pull/201) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Polish the player bottom sheet (issue #197)](https://github.com/mapitman/myfeeds-android/pull/198) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Turn the player into a swipeable bottom-sheet drawer (issue #195)](https://github.com/mapitman/myfeeds-android/pull/196) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Requeue the episode when playback is explicitly stopped (issue #191)](https://github.com/mapitman/myfeeds-android/pull/193) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Don&#39;t clobber concurrent feed edits during a refresh (issue #189)](https://github.com/mapitman/myfeeds-android/pull/192) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Enlarge player buttons further and move speed/chapter nav row (issue #186)](https://github.com/mapitman/myfeeds-android/pull/190) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Keep PlaybackController feed/item tracking in sync with the player (issue #179)](https://github.com/mapitman/myfeeds-android/pull/188) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add speed control and enlarge player buttons (issue #185, #186)](https://github.com/mapitman/myfeeds-android/pull/187) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Make feed refresh concurrency user-configurable (issue #177)](https://github.com/mapitman/myfeeds-android/pull/184) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
