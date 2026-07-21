@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Auto-scroll Next Up list when dragging near an edge (issue #211)](https://github.com/mapitman/myfeeds-android/pull/214) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix lintDebug errors in PlaybackService (issue #212)](https://github.com/mapitman/myfeeds-android/pull/213) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Rework Next Up drag-to-reorder to fix visual bugs (issue #209)](https://github.com/mapitman/myfeeds-android/pull/210) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Expand list content when player is minimized (issue #203)](https://github.com/mapitman/myfeeds-android/pull/208) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Hold a wake lock across the STATE_ENDED-to-next-episode gap (issue #179)](https://github.com/mapitman/myfeeds-android/pull/207) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Hold a network wake lock during playback (issue #179)](https://github.com/mapitman/myfeeds-android/pull/206) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -48,9 +51,6 @@
 - [Expose volume boost control directly in the player (issue #202)](https://github.com/mapitman/myfeeds-android/pull/204) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add per-podcast volume boost and start-of-episode skip (issue #199/#200)](https://github.com/mapitman/myfeeds-android/pull/201) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Polish the player bottom sheet (issue #197)](https://github.com/mapitman/myfeeds-android/pull/198) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Turn the player into a swipeable bottom-sheet drawer (issue #195)](https://github.com/mapitman/myfeeds-android/pull/196) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Requeue the episode when playback is explicitly stopped (issue #191)](https://github.com/mapitman/myfeeds-android/pull/193) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Don&#39;t clobber concurrent feed edits during a refresh (issue #189)](https://github.com/mapitman/myfeeds-android/pull/192) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
