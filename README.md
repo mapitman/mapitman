@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Cap stored article description length (issue #234)](https://github.com/mapitman/myfeeds-android/pull/235) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Make Feed Properties screen scrollable (issue #232)](https://github.com/mapitman/myfeeds-android/pull/233) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -50,7 +51,6 @@
 - [Recover missing article links from guid and untyped Atom links (issue #221)](https://github.com/mapitman/myfeeds-android/pull/225) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Backfill blank feed titles from the fetched feed (issue #219)](https://github.com/mapitman/myfeeds-android/pull/224) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Show Snackbar feedback for OPML import (issue #218)](https://github.com/mapitman/myfeeds-android/pull/220) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Isolate the flaky addSelectedToQueue test into its own JVM fork (issue #215)](https://github.com/mapitman/myfeeds-android/pull/217) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 
 #### 📜 My recent blog posts
 
