@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Cap stored article description length (issue #234)](https://github.com/mapitman/myfeeds-android/pull/235) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Make Feed Properties screen scrollable (issue #232)](https://github.com/mapitman/myfeeds-android/pull/233) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Skip already-subscribed feeds on OPML import (issue #228)](https://github.com/mapitman/myfeeds-android/pull/229) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix Atom content/summary selection to prefer by name, not order (issue #223)](https://github.com/mapitman/myfeeds-android/pull/227) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Strip the extracted lead image from stored article body (issue #222)](https://github.com/mapitman/myfeeds-android/pull/226) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -48,9 +51,6 @@
 - [Backfill blank feed titles from the fetched feed (issue #219)](https://github.com/mapitman/myfeeds-android/pull/224) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Show Snackbar feedback for OPML import (issue #218)](https://github.com/mapitman/myfeeds-android/pull/220) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Isolate the flaky addSelectedToQueue test into its own JVM fork (issue #215)](https://github.com/mapitman/myfeeds-android/pull/217) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix ViewModel test teardown to quiesce before Dispatchers.resetMain (issue #54, #60)](https://github.com/mapitman/myfeeds-android/pull/216) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Auto-scroll Next Up list when dragging near an edge (issue #211)](https://github.com/mapitman/myfeeds-android/pull/214) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Fix lintDebug errors in PlaybackService (issue #212)](https://github.com/mapitman/myfeeds-android/pull/213) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
