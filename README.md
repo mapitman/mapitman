@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip already-subscribed feeds on OPML import (issue #228)](https://github.com/mapitman/myfeeds-android/pull/229) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix Atom content/summary selection to prefer by name, not order (issue #223)](https://github.com/mapitman/myfeeds-android/pull/227) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Strip the extracted lead image from stored article body (issue #222)](https://github.com/mapitman/myfeeds-android/pull/226) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Recover missing article links from guid and untyped Atom links (issue #221)](https://github.com/mapitman/myfeeds-android/pull/225) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Backfill blank feed titles from the fetched feed (issue #219)](https://github.com/mapitman/myfeeds-android/pull/224) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show Snackbar feedback for OPML import (issue #218)](https://github.com/mapitman/myfeeds-android/pull/220) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Isolate the flaky addSelectedToQueue test into its own JVM fork (issue #215)](https://github.com/mapitman/myfeeds-android/pull/217) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix ViewModel test teardown to quiesce before Dispatchers.resetMain (issue #54, #60)](https://github.com/mapitman/myfeeds-android/pull/216) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Auto-scroll Next Up list when dragging near an edge (issue #211)](https://github.com/mapitman/myfeeds-android/pull/214) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix lintDebug errors in PlaybackService (issue #212)](https://github.com/mapitman/myfeeds-android/pull/213) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Rework Next Up drag-to-reorder to fix visual bugs (issue #209)](https://github.com/mapitman/myfeeds-android/pull/210) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Expand list content when player is minimized (issue #203)](https://github.com/mapitman/myfeeds-android/pull/208) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Hold a wake lock across the STATE_ENDED-to-next-episode gap (issue #179)](https://github.com/mapitman/myfeeds-android/pull/207) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Hold a network wake lock during playback (issue #179)](https://github.com/mapitman/myfeeds-android/pull/206) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Pause instead of duck for nav announcements (issue #180)](https://github.com/mapitman/myfeeds-android/pull/205) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Expose volume boost control directly in the player (issue #202)](https://github.com/mapitman/myfeeds-android/pull/204) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
