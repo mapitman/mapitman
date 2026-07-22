@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Isolate the flaky addSelectedToQueue test into its own JVM fork (issue #215)](https://github.com/mapitman/myfeeds-android/pull/217) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix ViewModel test teardown to quiesce before Dispatchers.resetMain (issue #54, #60)](https://github.com/mapitman/myfeeds-android/pull/216) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Auto-scroll Next Up list when dragging near an edge (issue #211)](https://github.com/mapitman/myfeeds-android/pull/214) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix lintDebug errors in PlaybackService (issue #212)](https://github.com/mapitman/myfeeds-android/pull/213) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -50,7 +51,6 @@
 - [Hold a network wake lock during playback (issue #179)](https://github.com/mapitman/myfeeds-android/pull/206) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Pause instead of duck for nav announcements (issue #180)](https://github.com/mapitman/myfeeds-android/pull/205) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Expose volume boost control directly in the player (issue #202)](https://github.com/mapitman/myfeeds-android/pull/204) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Add per-podcast volume boost and start-of-episode skip (issue #199/#200)](https://github.com/mapitman/myfeeds-android/pull/201) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
