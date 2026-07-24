@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
-- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (3 weeks ago)
-- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (3 weeks ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (3 weeks ago)
-- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (3 weeks ago)
-- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (3 weeks ago)
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (3 weeks ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
+- [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (4 weeks ago)
+- [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (4 weeks ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (4 weeks ago)
+- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (4 weeks ago)
+- [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (4 weeks ago)
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) - Docker image to build hugo websites (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Cap stored article description length (issue #234)](https://github.com/mapitman/myfeeds-android/pull/235) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Make Feed Properties screen scrollable (issue #232)](https://github.com/mapitman/myfeeds-android/pull/233) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Skip already-subscribed feeds on OPML import (issue #228)](https://github.com/mapitman/myfeeds-android/pull/229) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Fix Atom content/summary selection to prefer by name, not order (issue #223)](https://github.com/mapitman/myfeeds-android/pull/227) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Strip the extracted lead image from stored article body (issue #222)](https://github.com/mapitman/myfeeds-android/pull/226) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Recover missing article links from guid and untyped Atom links (issue #221)](https://github.com/mapitman/myfeeds-android/pull/225) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Backfill blank feed titles from the fetched feed (issue #219)](https://github.com/mapitman/myfeeds-android/pull/224) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Cap stored article description length (issue #234)](https://github.com/mapitman/myfeeds-android/pull/235) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Make Feed Properties screen scrollable (issue #232)](https://github.com/mapitman/myfeeds-android/pull/233) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Skip already-subscribed feeds on OPML import (issue #228)](https://github.com/mapitman/myfeeds-android/pull/229) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Fix Atom content/summary selection to prefer by name, not order (issue #223)](https://github.com/mapitman/myfeeds-android/pull/227) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Strip the extracted lead image from stored article body (issue #222)](https://github.com/mapitman/myfeeds-android/pull/226) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Recover missing article links from guid and untyped Atom links (issue #221)](https://github.com/mapitman/myfeeds-android/pull/225) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Backfill blank feed titles from the fetched feed (issue #219)](https://github.com/mapitman/myfeeds-android/pull/224) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
