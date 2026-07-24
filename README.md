@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add per-feed max downloaded episodes to keep (issue #250)](https://github.com/mapitman/myfeeds-android/pull/251) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix Next Up not opening from the playing episode&#39;s reader page (issue #248)](https://github.com/mapitman/myfeeds-android/pull/249) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix Bluetooth forward/back skip handling for real (issue #244)](https://github.com/mapitman/myfeeds-android/pull/247) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Match Bluetooth FF/REW increments to in-app skip amounts (issue #244)](https://github.com/mapitman/myfeeds-android/pull/246) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Pause playback when Bluetooth audio device disconnects (issue #243)](https://github.com/mapitman/myfeeds-android/pull/245) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Hold advance wake lock until playback starts (issue #241)](https://github.com/mapitman/myfeeds-android/pull/242) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Cap stored article description length (issue #234)](https://github.com/mapitman/myfeeds-android/pull/235) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Make Feed Properties screen scrollable (issue #232)](https://github.com/mapitman/myfeeds-android/pull/233) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Skip already-subscribed feeds on OPML import (issue #228)](https://github.com/mapitman/myfeeds-android/pull/229) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Fix Atom content/summary selection to prefer by name, not order (issue #223)](https://github.com/mapitman/myfeeds-android/pull/227) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Strip the extracted lead image from stored article body (issue #222)](https://github.com/mapitman/myfeeds-android/pull/226) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Recover missing article links from guid and untyped Atom links (issue #221)](https://github.com/mapitman/myfeeds-android/pull/225) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Backfill blank feed titles from the fetched feed (issue #219)](https://github.com/mapitman/myfeeds-android/pull/224) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
