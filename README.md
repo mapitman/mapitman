@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Fix crash tapping Next Up with no playback and empty queue (issue #264)](https://github.com/mapitman/myfeeds-android/pull/266) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add onboarding hint pointing at add-feed FAB when feed list is empty (issue #263)](https://github.com/mapitman/myfeeds-android/pull/265) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Default alias/key password in set-release-secrets.sh (issue #256)](https://github.com/mapitman/myfeeds-android/pull/257) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add script to generate the release signing keystore (issue #254)](https://github.com/mapitman/myfeeds-android/pull/255) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add per-feed max downloaded episodes to keep (issue #250)](https://github.com/mapitman/myfeeds-android/pull/251) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Fix Next Up not opening from the playing episode&#39;s reader page (issue #248)](https://github.com/mapitman/myfeeds-android/pull/249) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Fix Bluetooth forward/back skip handling for real (issue #244)](https://github.com/mapitman/myfeeds-android/pull/247) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Match Bluetooth FF/REW increments to in-app skip amounts (issue #244)](https://github.com/mapitman/myfeeds-android/pull/246) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Pause playback when Bluetooth audio device disconnects (issue #243)](https://github.com/mapitman/myfeeds-android/pull/245) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
