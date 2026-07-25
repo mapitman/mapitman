@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Default alias/key password in set-release-secrets.sh (issue #256)](https://github.com/mapitman/myfeeds-android/pull/257) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add script to generate the release signing keystore (issue #254)](https://github.com/mapitman/myfeeds-android/pull/255) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add per-feed max downloaded episodes to keep (issue #250)](https://github.com/mapitman/myfeeds-android/pull/251) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Fix Next Up not opening from the playing episode&#39;s reader page (issue #248)](https://github.com/mapitman/myfeeds-android/pull/249) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Pause playback when Bluetooth audio device disconnects (issue #243)](https://github.com/mapitman/myfeeds-android/pull/245) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Hold advance wake lock until playback starts (issue #241)](https://github.com/mapitman/myfeeds-android/pull/242) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
