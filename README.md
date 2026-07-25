@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Default alias/key password in set-release-secrets.sh (issue #256)](https://github.com/mapitman/myfeeds-android/pull/257) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add script to generate the release signing keystore (issue #254)](https://github.com/mapitman/myfeeds-android/pull/255) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Fix Bluetooth forward/back skip handling for real (issue #244)](https://github.com/mapitman/myfeeds-android/pull/247) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Match Bluetooth FF/REW increments to in-app skip amounts (issue #244)](https://github.com/mapitman/myfeeds-android/pull/246) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Pause playback when Bluetooth audio device disconnects (issue #243)](https://github.com/mapitman/myfeeds-android/pull/245) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Hold advance wake lock until playback starts (issue #241)](https://github.com/mapitman/myfeeds-android/pull/242) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
