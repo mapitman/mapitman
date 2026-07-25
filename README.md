@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 week ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (2 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (4 weeks ago)
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of (4 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add per-feed max downloaded episodes to keep (issue #250)](https://github.com/mapitman/myfeeds-android/pull/251) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix Next Up not opening from the playing episode&#39;s reader page (issue #248)](https://github.com/mapitman/myfeeds-android/pull/249) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix Bluetooth forward/back skip handling for real (issue #244)](https://github.com/mapitman/myfeeds-android/pull/247) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Match Bluetooth FF/REW increments to in-app skip amounts (issue #244)](https://github.com/mapitman/myfeeds-android/pull/246) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Pause playback when Bluetooth audio device disconnects (issue #243)](https://github.com/mapitman/myfeeds-android/pull/245) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Hold advance wake lock until playback starts (issue #241)](https://github.com/mapitman/myfeeds-android/pull/242) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add per-feed max downloaded episodes to keep (issue #250)](https://github.com/mapitman/myfeeds-android/pull/251) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Fix Next Up not opening from the playing episode&#39;s reader page (issue #248)](https://github.com/mapitman/myfeeds-android/pull/249) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Fix Bluetooth forward/back skip handling for real (issue #244)](https://github.com/mapitman/myfeeds-android/pull/247) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Match Bluetooth FF/REW increments to in-app skip amounts (issue #244)](https://github.com/mapitman/myfeeds-android/pull/246) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Pause playback when Bluetooth audio device disconnects (issue #243)](https://github.com/mapitman/myfeeds-android/pull/245) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Hold advance wake lock until playback starts (issue #241)](https://github.com/mapitman/myfeeds-android/pull/242) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Validate and auto-refresh feeds during OPML import (issues #230, #231)](https://github.com/mapitman/myfeeds-android/pull/240) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Keep article list feed title to one line (issue #238)](https://github.com/mapitman/myfeeds-android/pull/239) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Show a placeholder icon for feeds with no image (issue #236)](https://github.com/mapitman/myfeeds-android/pull/237) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
