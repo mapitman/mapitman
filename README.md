@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.0), 2 days ago) - MyFeeds app for Android
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.1](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.1), today) - MyFeeds app for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 4 months ago) - 
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
@@ -49,8 +51,6 @@
 - [Add onboarding hint pointing at add-feed FAB when feed list is empty (issue #263)](https://github.com/mapitman/myfeeds-android/pull/265) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Default alias/key password in set-release-secrets.sh (issue #256)](https://github.com/mapitman/myfeeds-android/pull/257) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Add script to generate the release signing keystore (issue #254)](https://github.com/mapitman/myfeeds-android/pull/255) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
