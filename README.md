@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (2 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.0), 1 day ago) - MyFeeds app for Android
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.0), 2 days ago) - MyFeeds app for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 4 months ago) - 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Fix crash tapping Next Up with no playback and empty queue (issue #264)](https://github.com/mapitman/myfeeds-android/pull/266) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add onboarding hint pointing at add-feed FAB when feed list is empty (issue #263)](https://github.com/mapitman/myfeeds-android/pull/265) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Default alias/key password in set-release-secrets.sh (issue #256)](https://github.com/mapitman/myfeeds-android/pull/257) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add script to generate the release signing keystore (issue #254)](https://github.com/mapitman/myfeeds-android/pull/255) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Fix crash tapping Next Up with no playback and empty queue (issue #264)](https://github.com/mapitman/myfeeds-android/pull/266) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Add onboarding hint pointing at add-feed FAB when feed list is empty (issue #263)](https://github.com/mapitman/myfeeds-android/pull/265) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Default alias/key password in set-release-secrets.sh (issue #256)](https://github.com/mapitman/myfeeds-android/pull/257) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Add script to generate the release signing keystore (issue #254)](https://github.com/mapitman/myfeeds-android/pull/255) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Add automated tag-triggered release builds (issue #252)](https://github.com/mapitman/myfeeds-android/pull/253) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
