@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (2 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.1](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.1), today) - MyFeeds app for Android
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.1](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.1), 1 day ago) - MyFeeds app for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.5](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.5), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 4 months ago) - 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Fix crash tapping Next Up with no playback and empty queue (issue #264)](https://github.com/mapitman/myfeeds-android/pull/266) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Add onboarding hint pointing at add-feed FAB when feed list is empty (issue #263)](https://github.com/mapitman/myfeeds-android/pull/265) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
+- [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Fix crash tapping Next Up with no playback and empty queue (issue #264)](https://github.com/mapitman/myfeeds-android/pull/266) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Add onboarding hint pointing at add-feed FAB when feed list is empty (issue #263)](https://github.com/mapitman/myfeeds-android/pull/265) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Remove default feed seeding on first run (issue #260)](https://github.com/mapitman/myfeeds-android/pull/262) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Rename package to com.bugzapperlabs.myfeeds; split debug applicationId (issue #258)](https://github.com/mapitman/myfeeds-android/pull/259) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
