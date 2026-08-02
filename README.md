@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (today)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (4 days ago)
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (6 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (5 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 weeks ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 month ago)
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.6](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.6), 4 days ago) - Getty Images API SDK for Node.js
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.1](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.1), 5 days ago) - MyFeeds app for Android
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 1 month ago) - Web service which provides the current &#34;Internet Time&#34;
-- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 4 months ago) - 
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 4 months ago) - Docker image for building netcore applications
-- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 4 months ago) - Convert Time to Internet Time in beats
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 4 months ago) - Docker image to build hugo websites
-- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 4 months ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 4 months ago) - Docker image for use on Windows to run various tools under Linux
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 4 months ago) - Run redis-cli without installing it
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.6](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.6), 5 days ago) - Getty Images API SDK for Node.js
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.1](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.1), 6 days ago) - MyFeeds app for Android
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
+- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
+- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 5 months ago) - Convert Time to Internet Time in beats
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 5 months ago) - Docker image to build hugo websites
+- [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 5 months ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
+- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 5 months ago) - Docker image for use on Windows to run various tools under Linux
+- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 5 months ago) - Run redis-cli without installing it
 
 #### 🔨 My recent Pull Requests
 
-- [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (3 days ago)
-- [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (5 days ago)
-- [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (5 days ago)
-- [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (5 days ago)
+- [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (4 days ago)
+- [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (6 days ago)
+- [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (6 days ago)
+- [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (6 days ago)
 - [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
