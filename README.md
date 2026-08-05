@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 days ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
+- [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
