@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement online podcast search via podcastindex.org (issue #93)](https://github.com/mapitman/myfeeds-android/pull/299) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add regression coverage for issue #156, unable to reproduce the crash](https://github.com/mapitman/myfeeds-android/pull/298) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix ArticleListViewModel init-block race clobbering setShowUnreadOnly (issue #215)](https://github.com/mapitman/myfeeds-android/pull/297) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix FeedListViewModelTest flakiness at its actual root cause (issue #261)](https://github.com/mapitman/myfeeds-android/pull/296) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -49,8 +51,6 @@
 - [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Show Next Up toggle as queued for the currently-playing episode (issue #281)](https://github.com/mapitman/myfeeds-android/pull/290) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add tap/long-press/swipe gestures to Next Up rows (issue #282/#283/#284/#285)](https://github.com/mapitman/myfeeds-android/pull/289) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Animate player sheet collapse via shared elements (issue #279)](https://github.com/mapitman/myfeeds-android/pull/280) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 
 #### 📜 My recent blog posts
 
