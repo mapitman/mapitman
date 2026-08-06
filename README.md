@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Localize DownloadsScreen.formatBytes() unit labels (issue #287)](https://github.com/mapitman/myfeeds-android/pull/294) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add confirmation dialog before bulk/single delete (issue #288)](https://github.com/mapitman/myfeeds-android/pull/292) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Show Next Up toggle as queued for the currently-playing episode (issue #281)](https://github.com/mapitman/myfeeds-android/pull/290) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add tap/long-press/swipe gestures to Next Up rows (issue #282/#283/#284/#285)](https://github.com/mapitman/myfeeds-android/pull/289) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -48,9 +51,6 @@
 - [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
-- [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
-- [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
-- [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 
 #### 📜 My recent blog posts
 
