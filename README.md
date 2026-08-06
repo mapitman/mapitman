@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow max articles per feed sliders to go unlimited (issue #302)](https://github.com/mapitman/myfeeds-android/pull/303) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Show podcast details before subscribing (issue #300)](https://github.com/mapitman/myfeeds-android/pull/301) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Implement online podcast search via podcastindex.org (issue #93)](https://github.com/mapitman/myfeeds-android/pull/299) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add regression coverage for issue #156, unable to reproduce the crash](https://github.com/mapitman/myfeeds-android/pull/298) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Fix ArticleListViewModel init-block race clobbering setShowUnreadOnly (issue #215)](https://github.com/mapitman/myfeeds-android/pull/297) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
@@ -49,8 +51,6 @@
 - [Localize DownloadsScreen.formatBytes() unit labels (issue #287)](https://github.com/mapitman/myfeeds-android/pull/294) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add confirmation dialog before bulk/single delete (issue #288)](https://github.com/mapitman/myfeeds-android/pull/292) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Show Next Up toggle as queued for the currently-playing episode (issue #281)](https://github.com/mapitman/myfeeds-android/pull/290) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
-- [Add tap/long-press/swipe gestures to Next Up rows (issue #282/#283/#284/#285)](https://github.com/mapitman/myfeeds-android/pull/289) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
