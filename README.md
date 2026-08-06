@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 day ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Show Next Up toggle as queued for the currently-playing episode (issue #281)](https://github.com/mapitman/myfeeds-android/pull/290) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add tap/long-press/swipe gestures to Next Up rows (issue #282/#283/#284/#285)](https://github.com/mapitman/myfeeds-android/pull/289) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Animate player sheet collapse via shared elements (issue #279)](https://github.com/mapitman/myfeeds-android/pull/280) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show Next Up toggle as queued for the currently-playing episode (issue #281)](https://github.com/mapitman/myfeeds-android/pull/290) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add tap/long-press/swipe gestures to Next Up rows (issue #282/#283/#284/#285)](https://github.com/mapitman/myfeeds-android/pull/289) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Animate player sheet collapse via shared elements (issue #279)](https://github.com/mapitman/myfeeds-android/pull/280) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Add Claude Code and rtk installers to Debian bootstrap](https://github.com/mapitman/linux-bootstrap/pull/45) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Show existing feeds immediately even if a refresh is already running (issue #276)](https://github.com/mapitman/myfeeds-android/pull/278) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Hide podcast-only settings on Feed Properties for non-podcast feeds (issue #275)](https://github.com/mapitman/myfeeds-android/pull/277) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Prompt to exempt the app from battery optimization (issue #273)](https://github.com/mapitman/myfeeds-android/pull/274) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Run OPML import in the background instead of blocking (issue #271)](https://github.com/mapitman/myfeeds-android/pull/272) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 - [Isolate feeds from siblings&#39; failures during concurrent refresh/import (issue #269)](https://github.com/mapitman/myfeeds-android/pull/270) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
-- [Improve OPML import feedback and auto-close on success (issue #267)](https://github.com/mapitman/myfeeds-android/pull/268) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 
 #### 📜 My recent blog posts
 
