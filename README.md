@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 days ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (4 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 day ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (3 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (3 weeks ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 weeks ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 weeks ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 month ago)
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (1 month ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 month ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Allow max articles per feed sliders to go unlimited (issue #302)](https://github.com/mapitman/myfeeds-android/pull/303) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Show podcast details before subscribing (issue #300)](https://github.com/mapitman/myfeeds-android/pull/301) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Implement online podcast search via podcastindex.org (issue #93)](https://github.com/mapitman/myfeeds-android/pull/299) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add regression coverage for issue #156, unable to reproduce the crash](https://github.com/mapitman/myfeeds-android/pull/298) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix ArticleListViewModel init-block race clobbering setShowUnreadOnly (issue #215)](https://github.com/mapitman/myfeeds-android/pull/297) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix FeedListViewModelTest flakiness at its actual root cause (issue #261)](https://github.com/mapitman/myfeeds-android/pull/296) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Localize DownloadsScreen.formatBytes() unit labels (issue #287)](https://github.com/mapitman/myfeeds-android/pull/294) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add confirmation dialog before bulk/single delete (issue #288)](https://github.com/mapitman/myfeeds-android/pull/292) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
-- [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Allow max articles per feed sliders to go unlimited (issue #302)](https://github.com/mapitman/myfeeds-android/pull/303) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Show podcast details before subscribing (issue #300)](https://github.com/mapitman/myfeeds-android/pull/301) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Implement online podcast search via podcastindex.org (issue #93)](https://github.com/mapitman/myfeeds-android/pull/299) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add regression coverage for issue #156, unable to reproduce the crash](https://github.com/mapitman/myfeeds-android/pull/298) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Fix ArticleListViewModel init-block race clobbering setShowUnreadOnly (issue #215)](https://github.com/mapitman/myfeeds-android/pull/297) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Fix FeedListViewModelTest flakiness at its actual root cause (issue #261)](https://github.com/mapitman/myfeeds-android/pull/296) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Localize DownloadsScreen.formatBytes() unit labels (issue #287)](https://github.com/mapitman/myfeeds-android/pull/294) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add confirmation dialog before bulk/single delete (issue #288)](https://github.com/mapitman/myfeeds-android/pull/292) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
+- [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
