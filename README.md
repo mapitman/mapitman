@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), today) - MyFeeds app for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.6](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.6), 1 week ago) - Getty Images API SDK for Node.js
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.1.1](https://github.com/mapitman/myfeeds-android/releases/tag/v0.1.1), 1 week ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
