@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 day ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 days ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (4 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (6 days ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (4 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 weeks ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 month ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Set debconf frontend to Readline before apt upgrades](https://github.com/mapitman/linux-bootstrap/pull/46) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (today)
 - [Allow max articles per feed sliders to go unlimited (issue #302)](https://github.com/mapitman/myfeeds-android/pull/303) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Show podcast details before subscribing (issue #300)](https://github.com/mapitman/myfeeds-android/pull/301) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Implement online podcast search via podcastindex.org (issue #93)](https://github.com/mapitman/myfeeds-android/pull/299) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
@@ -50,7 +51,6 @@
 - [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Localize DownloadsScreen.formatBytes() unit labels (issue #287)](https://github.com/mapitman/myfeeds-android/pull/294) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
 - [Add confirmation dialog before bulk/single delete (issue #288)](https://github.com/mapitman/myfeeds-android/pull/292) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (2 days ago)
-- [Add bulk &#34;add to queue&#34; action to Feed River&#39;s multi-select toolbar (issue #286)](https://github.com/mapitman/myfeeds-android/pull/291) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
