@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 days ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (3 days ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (5 days ago)
@@ -11,10 +12,10 @@
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 month ago)
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (1 month ago)
 - [mapitman/mapitman.github.io](https://github.com/mapitman/mapitman.github.io) -  (1 month ago)
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) - Docker image for use on Windows to run various tools under Linux (1 month ago)
 
 #### 🌱 My latest projects
 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - 
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
@@ -24,7 +25,6 @@
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
-- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rename package/applicationId from com.bugzapperlabs.myfeeds to com.bugzapperlabs.mycasts (issue #2)](https://github.com/mapitman/mycasts-android/pull/23) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Rename display name and branding strings to MyCasts (issue #1)](https://github.com/mapitman/mycasts-android/pull/22) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Set debconf frontend to Readline before apt upgrades](https://github.com/mapitman/linux-bootstrap/pull/46) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
 - [Allow max articles per feed sliders to go unlimited (issue #302)](https://github.com/mapitman/myfeeds-android/pull/303) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 - [Show podcast details before subscribing (issue #300)](https://github.com/mapitman/myfeeds-android/pull/301) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
@@ -49,8 +51,6 @@
 - [Fix ArticleListViewModel init-block race clobbering setShowUnreadOnly (issue #215)](https://github.com/mapitman/myfeeds-android/pull/297) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 - [Fix FeedListViewModelTest flakiness at its actual root cause (issue #261)](https://github.com/mapitman/myfeeds-android/pull/296) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 - [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Localize DownloadsScreen.formatBytes() unit labels (issue #287)](https://github.com/mapitman/myfeeds-android/pull/294) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Add confirmation dialog before bulk/single delete (issue #288)](https://github.com/mapitman/myfeeds-android/pull/292) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
