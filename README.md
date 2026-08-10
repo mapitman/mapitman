@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.0), today) - 
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 days ago) - MyFeeds app for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.6](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.6), 1 week ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -37,20 +38,19 @@
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 5 months ago) - Docker image to build hugo websites
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 5 months ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
 - [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 5 months ago) - Docker image for use on Windows to run various tools under Linux
-- [mapitman/docker-rediscli](https://github.com/mapitman/docker-rediscli) ([v1.0.0](https://github.com/mapitman/docker-rediscli/releases/tag/v1.0.0), 5 months ago) - Run redis-cli without installing it
 
 #### 🔨 My recent Pull Requests
 
+- [Update the notification icon to match the current app icon (issue #40)](https://github.com/mapitman/mycasts-android/pull/47) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Sort next up by publish date (issue #17)](https://github.com/mapitman/mycasts-android/pull/46) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Show a silent notification with progress stats while feeds update (issue #16)](https://github.com/mapitman/mycasts-android/pull/44) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Show a silent notification with progress stats while episodes download (issue #15)](https://github.com/mapitman/mycasts-android/pull/41) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Register MyCasts as a share/open target for OPML files (issue #38)](https://github.com/mapitman/mycasts-android/pull/39) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Sweep remaining MyFeeds/myfeeds branding remnants across the repo](https://github.com/mapitman/mycasts-android/pull/37) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Rename release-signing script defaults from myfeeds to mycasts (issue #19)](https://github.com/mapitman/mycasts-android/pull/36) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Verify build.yml CI workflow; fix stray MyFeeds branding it caught (issue #18)](https://github.com/mapitman/mycasts-android/pull/35) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Sync all locale strings.xml files after the pivot (issue #13)](https://github.com/mapitman/mycasts-android/pull/34) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Decide: keep isPodcastEpisode as a derived predicate (issue #12)](https://github.com/mapitman/mycasts-android/pull/33) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Rename article-flavored settings to episode/item wording (issue #11)](https://github.com/mapitman/mycasts-android/pull/32) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Simplify OPML export to drop the Feeds/Podcasts folder split (issue #10)](https://github.com/mapitman/mycasts-android/pull/31) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Strip isPodcastFeed conditionals from feedproperties (issue #9)](https://github.com/mapitman/mycasts-android/pull/30) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Replace reader&#39;s WebView article rendering with plain show-notes text and rename to episodedetails (issue #8)](https://github.com/mapitman/mycasts-android/pull/29) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Strip non-podcast branches from articlelist and rename to episodelist (issue #7)](https://github.com/mapitman/mycasts-android/pull/28) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
