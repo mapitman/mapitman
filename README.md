@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Save OPML feeds to the database before fetching them (issue #50)](https://github.com/mapitman/mycasts-android/pull/51) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Request POST_NOTIFICATIONS proactively at app launch (issue #43)](https://github.com/mapitman/mycasts-android/pull/49) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Enable bulk download when multiselecting episodes (issue #42)](https://github.com/mapitman/mycasts-android/pull/48) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Update the notification icon to match the current app icon (issue #40)](https://github.com/mapitman/mycasts-android/pull/47) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Sort next up by publish date (issue #17)](https://github.com/mapitman/mycasts-android/pull/46) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show a silent notification with progress stats while feeds update (issue #16)](https://github.com/mapitman/mycasts-android/pull/44) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -48,9 +51,6 @@
 - [Register MyCasts as a share/open target for OPML files (issue #38)](https://github.com/mapitman/mycasts-android/pull/39) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Sweep remaining MyFeeds/myfeeds branding remnants across the repo](https://github.com/mapitman/mycasts-android/pull/37) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Rename release-signing script defaults from myfeeds to mycasts (issue #19)](https://github.com/mapitman/mycasts-android/pull/36) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Verify build.yml CI workflow; fix stray MyFeeds branding it caught (issue #18)](https://github.com/mapitman/mycasts-android/pull/35) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Sync all locale strings.xml files after the pivot (issue #13)](https://github.com/mapitman/mycasts-android/pull/34) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Decide: keep isPodcastEpisode as a derived predicate (issue #12)](https://github.com/mapitman/mycasts-android/pull/33) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
