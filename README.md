@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 days ago)
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (3 days ago)
-- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (5 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (4 days ago)
+- [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (6 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (4 weeks ago)
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22 (1 month ago)
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 days ago) - MyFeeds app for Android
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 days ago) - MyFeeds app for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.6](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.6), 1 week ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Rename package/applicationId from com.bugzapperlabs.myfeeds to com.bugzapperlabs.mycasts (issue #2)](https://github.com/mapitman/mycasts-android/pull/23) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Rename display name and branding strings to MyCasts (issue #1)](https://github.com/mapitman/mycasts-android/pull/22) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Set debconf frontend to Readline before apt upgrades](https://github.com/mapitman/linux-bootstrap/pull/46) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 day ago)
-- [Allow max articles per feed sliders to go unlimited (issue #302)](https://github.com/mapitman/myfeeds-android/pull/303) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Show podcast details before subscribing (issue #300)](https://github.com/mapitman/myfeeds-android/pull/301) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Implement online podcast search via podcastindex.org (issue #93)](https://github.com/mapitman/myfeeds-android/pull/299) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Add regression coverage for issue #156, unable to reproduce the crash](https://github.com/mapitman/myfeeds-android/pull/298) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Fix ArticleListViewModel init-block race clobbering setShowUnreadOnly (issue #215)](https://github.com/mapitman/myfeeds-android/pull/297) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Fix FeedListViewModelTest flakiness at its actual root cause (issue #261)](https://github.com/mapitman/myfeeds-android/pull/296) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
-- [Fix media notification icon and add skip/speed controls (issue #293)](https://github.com/mapitman/myfeeds-android/pull/295) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (3 days ago)
+- [Strip isPodcastFeed conditionals from feedproperties (issue #9)](https://github.com/mapitman/mycasts-android/pull/30) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Replace reader&#39;s WebView article rendering with plain show-notes text and rename to episodedetails (issue #8)](https://github.com/mapitman/mycasts-android/pull/29) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Strip non-podcast branches from articlelist and rename to episodelist (issue #7)](https://github.com/mapitman/mycasts-android/pull/28) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Collapse feedlist&#39;s Podcasts/Feeds split into a single list (issue #6)](https://github.com/mapitman/mycasts-android/pull/27) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Remove orphaned article-only strings after feedriver removal (issue #5)](https://github.com/mapitman/mycasts-android/pull/26) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Delete the feedriver package and its entry points (issue #4)](https://github.com/mapitman/mycasts-android/pull/25) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Redesign app icon: m superimposed on play button (issue #3)](https://github.com/mapitman/mycasts-android/pull/24) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Rename package/applicationId from com.bugzapperlabs.myfeeds to com.bugzapperlabs.mycasts (issue #2)](https://github.com/mapitman/mycasts-android/pull/23) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Rename display name and branding strings to MyCasts (issue #1)](https://github.com/mapitman/mycasts-android/pull/22) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Set debconf frontend to Readline before apt upgrades](https://github.com/mapitman/linux-bootstrap/pull/46) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
 
 #### 📜 My recent blog posts
 
