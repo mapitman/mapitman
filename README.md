@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 days ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (4 days ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (6 days ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.7](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.7), today) - Getty Images API SDK for Node.js
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.1), today) - 
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 days ago) - MyFeeds app for Android
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.6](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.6), 1 week ago) - Getty Images API SDK for Node.js
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Episode details back button always returns to that episode&#39;s episode list (issue #55)](https://github.com/mapitman/mycasts-android/pull/59) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Delete downloads, not episodes, from episode list multi-select (issue #54)](https://github.com/mapitman/mycasts-android/pull/58) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Show an indicator for downloaded episodes in the episode list (issue #53)](https://github.com/mapitman/mycasts-android/pull/57) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Show a different icon for episodes already in Next Up (issue #52)](https://github.com/mapitman/mycasts-android/pull/56) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Save OPML feeds to the database before fetching them (issue #50)](https://github.com/mapitman/mycasts-android/pull/51) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Request POST_NOTIFICATIONS proactively at app launch (issue #43)](https://github.com/mapitman/mycasts-android/pull/49) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Enable bulk download when multiselecting episodes (issue #42)](https://github.com/mapitman/mycasts-android/pull/48) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Update the notification icon to match the current app icon (issue #40)](https://github.com/mapitman/mycasts-android/pull/47) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Sort next up by publish date (issue #17)](https://github.com/mapitman/mycasts-android/pull/46) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show a silent notification with progress stats while feeds update (issue #16)](https://github.com/mapitman/mycasts-android/pull/44) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Show a silent notification with progress stats while episodes download (issue #15)](https://github.com/mapitman/mycasts-android/pull/41) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Register MyCasts as a share/open target for OPML files (issue #38)](https://github.com/mapitman/mycasts-android/pull/39) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Sweep remaining MyFeeds/myfeeds branding remnants across the repo](https://github.com/mapitman/mycasts-android/pull/37) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Rename release-signing script defaults from myfeeds to mycasts (issue #19)](https://github.com/mapitman/mycasts-android/pull/36) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
