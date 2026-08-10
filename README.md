@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.7](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.7), today) - Getty Images API SDK for Node.js
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.1), today) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.2](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.2), today) - 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), today) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 days ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix inflated new-episodes notification count and rename to &#34;episodes&#34; (issue #60)](https://github.com/mapitman/mycasts-android/pull/61) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Episode details back button always returns to that episode&#39;s episode list (issue #55)](https://github.com/mapitman/mycasts-android/pull/59) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Delete downloads, not episodes, from episode list multi-select (issue #54)](https://github.com/mapitman/mycasts-android/pull/58) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show an indicator for downloaded episodes in the episode list (issue #53)](https://github.com/mapitman/mycasts-android/pull/57) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Enable bulk download when multiselecting episodes (issue #42)](https://github.com/mapitman/mycasts-android/pull/48) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Update the notification icon to match the current app icon (issue #40)](https://github.com/mapitman/mycasts-android/pull/47) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Sort next up by publish date (issue #17)](https://github.com/mapitman/mycasts-android/pull/46) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Show a silent notification with progress stats while feeds update (issue #16)](https://github.com/mapitman/mycasts-android/pull/44) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
