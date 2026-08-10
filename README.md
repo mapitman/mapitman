@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.2](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.2), today) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.3](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.3), today) - 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), today) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 days ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move episode details&#39; &#34;X of N&#34; position indicator off the top bar (issue #68)](https://github.com/mapitman/mycasts-android/pull/69) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Move the unplayed count into the &#34;Unplayed&#34; tab label (issue #66)](https://github.com/mapitman/mycasts-android/pull/67) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Remove the redundant &#34;N unread&#34; top-bar subtitle (issue #64)](https://github.com/mapitman/mycasts-android/pull/65) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Raise the feed list&#39;s pull-to-refresh threshold (issue #45)](https://github.com/mapitman/mycasts-android/pull/63) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add just recipe to install a release build from GitHub](https://github.com/mapitman/mycasts-android/pull/62) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix inflated new-episodes notification count and rename to &#34;episodes&#34; (issue #60)](https://github.com/mapitman/mycasts-android/pull/61) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Episode details back button always returns to that episode&#39;s episode list (issue #55)](https://github.com/mapitman/mycasts-android/pull/59) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Delete downloads, not episodes, from episode list multi-select (issue #54)](https://github.com/mapitman/mycasts-android/pull/58) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show an indicator for downloaded episodes in the episode list (issue #53)](https://github.com/mapitman/mycasts-android/pull/57) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show a different icon for episodes already in Next Up (issue #52)](https://github.com/mapitman/mycasts-android/pull/56) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Save OPML feeds to the database before fetching them (issue #50)](https://github.com/mapitman/mycasts-android/pull/51) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Request POST_NOTIFICATIONS proactively at app launch (issue #43)](https://github.com/mapitman/mycasts-android/pull/49) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Enable bulk download when multiselecting episodes (issue #42)](https://github.com/mapitman/mycasts-android/pull/48) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Update the notification icon to match the current app icon (issue #40)](https://github.com/mapitman/mycasts-android/pull/47) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
