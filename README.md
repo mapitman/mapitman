@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Sweep remaining MyFeeds/myfeeds branding remnants across the repo](https://github.com/mapitman/mycasts-android/pull/37) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Rename release-signing script defaults from myfeeds to mycasts (issue #19)](https://github.com/mapitman/mycasts-android/pull/36) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Verify build.yml CI workflow; fix stray MyFeeds branding it caught (issue #18)](https://github.com/mapitman/mycasts-android/pull/35) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Sync all locale strings.xml files after the pivot (issue #13)](https://github.com/mapitman/mycasts-android/pull/34) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Decide: keep isPodcastEpisode as a derived predicate (issue #12)](https://github.com/mapitman/mycasts-android/pull/33) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Rename article-flavored settings to episode/item wording (issue #11)](https://github.com/mapitman/mycasts-android/pull/32) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Simplify OPML export to drop the Feeds/Podcasts folder split (issue #10)](https://github.com/mapitman/mycasts-android/pull/31) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Strip isPodcastFeed conditionals from feedproperties (issue #9)](https://github.com/mapitman/mycasts-android/pull/30) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Replace reader&#39;s WebView article rendering with plain show-notes text and rename to episodedetails (issue #8)](https://github.com/mapitman/mycasts-android/pull/29) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Strip non-podcast branches from articlelist and rename to episodelist (issue #7)](https://github.com/mapitman/mycasts-android/pull/28) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Collapse feedlist&#39;s Podcasts/Feeds split into a single list (issue #6)](https://github.com/mapitman/mycasts-android/pull/27) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Remove orphaned article-only strings after feedriver removal (issue #5)](https://github.com/mapitman/mycasts-android/pull/26) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Delete the feedriver package and its entry points (issue #4)](https://github.com/mapitman/mycasts-android/pull/25) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Redesign app icon: m superimposed on play button (issue #3)](https://github.com/mapitman/mycasts-android/pull/24) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Rename package/applicationId from com.bugzapperlabs.myfeeds to com.bugzapperlabs.mycasts (issue #2)](https://github.com/mapitman/mycasts-android/pull/23) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Rename display name and branding strings to MyCasts (issue #1)](https://github.com/mapitman/mycasts-android/pull/22) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Set debconf frontend to Readline before apt upgrades](https://github.com/mapitman/linux-bootstrap/pull/46) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (2 days ago)
 
 #### 📜 My recent blog posts
 
