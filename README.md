@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add just recipe to install a release build from GitHub](https://github.com/mapitman/mycasts-android/pull/62) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix inflated new-episodes notification count and rename to &#34;episodes&#34; (issue #60)](https://github.com/mapitman/mycasts-android/pull/61) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Episode details back button always returns to that episode&#39;s episode list (issue #55)](https://github.com/mapitman/mycasts-android/pull/59) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Delete downloads, not episodes, from episode list multi-select (issue #54)](https://github.com/mapitman/mycasts-android/pull/58) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Request POST_NOTIFICATIONS proactively at app launch (issue #43)](https://github.com/mapitman/mycasts-android/pull/49) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Enable bulk download when multiselecting episodes (issue #42)](https://github.com/mapitman/mycasts-android/pull/48) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Update the notification icon to match the current app icon (issue #40)](https://github.com/mapitman/mycasts-android/pull/47) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Sort next up by publish date (issue #17)](https://github.com/mapitman/mycasts-android/pull/46) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
