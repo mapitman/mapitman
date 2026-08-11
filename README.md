@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix flaky EpisodeListViewModelTest by gating on showUnreadOnly&#39;s real value (issue #75)](https://github.com/mapitman/mycasts-android/pull/79) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Fix flaky FeedListViewModelTest by capturing a fresh snapshot on unfreeze (issue #76)](https://github.com/mapitman/mycasts-android/pull/78) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Freeze episode list counts during refresh (issue #73)](https://github.com/mapitman/mycasts-android/pull/74) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Self-heal duplicate episodes left over from the concurrent-refresh race (issue #70 follow-up)](https://github.com/mapitman/mycasts-android/pull/72) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Add per-feed lock to prevent concurrent refreshes racing (issue #70)](https://github.com/mapitman/mycasts-android/pull/71) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Remove the redundant &#34;N unread&#34; top-bar subtitle (issue #64)](https://github.com/mapitman/mycasts-android/pull/65) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Raise the feed list&#39;s pull-to-refresh threshold (issue #45)](https://github.com/mapitman/mycasts-android/pull/63) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Add just recipe to install a release build from GitHub](https://github.com/mapitman/mycasts-android/pull/62) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Fix inflated new-episodes notification count and rename to &#34;episodes&#34; (issue #60)](https://github.com/mapitman/mycasts-android/pull/61) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Episode details back button always returns to that episode&#39;s episode list (issue #55)](https://github.com/mapitman/mycasts-android/pull/59) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
