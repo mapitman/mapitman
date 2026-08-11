@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Start the next Next Up episode before finishing the previous one&#39;s bookkeeping (issue #82)](https://github.com/mapitman/mycasts-android/pull/86) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Document issue #77 investigation findings in SettingsViewModelTest](https://github.com/mapitman/mycasts-android/pull/81) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix mid-refresh freeze not holding in FeedListViewModel (issue #76 follow-up)](https://github.com/mapitman/mycasts-android/pull/80) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Self-heal duplicate episodes left over from the concurrent-refresh race (issue #70 follow-up)](https://github.com/mapitman/mycasts-android/pull/72) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Add per-feed lock to prevent concurrent refreshes racing (issue #70)](https://github.com/mapitman/mycasts-android/pull/71) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Move episode details&#39; &#34;X of N&#34; position indicator off the top bar (issue #68)](https://github.com/mapitman/mycasts-android/pull/69) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Move the unplayed count into the &#34;Unplayed&#34; tab label (issue #66)](https://github.com/mapitman/mycasts-android/pull/67) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
