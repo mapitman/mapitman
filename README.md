@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix mid-refresh freeze not holding in FeedListViewModel (issue #76 follow-up)](https://github.com/mapitman/mycasts-android/pull/80) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix flaky EpisodeListViewModelTest by gating on showUnreadOnly&#39;s real value (issue #75)](https://github.com/mapitman/mycasts-android/pull/79) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix flaky FeedListViewModelTest by capturing a fresh snapshot on unfreeze (issue #76)](https://github.com/mapitman/mycasts-android/pull/78) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Freeze episode list counts during refresh (issue #73)](https://github.com/mapitman/mycasts-android/pull/74) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Move the unplayed count into the &#34;Unplayed&#34; tab label (issue #66)](https://github.com/mapitman/mycasts-android/pull/67) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Remove the redundant &#34;N unread&#34; top-bar subtitle (issue #64)](https://github.com/mapitman/mycasts-android/pull/65) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Raise the feed list&#39;s pull-to-refresh threshold (issue #45)](https://github.com/mapitman/mycasts-android/pull/63) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add just recipe to install a release build from GitHub](https://github.com/mapitman/mycasts-android/pull/62) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
