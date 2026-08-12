@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cap episodes before saving on a feed&#39;s first fetch (issue #110)](https://github.com/mapitman/mycasts-android/pull/112) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Prompt to add default feeds on first launch with no subscriptions (issue #108)](https://github.com/mapitman/mycasts-android/pull/111) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show a progress indicator during OPML import (issue #105)](https://github.com/mapitman/mycasts-android/pull/109) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Use a plain one-shot query instead of Flow.first() for per-feed item snapshots (issue #106)](https://github.com/mapitman/mycasts-android/pull/107) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Have OPML import trigger auto-download/auto-queue, and enforce the download cap as downloads land (issues #101, #102)](https://github.com/mapitman/mycasts-android/pull/104) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -49,8 +51,6 @@
 - [Add global default for a feed&#39;s auto-download setting (issue #98)](https://github.com/mapitman/mycasts-android/pull/99) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add copy OPML to clipboard action in Settings (issue #92)](https://github.com/mapitman/mycasts-android/pull/97) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Preload the next Next Up episode ahead of time (issue #87)](https://github.com/mapitman/mycasts-android/pull/91) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
