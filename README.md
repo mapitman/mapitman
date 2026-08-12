@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show a progress indicator during OPML import (issue #105)](https://github.com/mapitman/mycasts-android/pull/109) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Use a plain one-shot query instead of Flow.first() for per-feed item snapshots (issue #106)](https://github.com/mapitman/mycasts-android/pull/107) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Have OPML import trigger auto-download/auto-queue, and enforce the download cap as downloads land (issues #101, #102)](https://github.com/mapitman/mycasts-android/pull/104) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Follow device theme colors by default, with a fuller brand palette (issue #95)](https://github.com/mapitman/mycasts-android/pull/103) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Preload the next Next Up episode ahead of time (issue #87)](https://github.com/mapitman/mycasts-android/pull/91) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
