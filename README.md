@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (5 days ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (6 days ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use a plain one-shot query instead of Flow.first() for per-feed item snapshots (issue #106)](https://github.com/mapitman/mycasts-android/pull/107) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Have OPML import trigger auto-download/auto-queue, and enforce the download cap as downloads land (issues #101, #102)](https://github.com/mapitman/mycasts-android/pull/104) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Follow device theme colors by default, with a fuller brand palette (issue #95)](https://github.com/mapitman/mycasts-android/pull/103) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Wrap long Settings switch labels instead of overflowing the screen](https://github.com/mapitman/mycasts-android/pull/100) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Start the next Next Up episode before finishing the previous one&#39;s bookkeeping (issue #82)](https://github.com/mapitman/mycasts-android/pull/86) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
