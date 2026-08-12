@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Exclude player progress sliders from system edge gestures (issue #114)](https://github.com/mapitman/mycasts-android/pull/115) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Allow scrubbing the progress bar in the Next Up mini player (issue #93)](https://github.com/mapitman/mycasts-android/pull/113) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cap episodes before saving on a feed&#39;s first fetch (issue #110)](https://github.com/mapitman/mycasts-android/pull/112) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Prompt to add default feeds on first launch with no subscriptions (issue #108)](https://github.com/mapitman/mycasts-android/pull/111) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show a progress indicator during OPML import (issue #105)](https://github.com/mapitman/mycasts-android/pull/109) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -49,8 +51,6 @@
 - [Follow device theme colors by default, with a fuller brand palette (issue #95)](https://github.com/mapitman/mycasts-android/pull/103) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Wrap long Settings switch labels instead of overflowing the screen](https://github.com/mapitman/mycasts-android/pull/100) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add global default for a feed&#39;s auto-download setting (issue #98)](https://github.com/mapitman/mycasts-android/pull/99) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Add copy OPML to clipboard action in Settings (issue #92)](https://github.com/mapitman/mycasts-android/pull/97) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Preload the next Next Up episode ahead of time (issue #87)](https://github.com/mapitman/mycasts-android/pull/91) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
