@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Preload the next Next Up episode ahead of time (issue #87)](https://github.com/mapitman/mycasts-android/pull/91) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -50,7 +51,6 @@
 - [Fix flaky EpisodeListViewModelTest by gating on showUnreadOnly&#39;s real value (issue #75)](https://github.com/mapitman/mycasts-android/pull/79) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Fix flaky FeedListViewModelTest by capturing a fresh snapshot on unfreeze (issue #76)](https://github.com/mapitman/mycasts-android/pull/78) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Freeze episode list counts during refresh (issue #73)](https://github.com/mapitman/mycasts-android/pull/74) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Self-heal duplicate episodes left over from the concurrent-refresh race (issue #70 follow-up)](https://github.com/mapitman/mycasts-android/pull/72) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
