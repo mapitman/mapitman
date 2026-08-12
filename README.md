@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Have OPML import trigger auto-download/auto-queue, and enforce the download cap as downloads land (issues #101, #102)](https://github.com/mapitman/mycasts-android/pull/104) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Follow device theme colors by default, with a fuller brand palette (issue #95)](https://github.com/mapitman/mycasts-android/pull/103) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Wrap long Settings switch labels instead of overflowing the screen](https://github.com/mapitman/mycasts-android/pull/100) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add global default for a feed&#39;s auto-download setting (issue #98)](https://github.com/mapitman/mycasts-android/pull/99) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add copy OPML to clipboard action in Settings (issue #92)](https://github.com/mapitman/mycasts-android/pull/97) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -49,8 +51,6 @@
 - [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Start the next Next Up episode before finishing the previous one&#39;s bookkeeping (issue #82)](https://github.com/mapitman/mycasts-android/pull/86) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Document issue #77 investigation findings in SettingsViewModelTest](https://github.com/mapitman/mycasts-android/pull/81) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Fix mid-refresh freeze not holding in FeedListViewModel (issue #76 follow-up)](https://github.com/mapitman/mycasts-android/pull/80) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
