@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (4 days ago)
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (5 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (5 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (6 days ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.6](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.6), today) - 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 1 day ago) - Getty Images API SDK for Node.js
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 4 days ago) - MyFeeds app for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.6](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.6), 1 day ago) - 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 2 days ago) - Getty Images API SDK for Node.js
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 5 days ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Start the next Next Up episode before finishing the previous one&#39;s bookkeeping (issue #82)](https://github.com/mapitman/mycasts-android/pull/86) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Document issue #77 investigation findings in SettingsViewModelTest](https://github.com/mapitman/mycasts-android/pull/81) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Fix mid-refresh freeze not holding in FeedListViewModel (issue #76 follow-up)](https://github.com/mapitman/mycasts-android/pull/80) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Fix flaky EpisodeListViewModelTest by gating on showUnreadOnly&#39;s real value (issue #75)](https://github.com/mapitman/mycasts-android/pull/79) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Fix flaky FeedListViewModelTest by capturing a fresh snapshot on unfreeze (issue #76)](https://github.com/mapitman/mycasts-android/pull/78) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Freeze episode list counts during refresh (issue #73)](https://github.com/mapitman/mycasts-android/pull/74) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Self-heal duplicate episodes left over from the concurrent-refresh race (issue #70 follow-up)](https://github.com/mapitman/mycasts-android/pull/72) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Replace default feeds with real podcasts (issue #85)](https://github.com/mapitman/mycasts-android/pull/88) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Start the next Next Up episode before finishing the previous one&#39;s bookkeeping (issue #82)](https://github.com/mapitman/mycasts-android/pull/86) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Document issue #77 investigation findings in SettingsViewModelTest](https://github.com/mapitman/mycasts-android/pull/81) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Fix mid-refresh freeze not holding in FeedListViewModel (issue #76 follow-up)](https://github.com/mapitman/mycasts-android/pull/80) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Fix flaky EpisodeListViewModelTest by gating on showUnreadOnly&#39;s real value (issue #75)](https://github.com/mapitman/mycasts-android/pull/79) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Fix flaky FeedListViewModelTest by capturing a fresh snapshot on unfreeze (issue #76)](https://github.com/mapitman/mycasts-android/pull/78) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Freeze episode list counts during refresh (issue #73)](https://github.com/mapitman/mycasts-android/pull/74) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Self-heal duplicate episodes left over from the concurrent-refresh race (issue #70 follow-up)](https://github.com/mapitman/mycasts-android/pull/72) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
