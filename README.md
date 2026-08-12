@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Wrap long Settings switch labels instead of overflowing the screen](https://github.com/mapitman/mycasts-android/pull/100) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add global default for a feed&#39;s auto-download setting (issue #98)](https://github.com/mapitman/mycasts-android/pull/99) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add copy OPML to clipboard action in Settings (issue #92)](https://github.com/mapitman/mycasts-android/pull/97) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Preload the next Next Up episode ahead of time (issue #87)](https://github.com/mapitman/mycasts-android/pull/91) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Protect new items from same-refresh trim when the feed auto-downloads/queues (issue #83)](https://github.com/mapitman/mycasts-android/pull/90) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Show immediate feedback on the episode download button (issue #84)](https://github.com/mapitman/mycasts-android/pull/89) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -48,9 +51,6 @@
 - [Start the next Next Up episode before finishing the previous one&#39;s bookkeeping (issue #82)](https://github.com/mapitman/mycasts-android/pull/86) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Document issue #77 investigation findings in SettingsViewModelTest](https://github.com/mapitman/mycasts-android/pull/81) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Fix mid-refresh freeze not holding in FeedListViewModel (issue #76 follow-up)](https://github.com/mapitman/mycasts-android/pull/80) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Fix flaky EpisodeListViewModelTest by gating on showUnreadOnly&#39;s real value (issue #75)](https://github.com/mapitman/mycasts-android/pull/79) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Fix flaky FeedListViewModelTest by capturing a fresh snapshot on unfreeze (issue #76)](https://github.com/mapitman/mycasts-android/pull/78) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Freeze episode list counts during refresh (issue #73)](https://github.com/mapitman/mycasts-android/pull/74) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
