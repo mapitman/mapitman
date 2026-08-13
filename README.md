@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (6 days ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.6](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.6), 2 days ago) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.7](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.7), today) - 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 3 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 6 days ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
