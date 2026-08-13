@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cap auto-download batch size to prevent OOM on a feed&#39;s first fetch (issue #134)](https://github.com/mapitman/mycasts-android/pull/135) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Grow the Next Up player&#39;s header into place as the sheet expands (issue #129)](https://github.com/mapitman/mycasts-android/pull/133) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Expand the Next Up player sheet to the full screen height (issue #130)](https://github.com/mapitman/mycasts-android/pull/131) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Clarify and consolidate settings screen (issue #119)](https://github.com/mapitman/mycasts-android/pull/126) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Prompt to apply auto-download to existing podcasts (issue #117)](https://github.com/mapitman/mycasts-android/pull/121) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Redesign Next Up as a bottom-nav tab with an in-screen player sheet (issue #96)](https://github.com/mapitman/mycasts-android/pull/118) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -48,9 +51,6 @@
 - [Exclude player progress sliders from system edge gestures (issue #114)](https://github.com/mapitman/mycasts-android/pull/115) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Allow scrubbing the progress bar in the Next Up mini player (issue #93)](https://github.com/mapitman/mycasts-android/pull/113) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Cap episodes before saving on a feed&#39;s first fetch (issue #110)](https://github.com/mapitman/mycasts-android/pull/112) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Prompt to add default feeds on first launch with no subscriptions (issue #108)](https://github.com/mapitman/mycasts-android/pull/111) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Show a progress indicator during OPML import (issue #105)](https://github.com/mapitman/mycasts-android/pull/109) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Use a plain one-shot query instead of Flow.first() for per-feed item snapshots (issue #106)](https://github.com/mapitman/mycasts-android/pull/107) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
