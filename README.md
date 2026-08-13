@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (5 days ago)
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (6 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (6 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.6](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.6), 1 day ago) - 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 2 days ago) - Getty Images API SDK for Node.js
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 5 days ago) - MyFeeds app for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.6](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.6), 2 days ago) - 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 3 days ago) - Getty Images API SDK for Node.js
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 6 days ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Move chapter text to a prominent row above transport buttons (issue #94)](https://github.com/mapitman/mycasts-android/pull/116) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Exclude player progress sliders from system edge gestures (issue #114)](https://github.com/mapitman/mycasts-android/pull/115) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Allow scrubbing the progress bar in the Next Up mini player (issue #93)](https://github.com/mapitman/mycasts-android/pull/113) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Cap episodes before saving on a feed&#39;s first fetch (issue #110)](https://github.com/mapitman/mycasts-android/pull/112) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Prompt to add default feeds on first launch with no subscriptions (issue #108)](https://github.com/mapitman/mycasts-android/pull/111) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Show a progress indicator during OPML import (issue #105)](https://github.com/mapitman/mycasts-android/pull/109) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Use a plain one-shot query instead of Flow.first() for per-feed item snapshots (issue #106)](https://github.com/mapitman/mycasts-android/pull/107) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Have OPML import trigger auto-download/auto-queue, and enforce the download cap as downloads land (issues #101, #102)](https://github.com/mapitman/mycasts-android/pull/104) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Follow device theme colors by default, with a fuller brand palette (issue #95)](https://github.com/mapitman/mycasts-android/pull/103) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Wrap long Settings switch labels instead of overflowing the screen](https://github.com/mapitman/mycasts-android/pull/100) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Move chapter text to a prominent row above transport buttons (issue #94)](https://github.com/mapitman/mycasts-android/pull/116) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Exclude player progress sliders from system edge gestures (issue #114)](https://github.com/mapitman/mycasts-android/pull/115) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Allow scrubbing the progress bar in the Next Up mini player (issue #93)](https://github.com/mapitman/mycasts-android/pull/113) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Cap episodes before saving on a feed&#39;s first fetch (issue #110)](https://github.com/mapitman/mycasts-android/pull/112) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Prompt to add default feeds on first launch with no subscriptions (issue #108)](https://github.com/mapitman/mycasts-android/pull/111) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Show a progress indicator during OPML import (issue #105)](https://github.com/mapitman/mycasts-android/pull/109) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Use a plain one-shot query instead of Flow.first() for per-feed item snapshots (issue #106)](https://github.com/mapitman/mycasts-android/pull/107) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Have OPML import trigger auto-download/auto-queue, and enforce the download cap as downloads land (issues #101, #102)](https://github.com/mapitman/mycasts-android/pull/104) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Follow device theme colors by default, with a fuller brand palette (issue #95)](https://github.com/mapitman/mycasts-android/pull/103) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Wrap long Settings switch labels instead of overflowing the screen](https://github.com/mapitman/mycasts-android/pull/100) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
