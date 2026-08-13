@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent duplicate Feed rows for the same podcast (issue #140)](https://github.com/mapitman/mycasts-android/pull/141) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cap kept episodes to the true newest by publish date (issue #137)](https://github.com/mapitman/mycasts-android/pull/139) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Reject non-podcast feeds at subscribe time (issue #122)](https://github.com/mapitman/mycasts-android/pull/138) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cap auto-download batch size to prevent OOM on a feed&#39;s first fetch (issue #134)](https://github.com/mapitman/mycasts-android/pull/135) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Prompt to apply auto-download to existing podcasts (issue #117)](https://github.com/mapitman/mycasts-android/pull/121) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Redesign Next Up as a bottom-nav tab with an in-screen player sheet (issue #96)](https://github.com/mapitman/mycasts-android/pull/118) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Move chapter text to a prominent row above transport buttons (issue #94)](https://github.com/mapitman/mycasts-android/pull/116) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Exclude player progress sliders from system edge gestures (issue #114)](https://github.com/mapitman/mycasts-android/pull/115) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
