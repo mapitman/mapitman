@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reject non-podcast feeds at subscribe time (issue #122)](https://github.com/mapitman/mycasts-android/pull/138) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cap auto-download batch size to prevent OOM on a feed&#39;s first fetch (issue #134)](https://github.com/mapitman/mycasts-android/pull/135) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Grow the Next Up player&#39;s header into place as the sheet expands (issue #129)](https://github.com/mapitman/mycasts-android/pull/133) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Expand the Next Up player sheet to the full screen height (issue #130)](https://github.com/mapitman/mycasts-android/pull/131) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Move chapter text to a prominent row above transport buttons (issue #94)](https://github.com/mapitman/mycasts-android/pull/116) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Exclude player progress sliders from system edge gestures (issue #114)](https://github.com/mapitman/mycasts-android/pull/115) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Allow scrubbing the progress bar in the Next Up mini player (issue #93)](https://github.com/mapitman/mycasts-android/pull/113) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Cap episodes before saving on a feed&#39;s first fetch (issue #110)](https://github.com/mapitman/mycasts-android/pull/112) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
