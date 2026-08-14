@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Recover the periodic feed-refresh job from a stuck FAILED state (issue #164)](https://github.com/mapitman/mycasts-android/pull/165) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Bound auto-download to newer episodes and the per-feed cap (issue #162)](https://github.com/mapitman/mycasts-android/pull/163) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show feed title as text with edit icon (issue #155)](https://github.com/mapitman/mycasts-android/pull/160) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add full app database backup/restore (issue #157)](https://github.com/mapitman/mycasts-android/pull/159) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Show podcast artwork in the Downloads list (issue #149)](https://github.com/mapitman/mycasts-android/pull/151) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Rename bottom nav &#34;Feeds&#34; tab label to &#34;Podcasts&#34; (issue #147)](https://github.com/mapitman/mycasts-android/pull/150) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add multi-select management to the podcast list (issue #124)](https://github.com/mapitman/mycasts-android/pull/145) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Redesign font size setting as a slider with live preview (issue #125)](https://github.com/mapitman/mycasts-android/pull/144) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
