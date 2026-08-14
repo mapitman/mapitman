@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.2.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.2.1), today) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.2.3](https://github.com/mapitman/mycasts-android/releases/tag/v0.2.3), today) - 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 4 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 week ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show feed title as text with edit icon (issue #155)](https://github.com/mapitman/mycasts-android/pull/160) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add full app database backup/restore (issue #157)](https://github.com/mapitman/mycasts-android/pull/159) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add a way to cancel all downloads and list active download jobs (issue #156)](https://github.com/mapitman/mycasts-android/pull/158) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Toggle the player sheet between minimized and expanded on repeated Next Up taps (issue #148)](https://github.com/mapitman/mycasts-android/pull/153) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Add multi-select management to the podcast list (issue #124)](https://github.com/mapitman/mycasts-android/pull/145) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Redesign font size setting as a slider with live preview (issue #125)](https://github.com/mapitman/mycasts-android/pull/144) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Replace stop X with stop icon next to play/pause (issue #132)](https://github.com/mapitman/mycasts-android/pull/143) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Remove redundant screen titles and back arrows (issues #127, #128)](https://github.com/mapitman/mycasts-android/pull/142) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
