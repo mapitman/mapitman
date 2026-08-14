@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Redesign font size setting as a slider with live preview (issue #125)](https://github.com/mapitman/mycasts-android/pull/144) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Replace stop X with stop icon next to play/pause (issue #132)](https://github.com/mapitman/mycasts-android/pull/143) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Remove redundant screen titles and back arrows (issues #127, #128)](https://github.com/mapitman/mycasts-android/pull/142) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Prevent duplicate Feed rows for the same podcast (issue #140)](https://github.com/mapitman/mycasts-android/pull/141) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Cap kept episodes to the true newest by publish date (issue #137)](https://github.com/mapitman/mycasts-android/pull/139) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Grow the Next Up player&#39;s header into place as the sheet expands (issue #129)](https://github.com/mapitman/mycasts-android/pull/133) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Expand the Next Up player sheet to the full screen height (issue #130)](https://github.com/mapitman/mycasts-android/pull/131) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Clarify and consolidate settings screen (issue #119)](https://github.com/mapitman/mycasts-android/pull/126) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Prompt to apply auto-download to existing podcasts (issue #117)](https://github.com/mapitman/mycasts-android/pull/121) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Redesign Next Up as a bottom-nav tab with an in-screen player sheet (issue #96)](https://github.com/mapitman/mycasts-android/pull/118) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
