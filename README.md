@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (6 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 week ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.7](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.7), today) - 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 3 days ago) - Getty Images API SDK for Node.js
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 6 days ago) - MyFeeds app for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.7](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.7), 1 day ago) - 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 4 days ago) - Getty Images API SDK for Node.js
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 week ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent duplicate Feed rows for the same podcast (issue #140)](https://github.com/mapitman/mycasts-android/pull/141) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Cap kept episodes to the true newest by publish date (issue #137)](https://github.com/mapitman/mycasts-android/pull/139) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Reject non-podcast feeds at subscribe time (issue #122)](https://github.com/mapitman/mycasts-android/pull/138) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Cap auto-download batch size to prevent OOM on a feed&#39;s first fetch (issue #134)](https://github.com/mapitman/mycasts-android/pull/135) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Grow the Next Up player&#39;s header into place as the sheet expands (issue #129)](https://github.com/mapitman/mycasts-android/pull/133) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Expand the Next Up player sheet to the full screen height (issue #130)](https://github.com/mapitman/mycasts-android/pull/131) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Clarify and consolidate settings screen (issue #119)](https://github.com/mapitman/mycasts-android/pull/126) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Prompt to apply auto-download to existing podcasts (issue #117)](https://github.com/mapitman/mycasts-android/pull/121) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Redesign Next Up as a bottom-nav tab with an in-screen player sheet (issue #96)](https://github.com/mapitman/mycasts-android/pull/118) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Move chapter text to a prominent row above transport buttons (issue #94)](https://github.com/mapitman/mycasts-android/pull/116) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Remove redundant screen titles and back arrows (issues #127, #128)](https://github.com/mapitman/mycasts-android/pull/142) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Prevent duplicate Feed rows for the same podcast (issue #140)](https://github.com/mapitman/mycasts-android/pull/141) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Cap kept episodes to the true newest by publish date (issue #137)](https://github.com/mapitman/mycasts-android/pull/139) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Reject non-podcast feeds at subscribe time (issue #122)](https://github.com/mapitman/mycasts-android/pull/138) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Cap auto-download batch size to prevent OOM on a feed&#39;s first fetch (issue #134)](https://github.com/mapitman/mycasts-android/pull/135) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Grow the Next Up player&#39;s header into place as the sheet expands (issue #129)](https://github.com/mapitman/mycasts-android/pull/133) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Expand the Next Up player sheet to the full screen height (issue #130)](https://github.com/mapitman/mycasts-android/pull/131) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Clarify and consolidate settings screen (issue #119)](https://github.com/mapitman/mycasts-android/pull/126) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Prompt to apply auto-download to existing podcasts (issue #117)](https://github.com/mapitman/mycasts-android/pull/121) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Redesign Next Up as a bottom-nav tab with an in-screen player sheet (issue #96)](https://github.com/mapitman/mycasts-android/pull/118) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
