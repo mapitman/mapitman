@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.1.7](https://github.com/mapitman/mycasts-android/releases/tag/v0.1.7), 1 day ago) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.2.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.2.0), today) - 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 4 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 week ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Toggle the player sheet between minimized and expanded on repeated Next Up taps (issue #148)](https://github.com/mapitman/mycasts-android/pull/153) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Keep the bottom nav bar visible on the episode list (issue #146)](https://github.com/mapitman/mycasts-android/pull/152) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Show podcast artwork in the Downloads list (issue #149)](https://github.com/mapitman/mycasts-android/pull/151) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Rename bottom nav &#34;Feeds&#34; tab label to &#34;Podcasts&#34; (issue #147)](https://github.com/mapitman/mycasts-android/pull/150) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add multi-select management to the podcast list (issue #124)](https://github.com/mapitman/mycasts-android/pull/145) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Redesign font size setting as a slider with live preview (issue #125)](https://github.com/mapitman/mycasts-android/pull/144) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Replace stop X with stop icon next to play/pause (issue #132)](https://github.com/mapitman/mycasts-android/pull/143) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Remove redundant screen titles and back arrows (issues #127, #128)](https://github.com/mapitman/mycasts-android/pull/142) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Prevent duplicate Feed rows for the same podcast (issue #140)](https://github.com/mapitman/mycasts-android/pull/141) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Cap kept episodes to the true newest by publish date (issue #137)](https://github.com/mapitman/mycasts-android/pull/139) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Reject non-podcast feeds at subscribe time (issue #122)](https://github.com/mapitman/mycasts-android/pull/138) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Cap auto-download batch size to prevent OOM on a feed&#39;s first fetch (issue #134)](https://github.com/mapitman/mycasts-android/pull/135) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Grow the Next Up player&#39;s header into place as the sheet expands (issue #129)](https://github.com/mapitman/mycasts-android/pull/133) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Expand the Next Up player sheet to the full screen height (issue #130)](https://github.com/mapitman/mycasts-android/pull/131) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Clarify and consolidate settings screen (issue #119)](https://github.com/mapitman/mycasts-android/pull/126) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
