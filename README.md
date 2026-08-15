@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.3.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.3.0), today) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.3.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.3.1), today) - 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 5 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 week ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Delete downloaded files when unsubscribing from a feed (issue #183)](https://github.com/mapitman/mycasts-android/pull/184) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Use a clearer downloaded-episode icon in the episode list (issue #174)](https://github.com/mapitman/mycasts-android/pull/182) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Show the episode&#39;s publish date on the Downloads screen (issue #177)](https://github.com/mapitman/mycasts-android/pull/181) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Remove the redundant Up Next button from the episode list (issue #175)](https://github.com/mapitman/mycasts-android/pull/180) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Fix Downloads screen duplicates and orphaned files (issues #176, #178)](https://github.com/mapitman/mycasts-android/pull/179) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Bound auto-queue/auto-download to a sane per-refresh burst even when unlimited (issue #172)](https://github.com/mapitman/mycasts-android/pull/173) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Keep a feed&#39;s description in sync with its latest fetch (issue #170)](https://github.com/mapitman/mycasts-android/pull/171) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Strip HTML from podcast subtitles in the list (issue #167)](https://github.com/mapitman/mycasts-android/pull/169) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Highlight podcasts with new episodes in the list (issue #161)](https://github.com/mapitman/mycasts-android/pull/168) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Recover the periodic feed-refresh job from a stuck FAILED state (issue #164)](https://github.com/mapitman/mycasts-android/pull/165) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Bound auto-download to newer episodes and the per-feed cap (issue #162)](https://github.com/mapitman/mycasts-android/pull/163) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Show feed title as text with edit icon (issue #155)](https://github.com/mapitman/mycasts-android/pull/160) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add full app database backup/restore (issue #157)](https://github.com/mapitman/mycasts-android/pull/159) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add a way to cancel all downloads and list active download jobs (issue #156)](https://github.com/mapitman/mycasts-android/pull/158) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Toggle the player sheet between minimized and expanded on repeated Next Up taps (issue #148)](https://github.com/mapitman/mycasts-android/pull/153) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
