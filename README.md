@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.3.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.3.1), today) - 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.4.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.4.0), today) - 
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.8](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.8), 5 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 week ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move the publish date to its own line on the Downloads screen (issue #190)](https://github.com/mapitman/mycasts-android/pull/191) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add a download-all action for the Next Up queue (issue #188)](https://github.com/mapitman/mycasts-android/pull/189) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Return to the podcast list after unsubscribing from a feed (issue #185)](https://github.com/mapitman/mycasts-android/pull/187) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Delete downloaded files when unsubscribing from a feed (issue #183)](https://github.com/mapitman/mycasts-android/pull/184) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Use a clearer downloaded-episode icon in the episode list (issue #174)](https://github.com/mapitman/mycasts-android/pull/182) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show the episode&#39;s publish date on the Downloads screen (issue #177)](https://github.com/mapitman/mycasts-android/pull/181) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -48,9 +51,6 @@
 - [Fix Downloads screen duplicates and orphaned files (issues #176, #178)](https://github.com/mapitman/mycasts-android/pull/179) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Bound auto-queue/auto-download to a sane per-refresh burst even when unlimited (issue #172)](https://github.com/mapitman/mycasts-android/pull/173) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Keep a feed&#39;s description in sync with its latest fetch (issue #170)](https://github.com/mapitman/mycasts-android/pull/171) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Strip HTML from podcast subtitles in the list (issue #167)](https://github.com/mapitman/mycasts-android/pull/169) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Highlight podcasts with new episodes in the list (issue #161)](https://github.com/mapitman/mycasts-android/pull/168) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Recover the periodic feed-refresh job from a stuck FAILED state (issue #164)](https://github.com/mapitman/mycasts-android/pull/165) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
