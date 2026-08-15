@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add README and technical/user documentation](https://github.com/mapitman/mycasts-android/pull/194) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Move the publish date to its own line on the Downloads screen (issue #190)](https://github.com/mapitman/mycasts-android/pull/191) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add a download-all action for the Next Up queue (issue #188)](https://github.com/mapitman/mycasts-android/pull/189) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Return to the podcast list after unsubscribing from a feed (issue #185)](https://github.com/mapitman/mycasts-android/pull/187) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Remove the redundant Up Next button from the episode list (issue #175)](https://github.com/mapitman/mycasts-android/pull/180) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix Downloads screen duplicates and orphaned files (issues #176, #178)](https://github.com/mapitman/mycasts-android/pull/179) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Bound auto-queue/auto-download to a sane per-refresh burst even when unlimited (issue #172)](https://github.com/mapitman/mycasts-android/pull/173) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Keep a feed&#39;s description in sync with its latest fetch (issue #170)](https://github.com/mapitman/mycasts-android/pull/171) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
