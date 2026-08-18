@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add TypeScript declarations for the existing public surface](https://github.com/gettyimages/gettyimages-api_nodejs/pull/84) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (today)
 - [Add README and technical/user documentation](https://github.com/mapitman/mycasts-android/pull/194) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
 - [Move the publish date to its own line on the Downloads screen (issue #190)](https://github.com/mapitman/mycasts-android/pull/191) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
 - [Add a download-all action for the Next Up queue (issue #188)](https://github.com/mapitman/mycasts-android/pull/189) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
@@ -50,7 +51,6 @@
 - [Show the episode&#39;s publish date on the Downloads screen (issue #177)](https://github.com/mapitman/mycasts-android/pull/181) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
 - [Remove the redundant Up Next button from the episode list (issue #175)](https://github.com/mapitman/mycasts-android/pull/180) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
 - [Fix Downloads screen duplicates and orphaned files (issues #176, #178)](https://github.com/mapitman/mycasts-android/pull/179) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Bound auto-queue/auto-download to a sane per-refresh burst even when unlimited (issue #172)](https://github.com/mapitman/mycasts-android/pull/173) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
