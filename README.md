@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (1 day ago)
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (6 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show each episode&#39;s download status in the Next Up queue (issue #192)](https://github.com/mapitman/mycasts-android/pull/208) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Stop double-reserving the navigation-bar inset on bottom-nav screens (issue #193)](https://github.com/mapitman/mycasts-android/pull/207) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Refetch chapters after an auto-advance, not just an in-app play() (issue #202)](https://github.com/mapitman/mycasts-android/pull/206) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Advance past a playback error instead of leaving the player stuck (issue #201)](https://github.com/mapitman/mycasts-android/pull/205) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Let a re-tapped download replace a wedged WorkManager job (issue #195)](https://github.com/mapitman/mycasts-android/pull/204) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Exempt downloaded episodes from the episode-cap trim (issue #200)](https://github.com/mapitman/mycasts-android/pull/203) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add TypeScript declarations for the existing public surface](https://github.com/gettyimages/gettyimages-api_nodejs/pull/84) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 days ago)
 - [Add README and technical/user documentation](https://github.com/mapitman/mycasts-android/pull/194) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
 - [Move the publish date to its own line on the Downloads screen (issue #190)](https://github.com/mapitman/mycasts-android/pull/191) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
 - [Add a download-all action for the Next Up queue (issue #188)](https://github.com/mapitman/mycasts-android/pull/189) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Return to the podcast list after unsubscribing from a feed (issue #185)](https://github.com/mapitman/mycasts-android/pull/187) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Delete downloaded files when unsubscribing from a feed (issue #183)](https://github.com/mapitman/mycasts-android/pull/184) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Use a clearer downloaded-episode icon in the episode list (issue #174)](https://github.com/mapitman/mycasts-android/pull/182) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Show the episode&#39;s publish date on the Downloads screen (issue #177)](https://github.com/mapitman/mycasts-android/pull/181) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Remove the redundant Up Next button from the episode list (issue #175)](https://github.com/mapitman/mycasts-android/pull/180) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Fix Downloads screen duplicates and orphaned files (issues #176, #178)](https://github.com/mapitman/mycasts-android/pull/179) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
 
 #### 📜 My recent blog posts
 
