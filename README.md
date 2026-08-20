@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (1 day ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 weeks ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Redesign &#34;Skip at start&#34; as a 5-second-increment slider (issue #154)](https://github.com/mapitman/mycasts-android/pull/214) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Name the release APK with the app name and version (issue #199)](https://github.com/mapitman/mycasts-android/pull/213) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add a regression test proving backups cover the playing episode (issue #197)](https://github.com/mapitman/mycasts-android/pull/212) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Suggest a date-stamped backup filename (issue #198)](https://github.com/mapitman/mycasts-android/pull/211) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Include the currently-playing episode in the Next Up queue (issue #196)](https://github.com/mapitman/mycasts-android/pull/210) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show each episode&#39;s download status in the Next Up queue (issue #192)](https://github.com/mapitman/mycasts-android/pull/208) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Stop double-reserving the navigation-bar inset on bottom-nav screens (issue #193)](https://github.com/mapitman/mycasts-android/pull/207) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Refetch chapters after an auto-advance, not just an in-app play() (issue #202)](https://github.com/mapitman/mycasts-android/pull/206) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Advance past a playback error instead of leaving the player stuck (issue #201)](https://github.com/mapitman/mycasts-android/pull/205) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Let a re-tapped download replace a wedged WorkManager job (issue #195)](https://github.com/mapitman/mycasts-android/pull/204) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Exempt downloaded episodes from the episode-cap trim (issue #200)](https://github.com/mapitman/mycasts-android/pull/203) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Add TypeScript declarations for the existing public surface](https://github.com/gettyimages/gettyimages-api_nodejs/pull/84) on [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) (2 days ago)
-- [Add README and technical/user documentation](https://github.com/mapitman/mycasts-android/pull/194) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Move the publish date to its own line on the Downloads screen (issue #190)](https://github.com/mapitman/mycasts-android/pull/191) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Add a download-all action for the Next Up queue (issue #188)](https://github.com/mapitman/mycasts-android/pull/189) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
 
 #### 📜 My recent blog posts
 
