@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Redesign &#34;Skip at start&#34; as a 5-second-increment slider (issue #154)](https://github.com/mapitman/mycasts-android/pull/214) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Name the release APK with the app name and version (issue #199)](https://github.com/mapitman/mycasts-android/pull/213) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add a regression test proving backups cover the playing episode (issue #197)](https://github.com/mapitman/mycasts-android/pull/212) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -48,9 +51,6 @@
 - [Include the currently-playing episode in the Next Up queue (issue #196)](https://github.com/mapitman/mycasts-android/pull/210) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show each episode&#39;s download status in the Next Up queue (issue #192)](https://github.com/mapitman/mycasts-android/pull/208) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Stop double-reserving the navigation-bar inset on bottom-nav screens (issue #193)](https://github.com/mapitman/mycasts-android/pull/207) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Refetch chapters after an auto-advance, not just an in-app play() (issue #202)](https://github.com/mapitman/mycasts-android/pull/206) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Advance past a playback error instead of leaving the player stuck (issue #201)](https://github.com/mapitman/mycasts-android/pull/205) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Let a re-tapped download replace a wedged WorkManager job (issue #195)](https://github.com/mapitman/mycasts-android/pull/204) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
