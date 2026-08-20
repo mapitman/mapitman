@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Suggest a date-stamped backup filename (issue #198)](https://github.com/mapitman/mycasts-android/pull/211) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Include the currently-playing episode in the Next Up queue (issue #196)](https://github.com/mapitman/mycasts-android/pull/210) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Show each episode&#39;s download status in the Next Up queue (issue #192)](https://github.com/mapitman/mycasts-android/pull/208) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Stop double-reserving the navigation-bar inset on bottom-nav screens (issue #193)](https://github.com/mapitman/mycasts-android/pull/207) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
