@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Split the Settings screen&#39;s &#34;Podcasts&#34; section into Downloads, Mobile Data, and Storage (issue #220)](https://github.com/mapitman/mycasts-android/pull/226) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Warn and let the user override at play-time instead of a blanket mobile-data streaming toggle (issue #222)](https://github.com/mapitman/mycasts-android/pull/225) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Trigger auto-download from adding to Next Up instead of a per-feed toggle (issue #219)](https://github.com/mapitman/mycasts-android/pull/224) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Rename &#34;cellular&#34; terminology to &#34;mobile data&#34; throughout the app (issue #221)](https://github.com/mapitman/mycasts-android/pull/223) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add daemon mode and cross-platform background service support](https://github.com/mapitman/zoom-detector/pull/3) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 day ago)
 - [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -48,9 +51,6 @@
 - [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Redesign &#34;Skip at start&#34; as a 5-second-increment slider (issue #154)](https://github.com/mapitman/mycasts-android/pull/214) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Name the release APK with the app name and version (issue #199)](https://github.com/mapitman/mycasts-android/pull/213) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add a regression test proving backups cover the playing episode (issue #197)](https://github.com/mapitman/mycasts-android/pull/212) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Suggest a date-stamped backup filename (issue #198)](https://github.com/mapitman/mycasts-android/pull/211) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
