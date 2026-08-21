@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Read markdown from standard input when the filename is -](https://github.com/mapitman/mdview/pull/58) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
 - [Split the Settings screen&#39;s &#34;Podcasts&#34; section into Downloads, Mobile Data, and Storage (issue #220)](https://github.com/mapitman/mycasts-android/pull/226) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Warn and let the user override at play-time instead of a blanket mobile-data streaming toggle (issue #222)](https://github.com/mapitman/mycasts-android/pull/225) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Trigger auto-download from adding to Next Up instead of a per-feed toggle (issue #219)](https://github.com/mapitman/mycasts-android/pull/224) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Redesign &#34;Skip at start&#34; as a 5-second-increment slider (issue #154)](https://github.com/mapitman/mycasts-android/pull/214) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
