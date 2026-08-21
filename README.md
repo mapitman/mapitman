@@ -2,20 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) -  (today)
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (1 day ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
+- [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 day ago)
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 day ago)
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 days ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 weeks ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
-- [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging. (1 month ago)
-- [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix. (1 month ago)
 
 #### 🌱 My latest projects
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - 
+- [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
@@ -24,13 +25,12 @@
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization.
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 1 day ago) - Getty Images API SDK for Node.js
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.4.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.4.0), 5 days ago) - 
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 week ago) - MyFeeds app for Android
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 2 days ago) - Getty Images API SDK for Node.js
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.4.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.4.0), 6 days ago) - A podcast listener for Android
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 weeks ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 5 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Redesign &#34;Skip at start&#34; as a 5-second-increment slider (issue #154)](https://github.com/mapitman/mycasts-android/pull/214) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Name the release APK with the app name and version (issue #199)](https://github.com/mapitman/mycasts-android/pull/213) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Add a regression test proving backups cover the playing episode (issue #197)](https://github.com/mapitman/mycasts-android/pull/212) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Suggest a date-stamped backup filename (issue #198)](https://github.com/mapitman/mycasts-android/pull/211) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Include the currently-playing episode in the Next Up queue (issue #196)](https://github.com/mapitman/mycasts-android/pull/210) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Show each episode&#39;s download status in the Next Up queue (issue #192)](https://github.com/mapitman/mycasts-android/pull/208) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add daemon mode and cross-platform background service support](https://github.com/mapitman/zoom-detector/pull/3) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 day ago)
+- [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Redesign &#34;Skip at start&#34; as a 5-second-increment slider (issue #154)](https://github.com/mapitman/mycasts-android/pull/214) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Name the release APK with the app name and version (issue #199)](https://github.com/mapitman/mycasts-android/pull/213) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Add a regression test proving backups cover the playing episode (issue #197)](https://github.com/mapitman/mycasts-android/pull/212) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Suggest a date-stamped backup filename (issue #198)](https://github.com/mapitman/mycasts-android/pull/211) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Include the currently-playing episode in the Next Up queue (issue #196)](https://github.com/mapitman/mycasts-android/pull/210) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -62,8 +62,6 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/afd13f561c770705041a4d079d8ac108) (3 days ago)
-- [](https://gist.github.com/7363271e179963e00f1514b1aa858ead) (3 days ago)
 - [Shell script to detect and disable certain brands of webcams. https://julianoliver.com/output/log_2015-12-18_14-39](https://gist.github.com/d8fcf93524fb0a1dc491) (10 years ago)
 - [](https://gist.github.com/c513e93d25e93f766cdf) (12 years ago)
 
