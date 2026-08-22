@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 days ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (2 days ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 days ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.5.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.5.0), today) - A podcast listener for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.5.3](https://github.com/mapitman/mycasts-android/releases/tag/v0.5.3), today) - A podcast listener for Android
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 day ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 3 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 weeks ago) - MyFeeds app for Android
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add multi-select and bulk-delete to the Downloads screen (issue #236)](https://github.com/mapitman/mycasts-android/pull/237) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Stop feed refresh from wiping downloaded episodes&#39; DB records, add recovery (issue #234)](https://github.com/mapitman/mycasts-android/pull/235) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cache streamed audio to disk so seeking/replaying doesn&#39;t re-fetch it (issue #230)](https://github.com/mapitman/mycasts-android/pull/233) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Don&#39;t let a failed foreground-notification promotion abort background feed refresh (issue #228)](https://github.com/mapitman/mycasts-android/pull/229) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add a global setting to toggle download-on-add-to-Next-Up (issue #219 follow-up)](https://github.com/mapitman/mycasts-android/pull/227) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -49,8 +51,6 @@
 - [Warn and let the user override at play-time instead of a blanket mobile-data streaming toggle (issue #222)](https://github.com/mapitman/mycasts-android/pull/225) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Trigger auto-download from adding to Next Up instead of a per-feed toggle (issue #219)](https://github.com/mapitman/mycasts-android/pull/224) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Rename &#34;cellular&#34; terminology to &#34;mobile data&#34; throughout the app (issue #221)](https://github.com/mapitman/mycasts-android/pull/223) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add daemon mode and cross-platform background service support](https://github.com/mapitman/zoom-detector/pull/3) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (2 days ago)
-- [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
