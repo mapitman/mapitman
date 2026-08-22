@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
-- [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 day ago)
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 day ago)
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 days ago)
+- [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (2 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 days ago)
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 weeks ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 2 days ago) - Getty Images API SDK for Node.js
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.4.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.4.0), 6 days ago) - A podcast listener for Android
+- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 day ago) - Convert markdown to HTML and launch it in a browser.
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 3 days ago) - Getty Images API SDK for Node.js
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.4.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.4.0), 1 week ago) - A podcast listener for Android
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 weeks ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 2 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 5 months ago) - 
@@ -37,20 +38,19 @@
 - [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 5 months ago) - Convert Time to Internet Time in beats
 - [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 5 months ago) - Docker image to build hugo websites
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) ([v1.0.0](https://github.com/mapitman/docker-python-arm/releases/tag/v1.0.0), 5 months ago) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
-- [mapitman/docker-linux-tools](https://github.com/mapitman/docker-linux-tools) ([v1.0.0](https://github.com/mapitman/docker-linux-tools/releases/tag/v1.0.0), 5 months ago) - Docker image for use on Windows to run various tools under Linux
 
 #### 🔨 My recent Pull Requests
 
-- [Read markdown from standard input when the filename is -](https://github.com/mapitman/mdview/pull/58) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
-- [Split the Settings screen&#39;s &#34;Podcasts&#34; section into Downloads, Mobile Data, and Storage (issue #220)](https://github.com/mapitman/mycasts-android/pull/226) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Warn and let the user override at play-time instead of a blanket mobile-data streaming toggle (issue #222)](https://github.com/mapitman/mycasts-android/pull/225) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Trigger auto-download from adding to Next Up instead of a per-feed toggle (issue #219)](https://github.com/mapitman/mycasts-android/pull/224) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Rename &#34;cellular&#34; terminology to &#34;mobile data&#34; throughout the app (issue #221)](https://github.com/mapitman/mycasts-android/pull/223) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Add daemon mode and cross-platform background service support](https://github.com/mapitman/zoom-detector/pull/3) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 day ago)
-- [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Read markdown from standard input when the filename is -](https://github.com/mapitman/mdview/pull/58) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 day ago)
+- [Split the Settings screen&#39;s &#34;Podcasts&#34; section into Downloads, Mobile Data, and Storage (issue #220)](https://github.com/mapitman/mycasts-android/pull/226) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Warn and let the user override at play-time instead of a blanket mobile-data streaming toggle (issue #222)](https://github.com/mapitman/mycasts-android/pull/225) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Trigger auto-download from adding to Next Up instead of a per-feed toggle (issue #219)](https://github.com/mapitman/mycasts-android/pull/224) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Rename &#34;cellular&#34; terminology to &#34;mobile data&#34; throughout the app (issue #221)](https://github.com/mapitman/mycasts-android/pull/223) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Add daemon mode and cross-platform background service support](https://github.com/mapitman/zoom-detector/pull/3) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (2 days ago)
+- [Tell the user why a download didn&#39;t start, not just that it didn&#39;t (issue #209 follow-up)](https://github.com/mapitman/mycasts-android/pull/218) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Log download failures and stop retrying forever when storage is low (issue #209)](https://github.com/mapitman/mycasts-android/pull/217) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Raise the coroutines-test timeout as a partial mitigation for flaky tests (issue #77)](https://github.com/mapitman/mycasts-android/pull/216) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Make streaming cellular-aware instead of a blanket on/off toggle (issue #123)](https://github.com/mapitman/mycasts-android/pull/215) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
