@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (today)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (today)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 days ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (2 days ago)
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 days ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (3 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 weeks ago)
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (2 weeks ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.5.3](https://github.com/mapitman/mycasts-android/releases/tag/v0.5.3), today) - A podcast listener for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.5.4](https://github.com/mapitman/mycasts-android/releases/tag/v0.5.4), today) - A podcast listener for Android
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 day ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 3 days ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 weeks ago) - MyFeeds app for Android
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rank auto-queue candidates against the feed&#39;s own history (issue #238)](https://github.com/mapitman/mycasts-android/pull/239) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Revert: Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/309) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
+- [Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/308) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (today)
 - [Add multi-select and bulk-delete to the Downloads screen (issue #236)](https://github.com/mapitman/mycasts-android/pull/237) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Stop feed refresh from wiping downloaded episodes&#39; DB records, add recovery (issue #234)](https://github.com/mapitman/mycasts-android/pull/235) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cache streamed audio to disk so seeking/replaying doesn&#39;t re-fetch it (issue #230)](https://github.com/mapitman/mycasts-android/pull/233) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -48,9 +51,6 @@
 - [Add a global setting to toggle download-on-add-to-Next-Up (issue #219 follow-up)](https://github.com/mapitman/mycasts-android/pull/227) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Read markdown from standard input when the filename is -](https://github.com/mapitman/mdview/pull/58) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 day ago)
 - [Split the Settings screen&#39;s &#34;Podcasts&#34; section into Downloads, Mobile Data, and Storage (issue #220)](https://github.com/mapitman/mycasts-android/pull/226) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Warn and let the user override at play-time instead of a blanket mobile-data streaming toggle (issue #222)](https://github.com/mapitman/mycasts-android/pull/225) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Trigger auto-download from adding to Next Up instead of a per-feed toggle (issue #219)](https://github.com/mapitman/mycasts-android/pull/224) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Rename &#34;cellular&#34; terminology to &#34;mobile data&#34; throughout the app (issue #221)](https://github.com/mapitman/mycasts-android/pull/223) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
