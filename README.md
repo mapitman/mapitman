@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Pre-cache the Next Up head episode&#39;s download (issue #242)](https://github.com/mapitman/mycasts-android/pull/243) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Skip an unresolvable Next Up episode instead of stalling playback (issue #240)](https://github.com/mapitman/mycasts-android/pull/241) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Rank auto-queue candidates against the feed&#39;s own history (issue #238)](https://github.com/mapitman/mycasts-android/pull/239) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Revert: Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/309) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
 - [Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/308) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Cache streamed audio to disk so seeking/replaying doesn&#39;t re-fetch it (issue #230)](https://github.com/mapitman/mycasts-android/pull/233) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Don&#39;t let a failed foreground-notification promotion abort background feed refresh (issue #228)](https://github.com/mapitman/mycasts-android/pull/229) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Add a global setting to toggle download-on-add-to-Next-Up (issue #219 follow-up)](https://github.com/mapitman/mycasts-android/pull/227) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Read markdown from standard input when the filename is -](https://github.com/mapitman/mdview/pull/58) on [mapitman/mdview](https://github.com/mapitman/mdview) (2 days ago)
-- [Split the Settings screen&#39;s &#34;Podcasts&#34; section into Downloads, Mobile Data, and Storage (issue #220)](https://github.com/mapitman/mycasts-android/pull/226) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
