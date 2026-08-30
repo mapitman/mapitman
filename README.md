@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Tablet-landscape pane: episode list &#43; episode details (issue #261)](https://github.com/mapitman/mycasts-android/pull/268) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Tablet-landscape pane: feed list &#43; episode list (issue #260)](https://github.com/mapitman/mycasts-android/pull/267) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -50,7 +51,6 @@
 - [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/253) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/252) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Convert PlaybackService to a MediaLibraryService (issue #246)](https://github.com/mapitman/mycasts-android/pull/251) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
