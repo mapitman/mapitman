@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Tablet-landscape pane: Queue &#43; current episode details (issue #262)](https://github.com/mapitman/mycasts-android/pull/269) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Tablet-landscape pane: episode list &#43; episode details (issue #261)](https://github.com/mapitman/mycasts-android/pull/268) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Tablet-landscape pane: feed list &#43; episode list (issue #260)](https://github.com/mapitman/mycasts-android/pull/267) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -49,8 +51,6 @@
 - [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/253) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/252) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 
 #### 📜 My recent blog posts
 
