@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (today)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 week ago)
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Tablet-landscape pane: feed list &#43; episode list (issue #260)](https://github.com/mapitman/mycasts-android/pull/267) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -48,9 +51,6 @@
 - [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/253) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/252) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Convert PlaybackService to a MediaLibraryService (issue #246)](https://github.com/mapitman/mycasts-android/pull/251) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Match episodes by enclosure url when guid changes (issue #244)](https://github.com/mapitman/mycasts-android/pull/245) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
-- [Pre-cache the Next Up head episode&#39;s download (issue #242)](https://github.com/mapitman/mycasts-android/pull/243) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Skip an unresolvable Next Up episode instead of stalling playback (issue #240)](https://github.com/mapitman/mycasts-android/pull/241) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 
 #### 📜 My recent blog posts
 
