@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 week ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 week ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/253) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/252) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Convert PlaybackService to a MediaLibraryService (issue #246)](https://github.com/mapitman/mycasts-android/pull/251) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Match episodes by enclosure url when guid changes (issue #244)](https://github.com/mapitman/mycasts-android/pull/245) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
 - [Pre-cache the Next Up head episode&#39;s download (issue #242)](https://github.com/mapitman/mycasts-android/pull/243) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Skip an unresolvable Next Up episode instead of stalling playback (issue #240)](https://github.com/mapitman/mycasts-android/pull/241) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Rank auto-queue candidates against the feed&#39;s own history (issue #238)](https://github.com/mapitman/mycasts-android/pull/239) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Revert: Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/309) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
-- [Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/308) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
-- [Add multi-select and bulk-delete to the Downloads screen (issue #236)](https://github.com/mapitman/mycasts-android/pull/237) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Stop feed refresh from wiping downloaded episodes&#39; DB records, add recovery (issue #234)](https://github.com/mapitman/mycasts-android/pull/235) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Cache streamed audio to disk so seeking/replaying doesn&#39;t re-fetch it (issue #230)](https://github.com/mapitman/mycasts-android/pull/233) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Don&#39;t let a failed foreground-notification promotion abort background feed refresh (issue #228)](https://github.com/mapitman/mycasts-android/pull/229) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 
 #### 📜 My recent blog posts
 
