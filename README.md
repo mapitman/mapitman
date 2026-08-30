@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.5.6](https://github.com/mapitman/mycasts-android/releases/tag/v0.5.6), 6 days ago) - A podcast listener for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.6.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.6.0), today) - A podcast listener for Android
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 week ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 1 week ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 weeks ago) - MyFeeds app for Android
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Build the Android Auto browse tree (issue #250)](https://github.com/mapitman/mycasts-android/pull/253) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
@@ -49,8 +51,6 @@
 - [Match episodes by enclosure url when guid changes (issue #244)](https://github.com/mapitman/mycasts-android/pull/245) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
 - [Pre-cache the Next Up head episode&#39;s download (issue #242)](https://github.com/mapitman/mycasts-android/pull/243) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Skip an unresolvable Next Up episode instead of stalling playback (issue #240)](https://github.com/mapitman/mycasts-android/pull/241) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Rank auto-queue candidates against the feed&#39;s own history (issue #238)](https://github.com/mapitman/mycasts-android/pull/239) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Revert: Filter auto-queue by publish date, not just GUID novelty (issue #307)](https://github.com/mapitman/myfeeds-android/pull/309) on [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) (1 week ago)
 
 #### 📜 My recent blog posts
 
