@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (today)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.6.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.6.0), today) - A podcast listener for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.6.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.6.0), 1 day ago) - A podcast listener for Android
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 week ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 1 week ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 weeks ago) - MyFeeds app for Android
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Tablet-landscape pane: Queue &#43; current episode details (issue #262)](https://github.com/mapitman/mycasts-android/pull/269) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Tablet-landscape pane: episode list &#43; episode details (issue #261)](https://github.com/mapitman/mycasts-android/pull/268) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Tablet-landscape pane: feed list &#43; episode list (issue #260)](https://github.com/mapitman/mycasts-android/pull/267) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
-- [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Tablet-landscape pane: Queue &#43; current episode details (issue #262)](https://github.com/mapitman/mycasts-android/pull/269) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Tablet-landscape pane: episode list &#43; episode details (issue #261)](https://github.com/mapitman/mycasts-android/pull/268) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Tablet-landscape pane: feed list &#43; episode list (issue #260)](https://github.com/mapitman/mycasts-android/pull/267) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
+- [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
