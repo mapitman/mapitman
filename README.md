@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make ViewModel unit tests deterministic (issue #258)](https://github.com/mapitman/mycasts-android/pull/273) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Insert front-queued episodes after the currently-playing one (issue #271)](https://github.com/mapitman/mycasts-android/pull/272) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Tablet-landscape pane: Queue &#43; current episode details (issue #262)](https://github.com/mapitman/mycasts-android/pull/269) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Tablet-landscape pane: episode list &#43; episode details (issue #261)](https://github.com/mapitman/mycasts-android/pull/268) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -49,8 +51,6 @@
 - [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Support playback resumption on Android Auto connect (issue #248)](https://github.com/mapitman/mycasts-android/pull/255) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Play episodes selected from the Android Auto browse tree (issue #247)](https://github.com/mapitman/mycasts-android/pull/254) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
