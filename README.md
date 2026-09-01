@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent dragging episodes above the now-playing queue entry (issue #274)](https://github.com/mapitman/mycasts-android/pull/275) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Make ViewModel unit tests deterministic (issue #258)](https://github.com/mapitman/mycasts-android/pull/273) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Insert front-queued episodes after the currently-playing one (issue #271)](https://github.com/mapitman/mycasts-android/pull/272) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
@@ -50,7 +51,6 @@
 - [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 - [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 - [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
-- [Hint Android Auto to render the browse tree as lists (issue #249)](https://github.com/mapitman/mycasts-android/pull/257) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 
 #### 📜 My recent blog posts
 
