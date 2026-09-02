@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (today)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 week ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
+- [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Prevent dragging episodes above the now-playing queue entry (issue #274)](https://github.com/mapitman/mycasts-android/pull/275) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Make ViewModel unit tests deterministic (issue #258)](https://github.com/mapitman/mycasts-android/pull/273) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 - [Insert front-queued episodes after the currently-playing one (issue #271)](https://github.com/mapitman/mycasts-android/pull/272) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 - [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Tablet-landscape pane: Queue &#43; current episode details (issue #262)](https://github.com/mapitman/mycasts-android/pull/269) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Tablet-landscape pane: episode list &#43; episode details (issue #261)](https://github.com/mapitman/mycasts-android/pull/268) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Tablet-landscape pane: feed list &#43; episode list (issue #260)](https://github.com/mapitman/mycasts-android/pull/267) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Add Material3 Adaptive dependency and shared list-detail pane host utility (issue #263)](https://github.com/mapitman/mycasts-android/pull/266) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Bump AGP to 8.13.2 and Gradle to 8.14.5 (issue #264)](https://github.com/mapitman/mycasts-android/pull/265) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Reflect Next Up in Android Auto&#39;s queue view (issue #256)](https://github.com/mapitman/mycasts-android/pull/259) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
 
 #### 📜 My recent blog posts
 
