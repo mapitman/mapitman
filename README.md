@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 days ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 week ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (2 weeks ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 weeks ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 weeks ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (3 weeks ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (4 weeks ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 month ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 month ago)
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) - Web service which provides the current &#34;Internet Time&#34; (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.7.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.7.1), 3 days ago) - A podcast listener for Android
-- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 week ago) - Convert markdown to HTML and launch it in a browser.
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.7.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.7.1), 4 days ago) - A podcast listener for Android
+- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 2 weeks ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 2 weeks ago) - Getty Images API SDK for Node.js
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 weeks ago) - MyFeeds app for Android
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 4 weeks ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 3 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 6 months ago) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 6 months ago) - Docker image for building netcore applications
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Prevent dragging episodes above the now-playing queue entry (issue #274)](https://github.com/mapitman/mycasts-android/pull/275) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
-- [Make ViewModel unit tests deterministic (issue #258)](https://github.com/mapitman/mycasts-android/pull/273) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Insert front-queued episodes after the currently-playing one (issue #271)](https://github.com/mapitman/mycasts-android/pull/272) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
-- [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
+- [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Prevent dragging episodes above the now-playing queue entry (issue #274)](https://github.com/mapitman/mycasts-android/pull/275) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 days ago)
+- [Make ViewModel unit tests deterministic (issue #258)](https://github.com/mapitman/mycasts-android/pull/273) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
+- [Insert front-queued episodes after the currently-playing one (issue #271)](https://github.com/mapitman/mycasts-android/pull/272) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
+- [Cap settings list width on wide windows (issue #232)](https://github.com/mapitman/mycasts-android/pull/270) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
 
 #### 📜 My recent blog posts
 
