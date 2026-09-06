@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
 - [Fix Wear OS sync by matching :wear&#39;s applicationId to :app&#39;s (issue #276)](https://github.com/mapitman/mycasts-android/pull/284) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
@@ -50,7 +51,6 @@
 - [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
 - [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
 - [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
-- [Prevent dragging episodes above the now-playing queue entry (issue #274)](https://github.com/mapitman/mycasts-android/pull/275) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
 
 #### 📜 My recent blog posts
 
