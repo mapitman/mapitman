@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (4 days ago)
-- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 weeks ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (5 days ago)
+- [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (3 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (3 weeks ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (3 weeks ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.7.3](https://github.com/mapitman/mycasts-android/releases/tag/v0.7.3), 3 days ago) - A podcast listener for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.7.3](https://github.com/mapitman/mycasts-android/releases/tag/v0.7.3), 4 days ago) - A podcast listener for Android
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 3 weeks ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.0), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 month ago) - MyFeeds app for Android
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
+- [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
 - [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Fix Wear OS sync by matching :wear&#39;s applicationId to :app&#39;s (issue #276)](https://github.com/mapitman/mycasts-android/pull/284) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
