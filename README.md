@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (today)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 weeks ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 month ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 month ago)
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (1 month ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 month ago)
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization. (1 month ago)
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Re-sign the staged binary on macOS to satisfy Gatekeeper](https://github.com/mapitman/zoom-detector/pull/5) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
+- [Handle MQTT connect failure at startup instead of crashing](https://github.com/mapitman/zoom-detector/pull/4) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
 - [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
 - [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
 - [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
@@ -49,8 +51,6 @@
 - [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 - [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 - [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
-- [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
-- [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
