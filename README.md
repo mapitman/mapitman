@@ -45,12 +45,12 @@
 - [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
 - [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
 - [Fix Wear OS sync by matching :wear&#39;s applicationId to :app&#39;s (issue #276)](https://github.com/mapitman/mycasts-android/pull/284) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
+- [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Add transport-agnostic Wear OS sync interface (issue #276)](https://github.com/mapitman/mycasts-android/pull/279) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Extract data layer into a shared :core module (issue #276)](https://github.com/mapitman/mycasts-android/pull/278) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
