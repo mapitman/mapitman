@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (2 days ago)
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (3 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 weeks ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 month ago)
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Re-sign the staged binary on macOS to satisfy Gatekeeper](https://github.com/mapitman/zoom-detector/pull/5) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (2 days ago)
-- [Handle MQTT connect failure at startup instead of crashing](https://github.com/mapitman/zoom-detector/pull/4) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (2 days ago)
+- [Re-sign the staged binary on macOS to satisfy Gatekeeper](https://github.com/mapitman/zoom-detector/pull/5) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (3 days ago)
+- [Handle MQTT connect failure at startup instead of crashing](https://github.com/mapitman/zoom-detector/pull/4) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (3 days ago)
 - [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
 - [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
 - [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
