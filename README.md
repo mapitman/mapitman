@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update .gitignore](https://github.com/gettyimages/gettyimages-api/pull/17) on [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) (today)
 - [Re-sign the staged binary on macOS to satisfy Gatekeeper](https://github.com/mapitman/zoom-detector/pull/5) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Handle MQTT connect failure at startup instead of crashing](https://github.com/mapitman/zoom-detector/pull/4) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
@@ -50,7 +51,6 @@
 - [Add the watch&#39;s queue and now-playing screens (issue #276)](https://github.com/mapitman/mycasts-android/pull/283) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
 - [Add the watch&#39;s own playback service and controller (issue #276)](https://github.com/mapitman/mycasts-android/pull/282) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
 - [Wire up the phone/watch sync bridge (issue #276)](https://github.com/mapitman/mycasts-android/pull/281) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
-- [Scaffold the :wear application module (issue #276)](https://github.com/mapitman/mycasts-android/pull/280) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
