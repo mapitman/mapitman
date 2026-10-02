@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 day ago)
-- [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 days ago)
+- [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (2 days ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 week ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 month ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.8.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.8.1), 1 day ago) - A podcast listener for Android
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.8.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.8.1), 2 days ago) - A podcast listener for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.2), 2 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 month ago) - Convert markdown to HTML and launch it in a browser.
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 1 month ago) - MyFeeds app for Android
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Derive wear versionName and versionCode from the release tag (issue #296)](https://github.com/mapitman/mycasts-android/pull/297) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add haptic feedback to the Wear OS module (issue #294)](https://github.com/mapitman/mycasts-android/pull/295) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Add haptic feedback to gestures and key interactions (issue #292)](https://github.com/mapitman/mycasts-android/pull/293) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Update .gitignore](https://github.com/gettyimages/gettyimages-api/pull/17) on [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) (1 day ago)
+- [Derive wear versionName and versionCode from the release tag (issue #296)](https://github.com/mapitman/mycasts-android/pull/297) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Add haptic feedback to the Wear OS module (issue #294)](https://github.com/mapitman/mycasts-android/pull/295) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Add haptic feedback to gestures and key interactions (issue #292)](https://github.com/mapitman/mycasts-android/pull/293) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 days ago)
+- [Update .gitignore](https://github.com/gettyimages/gettyimages-api/pull/17) on [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) (2 days ago)
 - [Re-sign the staged binary on macOS to satisfy Gatekeeper](https://github.com/mapitman/zoom-detector/pull/5) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Handle MQTT connect failure at startup instead of crashing](https://github.com/mapitman/zoom-detector/pull/4) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 - [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
-- [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
-- [Fix Wear OS sync by matching :wear&#39;s applicationId to :app&#39;s (issue #276)](https://github.com/mapitman/mycasts-android/pull/284) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Add real playback controls to the watch&#39;s now-playing screen (issue #285)](https://github.com/mapitman/mycasts-android/pull/286) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
+- [Fix Wear OS sync by matching :wear&#39;s applicationId to :app&#39;s (issue #276)](https://github.com/mapitman/mycasts-android/pull/284) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
