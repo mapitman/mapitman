@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 days ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (4 days ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (4 days ago)
@@ -21,7 +21,7 @@
 - [mapitman/scripts](https://github.com/mapitman/scripts) - Various scripts that I don&#39;t want to lose track of
 - [mapitman/docker-python-arm](https://github.com/mapitman/docker-python-arm) - Docker image based on `arm32v6/alpine` with a Python 3 environment and common packages pre-installed
 - [mapitman/docker-php-cli](https://github.com/mapitman/docker-php-cli) - Modified version of the offical php-cli-alpine Docker image with git and zip
-- [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/ripsharp](https://github.com/mapitman/ripsharp) - Automatic DVD, Blu-Ray, and UltraHD Blu-Ray ripping tool with intelligent metadata lookup and file organization.
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
@@ -41,8 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Debian stable base, adaptive panes and true-color widgets](https://github.com/mapitman/docker-hollywood/pull/3) on [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) (1 day ago)
-- [Switch to Debian testing and size panes to the terminal](https://github.com/mapitman/docker-hollywood/pull/2) on [mapitman/docker-hollywood](https://github.com/mapitman/docker-hollywood) (1 day ago)
+- [Rename the project to hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut/pull/4) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (today)
+- [Debian stable base, adaptive panes and true-color widgets](https://github.com/mapitman/hollywood-directors-cut/pull/3) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
+- [Switch to Debian testing and size panes to the terminal](https://github.com/mapitman/hollywood-directors-cut/pull/2) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
 - [Derive wear versionName and versionCode from the release tag (issue #296)](https://github.com/mapitman/mycasts-android/pull/297) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
 - [Add haptic feedback to the Wear OS module (issue #294)](https://github.com/mapitman/mycasts-android/pull/295) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
 - [Add haptic feedback to gestures and key interactions (issue #292)](https://github.com/mapitman/mycasts-android/pull/293) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
@@ -50,7 +51,6 @@
 - [Re-sign the staged binary on macOS to satisfy Gatekeeper](https://github.com/mapitman/zoom-detector/pull/5) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Handle MQTT connect failure at startup instead of crashing](https://github.com/mapitman/zoom-detector/pull/4) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Sign and publish :wear release APK (issue #289)](https://github.com/mapitman/mycasts-android/pull/290) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
-- [Fix episode resuming from the beginning after switching playback (issue #287)](https://github.com/mapitman/mycasts-android/pull/288) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
