@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (2 days ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (6 days ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (6 days ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.0.2](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.0.2), 1 day ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.1.0](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.1.0), today) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.8.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.8.1), 6 days ago) - A podcast listener for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.2), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 month ago) - Convert markdown to HTML and launch it in a browser.
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add a btop widget](https://github.com/mapitman/hollywood-directors-cut/pull/10) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (today)
 - [Add movie references to the README tagline](https://github.com/mapitman/hollywood-directors-cut/pull/9) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (2 days ago)
 - [Update the Docker Hub descriptions only after a release is published](https://github.com/mapitman/hollywood-directors-cut/pull/8) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (2 days ago)
 - [Add Dependabot for the GitHub Actions](https://github.com/mapitman/hollywood-directors-cut/pull/7) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (2 days ago)
@@ -50,7 +51,6 @@
 - [Debian stable base, adaptive panes and true-color widgets](https://github.com/mapitman/hollywood-directors-cut/pull/3) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (3 days ago)
 - [Switch to Debian testing and size panes to the terminal](https://github.com/mapitman/hollywood-directors-cut/pull/2) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (3 days ago)
 - [Derive wear versionName and versionCode from the release tag (issue #296)](https://github.com/mapitman/mycasts-android/pull/297) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
-- [Add haptic feedback to the Wear OS module (issue #294)](https://github.com/mapitman/mycasts-android/pull/295) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
 
 #### 📜 My recent blog posts
 
