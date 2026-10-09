@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (2 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 week ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 1 day ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 2 days ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.8.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.8.1), 1 week ago) - A podcast listener for Android
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.2](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.2), 3 weeks ago) - Getty Images API SDK for Node.js
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 month ago) - Convert markdown to HTML and launch it in a browser.
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Link the README animation by its full address](https://github.com/mapitman/hollywood-directors-cut/pull/14) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (today)
-- [Update the README: platforms, Mac CPU note and plainer prose](https://github.com/mapitman/hollywood-directors-cut/pull/13) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (today)
-- [Build the image for amd64 and arm64](https://github.com/mapitman/hollywood-directors-cut/pull/12) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
-- [Pick a random pane count at every rebuild](https://github.com/mapitman/hollywood-directors-cut/pull/11) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
-- [Add a btop widget](https://github.com/mapitman/hollywood-directors-cut/pull/10) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (2 days ago)
-- [Add movie references to the README tagline](https://github.com/mapitman/hollywood-directors-cut/pull/9) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (4 days ago)
-- [Update the Docker Hub descriptions only after a release is published](https://github.com/mapitman/hollywood-directors-cut/pull/8) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (4 days ago)
-- [Add Dependabot for the GitHub Actions](https://github.com/mapitman/hollywood-directors-cut/pull/7) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (4 days ago)
-- [Update the GitHub Actions to their latest versions](https://github.com/mapitman/hollywood-directors-cut/pull/6) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (4 days ago)
-- [Keep the Docker Hub descriptions in sync with the README](https://github.com/mapitman/hollywood-directors-cut/pull/5) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (4 days ago)
+- [Link the README animation by its full address](https://github.com/mapitman/hollywood-directors-cut/pull/14) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
+- [Update the README: platforms, Mac CPU note and plainer prose](https://github.com/mapitman/hollywood-directors-cut/pull/13) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
+- [Build the image for amd64 and arm64](https://github.com/mapitman/hollywood-directors-cut/pull/12) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (2 days ago)
+- [Pick a random pane count at every rebuild](https://github.com/mapitman/hollywood-directors-cut/pull/11) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (2 days ago)
+- [Add a btop widget](https://github.com/mapitman/hollywood-directors-cut/pull/10) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (3 days ago)
+- [Add movie references to the README tagline](https://github.com/mapitman/hollywood-directors-cut/pull/9) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (5 days ago)
+- [Update the Docker Hub descriptions only after a release is published](https://github.com/mapitman/hollywood-directors-cut/pull/8) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (5 days ago)
+- [Add Dependabot for the GitHub Actions](https://github.com/mapitman/hollywood-directors-cut/pull/7) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (5 days ago)
+- [Update the GitHub Actions to their latest versions](https://github.com/mapitman/hollywood-directors-cut/pull/6) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (5 days ago)
+- [Keep the Docker Hub descriptions in sync with the README](https://github.com/mapitman/hollywood-directors-cut/pull/5) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (5 days ago)
 
 #### 📜 My recent blog posts
 
