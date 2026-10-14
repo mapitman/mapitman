@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 week ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 day ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 weeks ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (2 weeks ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (3 weeks ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (1 month ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (1 month ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (2 months ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Link the README animation by its full address](https://github.com/mapitman/hollywood-directors-cut/pull/14) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (6 days ago)
-- [Update the README: platforms, Mac CPU note and plainer prose](https://github.com/mapitman/hollywood-directors-cut/pull/13) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (6 days ago)
-- [Build the image for amd64 and arm64](https://github.com/mapitman/hollywood-directors-cut/pull/12) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Pick a random pane count at every rebuild](https://github.com/mapitman/hollywood-directors-cut/pull/11) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Add a btop widget](https://github.com/mapitman/hollywood-directors-cut/pull/10) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Add movie references to the README tagline](https://github.com/mapitman/hollywood-directors-cut/pull/9) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Update the Docker Hub descriptions only after a release is published](https://github.com/mapitman/hollywood-directors-cut/pull/8) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Add Dependabot for the GitHub Actions](https://github.com/mapitman/hollywood-directors-cut/pull/7) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Update the GitHub Actions to their latest versions](https://github.com/mapitman/hollywood-directors-cut/pull/6) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
-- [Keep the Docker Hub descriptions in sync with the README](https://github.com/mapitman/hollywood-directors-cut/pull/5) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 week ago)
+- [Shorten README sentences and paragraphs to meet the style rules](https://github.com/mapitman/hollywood-directors-cut/pull/15) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (today)
+- [Move the snap to core24 and replace the unity7 plug](https://github.com/mapitman/mdview/pull/82) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Add license and homepage to packages and ship LICENSE in archives](https://github.com/mapitman/mdview/pull/81) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Fill the man page version at build time and refresh docs](https://github.com/mapitman/mdview/pull/80) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Run formatting, vet and test checks in CI](https://github.com/mapitman/mdview/pull/79) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Clean up main.go and extend test coverage](https://github.com/mapitman/mdview/pull/78) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Improve error handling and the output file lifecycle](https://github.com/mapitman/mdview/pull/77) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Fix CLI argument handling and exit codes](https://github.com/mapitman/mdview/pull/76) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Harden local image reading](https://github.com/mapitman/mdview/pull/75) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
+- [Embed images by walking the AST instead of rewriting source](https://github.com/mapitman/mdview/pull/74) on [mapitman/mdview](https://github.com/mapitman/mdview) (today)
 
 #### 📜 My recent blog posts
 
