@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (6 days ago)
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (6 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (6 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 week ago)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 weeks ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (2 weeks ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (3 weeks ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.3), today) - Getty Images API SDK for Node.js
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.3), 1 day ago) - Getty Images API SDK for Node.js
 - [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 1 week ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.8.1](https://github.com/mapitman/mycasts-android/releases/tag/v0.8.1), 2 weeks ago) - A podcast listener for Android
-- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 1 month ago) - Convert markdown to HTML and launch it in a browser.
+- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 2 months ago) - Convert markdown to HTML and launch it in a browser.
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 months ago) - MyFeeds app for Android
 - [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 4 months ago) - Web service which provides the current &#34;Internet Time&#34;
 - [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 7 months ago) - 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Shorten README sentences and paragraphs to meet the style rules](https://github.com/mapitman/hollywood-directors-cut/pull/15) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (5 days ago)
-- [Move the snap to core24 and replace the unity7 plug](https://github.com/mapitman/mdview/pull/82) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Add license and homepage to packages and ship LICENSE in archives](https://github.com/mapitman/mdview/pull/81) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Fill the man page version at build time and refresh docs](https://github.com/mapitman/mdview/pull/80) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Run formatting, vet and test checks in CI](https://github.com/mapitman/mdview/pull/79) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Clean up main.go and extend test coverage](https://github.com/mapitman/mdview/pull/78) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Improve error handling and the output file lifecycle](https://github.com/mapitman/mdview/pull/77) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Fix CLI argument handling and exit codes](https://github.com/mapitman/mdview/pull/76) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Harden local image reading](https://github.com/mapitman/mdview/pull/75) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
-- [Embed images by walking the AST instead of rewriting source](https://github.com/mapitman/mdview/pull/74) on [mapitman/mdview](https://github.com/mapitman/mdview) (5 days ago)
+- [Shorten README sentences and paragraphs to meet the style rules](https://github.com/mapitman/hollywood-directors-cut/pull/15) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (6 days ago)
+- [Move the snap to core24 and replace the unity7 plug](https://github.com/mapitman/mdview/pull/82) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Add license and homepage to packages and ship LICENSE in archives](https://github.com/mapitman/mdview/pull/81) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Fill the man page version at build time and refresh docs](https://github.com/mapitman/mdview/pull/80) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Run formatting, vet and test checks in CI](https://github.com/mapitman/mdview/pull/79) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Clean up main.go and extend test coverage](https://github.com/mapitman/mdview/pull/78) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Improve error handling and the output file lifecycle](https://github.com/mapitman/mdview/pull/77) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Fix CLI argument handling and exit codes](https://github.com/mapitman/mdview/pull/76) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Harden local image reading](https://github.com/mapitman/mdview/pull/75) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
+- [Embed images by walking the AST instead of rewriting source](https://github.com/mapitman/mdview/pull/74) on [mapitman/mdview](https://github.com/mapitman/mdview) (6 days ago)
 
 #### 📜 My recent blog posts
 
