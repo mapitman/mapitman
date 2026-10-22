@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (today)
 - [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Clean up review leftovers: backup export errors, duplicate refresh code, timeouts (issue #305)](https://github.com/mapitman/mycasts-android/pull/313) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
@@ -50,7 +51,6 @@
 - [Stop download retries on permanent errors and validate resumed downloads (issue #301)](https://github.com/mapitman/mycasts-android/pull/309) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Cap untrusted input size and harden XML parsing (issue #300)](https://github.com/mapitman/mycasts-android/pull/308) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 - [Keep PodcastIndex credentials out of backups and define Auto Backup scope (issue #299)](https://github.com/mapitman/mycasts-android/pull/307) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
-- [Make backup restore and queue changes atomic and validated (issue #298)](https://github.com/mapitman/mycasts-android/pull/306) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 day ago)
 
 #### 📜 My recent blog posts
 
