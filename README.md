@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([7.0.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/7.0.0), today) - Getty Images API SDK for Node.js
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.9.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.9.0), today) - A podcast listener for Android
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.7.3](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.7.3), 3 days ago) - Getty Images API SDK for Node.js
 - [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 2 weeks ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 2 months ago) - Convert markdown to HTML and launch it in a browser.
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 months ago) - MyFeeds app for Android
