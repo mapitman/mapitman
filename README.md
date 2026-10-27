@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (4 days ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (5 days ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 week ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 week ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (2 weeks ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (3 weeks ago)
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 month ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([7.0.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/7.0.0), 4 days ago) - Getty Images API SDK for Node.js
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.9.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.9.0), 4 days ago) - A podcast listener for Android
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([7.0.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/7.0.0), 5 days ago) - Getty Images API SDK for Node.js
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.9.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.9.0), 5 days ago) - A podcast listener for Android
 - [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 2 weeks ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 2 months ago) - Convert markdown to HTML and launch it in a browser.
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 months ago) - MyFeeds app for Android
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (4 days ago)
-- [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Clean up review leftovers: backup export errors, duplicate refresh code, timeouts (issue #305)](https://github.com/mapitman/mycasts-android/pull/313) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Enable R8 on release builds and run Room migration tests in CI (issue #304)](https://github.com/mapitman/mycasts-android/pull/312) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Keep one Wear position DataItem per device (issue #303)](https://github.com/mapitman/mycasts-android/pull/311) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Reduce per-item queries and full-row reads in feed refresh (issue #302)](https://github.com/mapitman/mycasts-android/pull/310) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Stop download retries on permanent errors and validate resumed downloads (issue #301)](https://github.com/mapitman/mycasts-android/pull/309) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Cap untrusted input size and harden XML parsing (issue #300)](https://github.com/mapitman/mycasts-android/pull/308) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
-- [Keep PodcastIndex credentials out of backups and define Auto Backup scope (issue #299)](https://github.com/mapitman/mycasts-android/pull/307) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
+- [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (5 days ago)
+- [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Clean up review leftovers: backup export errors, duplicate refresh code, timeouts (issue #305)](https://github.com/mapitman/mycasts-android/pull/313) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Enable R8 on release builds and run Room migration tests in CI (issue #304)](https://github.com/mapitman/mycasts-android/pull/312) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Keep one Wear position DataItem per device (issue #303)](https://github.com/mapitman/mycasts-android/pull/311) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Reduce per-item queries and full-row reads in feed refresh (issue #302)](https://github.com/mapitman/mycasts-android/pull/310) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Stop download retries on permanent errors and validate resumed downloads (issue #301)](https://github.com/mapitman/mycasts-android/pull/309) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Cap untrusted input size and harden XML parsing (issue #300)](https://github.com/mapitman/mycasts-android/pull/308) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
+- [Keep PodcastIndex credentials out of backups and define Auto Backup scope (issue #299)](https://github.com/mapitman/mycasts-android/pull/307) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (6 days ago)
 
 #### 📜 My recent blog posts
 
