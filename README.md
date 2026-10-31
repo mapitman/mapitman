@@ -33,11 +33,11 @@
 - [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 3 weeks ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 2 months ago) - Convert markdown to HTML and launch it in a browser.
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 2 months ago) - MyFeeds app for Android
-- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 4 months ago) - Web service which provides the current &#34;Internet Time&#34;
-- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 7 months ago) - 
-- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 7 months ago) - Docker image for building netcore applications
-- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 7 months ago) - Convert Time to Internet Time in beats
-- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 7 months ago) - Docker image to build hugo websites
+- [mapitman/beats-service](https://github.com/mapitman/beats-service) ([v1.0.1](https://github.com/mapitman/beats-service/releases/tag/v1.0.1), 5 months ago) - Web service which provides the current &#34;Internet Time&#34;
+- [mapitman/beats](https://github.com/mapitman/beats) ([v1.0.0](https://github.com/mapitman/beats/releases/tag/v1.0.0), 8 months ago) - 
+- [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) ([v1.0.0](https://github.com/mapitman/netcore-builder/releases/tag/v1.0.0), 8 months ago) - Docker image for building netcore applications
+- [mapitman/internet-time](https://github.com/mapitman/internet-time) ([v1.0.0](https://github.com/mapitman/internet-time/releases/tag/v1.0.0), 8 months ago) - Convert Time to Internet Time in beats
+- [mapitman/docker-hugo](https://github.com/mapitman/docker-hugo) ([v1.0.0](https://github.com/mapitman/docker-hugo/releases/tag/v1.0.0), 8 months ago) - Docker image to build hugo websites
 
 #### 🔨 My recent Pull Requests
 
