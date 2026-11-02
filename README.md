@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (today)
 - [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (1 week ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (2 weeks ago)
 - [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (2 weeks ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 weeks ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (1 month ago)
-- [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 month ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 months ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (2 months ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Wrap the macOS program in an app bundle](https://github.com/mapitman/zoom-detector/pull/6) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (today)
 - [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
@@ -50,7 +51,6 @@
 - [Reduce per-item queries and full-row reads in feed refresh (issue #302)](https://github.com/mapitman/mycasts-android/pull/310) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Stop download retries on permanent errors and validate resumed downloads (issue #301)](https://github.com/mapitman/mycasts-android/pull/309) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 - [Cap untrusted input size and harden XML parsing (issue #300)](https://github.com/mapitman/mycasts-android/pull/308) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
-- [Keep PodcastIndex credentials out of backups and define Auto Backup scope (issue #299)](https://github.com/mapitman/mycasts-android/pull/307) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (1 week ago)
 
 #### 📜 My recent blog posts
 
