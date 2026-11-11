@@ -43,14 +43,14 @@
 
 - [Wrap the macOS program in an app bundle](https://github.com/mapitman/zoom-detector/pull/6) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
 - [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Clean up review leftovers: backup export errors, duplicate refresh code, timeouts (issue #305)](https://github.com/mapitman/mycasts-android/pull/313) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Enable R8 on release builds and run Room migration tests in CI (issue #304)](https://github.com/mapitman/mycasts-android/pull/312) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Keep one Wear position DataItem per device (issue #303)](https://github.com/mapitman/mycasts-android/pull/311) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Reduce per-item queries and full-row reads in feed refresh (issue #302)](https://github.com/mapitman/mycasts-android/pull/310) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Stop download retries on permanent errors and validate resumed downloads (issue #301)](https://github.com/mapitman/mycasts-android/pull/309) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
-- [Cap untrusted input size and harden XML parsing (issue #300)](https://github.com/mapitman/mycasts-android/pull/308) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
+- [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Clean up review leftovers: backup export errors, duplicate refresh code, timeouts (issue #305)](https://github.com/mapitman/mycasts-android/pull/313) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Enable R8 on release builds and run Room migration tests in CI (issue #304)](https://github.com/mapitman/mycasts-android/pull/312) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Keep one Wear position DataItem per device (issue #303)](https://github.com/mapitman/mycasts-android/pull/311) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Reduce per-item queries and full-row reads in feed refresh (issue #302)](https://github.com/mapitman/mycasts-android/pull/310) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Stop download retries on permanent errors and validate resumed downloads (issue #301)](https://github.com/mapitman/mycasts-android/pull/309) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
+- [Cap untrusted input size and harden XML parsing (issue #300)](https://github.com/mapitman/mycasts-android/pull/308) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
