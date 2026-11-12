@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker. (1 week ago)
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (2 weeks ago)
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) - A podcast listener for Android (3 weeks ago)
 - [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (3 weeks ago)
-- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (4 weeks ago)
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (4 weeks ago)
+- [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34; (1 month ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 month ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (1 month ago)
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) - MyFeeds app for Android (2 months ago)
 - [mapitman/disable-thru](https://github.com/mapitman/disable-thru) - Keep the Thru setting switched off on a USB audio input device across restarts and replugs on macOS (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([7.0.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/7.0.0), 2 weeks ago) - Getty Images API SDK for Node.js
-- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.9.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.9.0), 2 weeks ago) - A podcast listener for Android
+- [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([7.0.0](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/7.0.0), 3 weeks ago) - Getty Images API SDK for Node.js
+- [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) ([v0.9.0](https://github.com/mapitman/mycasts-android/releases/tag/v0.9.0), 3 weeks ago) - A podcast listener for Android
 - [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) ([v2.2.1](https://github.com/mapitman/hollywood-directors-cut/releases/tag/v2.2.1), 1 month ago) - Hollywood in a Docker Container - &#34;It&#39;s a UNIX system!&#34;
 - [mapitman/mdview](https://github.com/mapitman/mdview) ([1.9.0](https://github.com/mapitman/mdview/releases/tag/1.9.0), 2 months ago) - Convert markdown to HTML and launch it in a browser.
 - [mapitman/myfeeds-android](https://github.com/mapitman/myfeeds-android) ([v0.2.0](https://github.com/mapitman/myfeeds-android/releases/tag/v0.2.0), 3 months ago) - MyFeeds app for Android
@@ -42,7 +42,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Wrap the macOS program in an app bundle](https://github.com/mapitman/zoom-detector/pull/6) on [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) (1 week ago)
-- [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (2 weeks ago)
+- [Clear stale download records on launch (issue #316)](https://github.com/mapitman/mycasts-android/pull/317) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 - [Describe the three Gradle modules and current tooling in the technical design doc](https://github.com/mapitman/mycasts-android/pull/315) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 - [Remove unused app/schemas directory](https://github.com/mapitman/mycasts-android/pull/314) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
 - [Clean up review leftovers: backup export errors, duplicate refresh code, timeouts (issue #305)](https://github.com/mapitman/mycasts-android/pull/313) on [mapitman/mycasts-android](https://github.com/mapitman/mycasts-android) (3 weeks ago)
