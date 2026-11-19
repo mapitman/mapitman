@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add lolcat and tty-clock widgets](https://github.com/mapitman/hollywood-directors-cut/pull/23) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
+- [Replace screensaver widgets with hacker-style widgets](https://github.com/mapitman/hollywood-directors-cut/pull/23) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (1 day ago)
 - [Update the README for the new widgets and the build cache](https://github.com/mapitman/hollywood-directors-cut/pull/22) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (6 days ago)
 - [Add pipes, cbonsai and nyancat widgets](https://github.com/mapitman/hollywood-directors-cut/pull/21) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (6 days ago)
 - [Add mtr, cacafire and nms widgets, remove figlet widget, add AGENTS.md](https://github.com/mapitman/hollywood-directors-cut/pull/20) on [mapitman/hollywood-directors-cut](https://github.com/mapitman/hollywood-directors-cut) (6 days ago)
